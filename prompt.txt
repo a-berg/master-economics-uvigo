@@ -1,0 +1,17 @@
+Voy a comenzar un Master en Economia por la Unversidad de Vigo. La asignatura:
+"{{NAME}}"" tiene la siguiente bibliografia
+basica y complementaria:
+
+{{BIBLIO}}
+
+La asignatura contiene la siguiente tabla de contenidos:
+
+{{TOC}}
+
+Los docentes son:
+
+{{DOC}}
+
+En base a toda esta información, y sin haber leído la bibliografía mencionada,
+uedes darme unas lecciones sobre el tema para alguien que sabe de matematicas,
+ingenieria e IA pero nada de economia?

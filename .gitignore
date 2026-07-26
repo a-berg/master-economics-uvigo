@@ -1,0 +1,87 @@
+# ==========================================
+# 1. SISTEMAS Y EDITORES
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code / IDEs
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# 2. TYPT - OUTPUTS
+# ==========================================
+# Ignoramos todos los PDFs (generados por Typst o descargados)
+*.pdf
+
+# ==========================================
+# 3. DATOS (Economía y Econometría)
+# ==========================================
+# Ignoramos datos crudos y procesados. 
+# En economía estos archivos suelen ser pesados o contener datos con copyright.
+*.csv
+*.xlsx
+*.xls
+*.dta    # Ficheros de Stata (muy comunes en el máster)
+*.sav    # Ficheros de SPSS
+*.rds
+*.rdata
+*.RData
+*.parquet
+*.feather
+*.zip
+*.tar.gz
+
+# ==========================================
+# 4. GRÁFICOS GENERADOS (R / Julia)
+# ==========================================
+# Ignoramos las imágenes generadas por tus scripts al ejecutarlos
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+
+# --- EXCEPCIONES DE IMÁGENES ---
+# Permitimos guardar logos, iconos o diagramas estáticos en las carpetas de recursos
+!03_recursos_comunes/**/*.png
+!03_recursos_comunes/**/*.svg
+!02_tfm/05_recursos/**/*.png
+!02_tfm/05_recursos/**/*.svg
+
+# ==========================================
+# 5. JULIA
+# ==========================================
+# Entornos y cachés de Julia (no deben ir al repo)
+.julia/
+# Ignoramos el Manifest.toml porque es específico del SO y cambia mucho.
+# Si quisieras reproducibilidad exacta, borra esta línea.
+Manifest.toml 
+*.jl.cov
+*.jl.mem
+
+# ==========================================
+# 6. R
+# ==========================================
+# Historiales y entornos de R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rout
+# Si decides usar el paquete 'renv' para gestión de dependencias en R
+renv/library/
+renv/staging/
+renv/sandbox/
+
+# ==========================================
+# 7. NUSHELL (Opcional)
+# ==========================================
+# Si creas plugins de nushell en el futuro
+nu-plugin-*.sig

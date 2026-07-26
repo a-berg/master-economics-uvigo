@@ -1,0 +1,365 @@
+asignaturas:
+  - nombre: "Pensamiento Económico e Instituciones"
+    referencias:
+      basica:
+        - "Acemoglu, D. (2009). Introduction to modern economic growth, Princeton University Press."
+        - "Del Río, F. (2014). Os piares institucionais da prosperidade, European Liberal Forum Asbl."
+        - "Parente, S. L., & Prescott, E. C. (2002). Barriers to riches. MIT press."
+        - "Weil, D. N. (2006). Crecimiento Económico. Pearson Educación."
+      complementaria:
+        - "North, D. C. (1990). Institutions, Institutional Change, and Economic Performance. New York: Cambridge University Press."
+        - "North, D. C. (1991). Institutions. Journal of economic perspectives, 5(1), 97-112."
+        - "North, D. C. (2003). The role of institutions in economic development. Discussion Paper Series Nº 2003.2. United Nations Economic Commission for Europe."
+    docentes:
+      - "Manuel Fernández Grela"
+    toc: |
+      Tema 1) Desarrollo económico: las cuestiones.
+      a. Diferencias de renta per cápita entre países.
+      b. Renta y Bienestar.
+      c. Crecimiento económico y diferencias de renta.
+      d. Los orígenes de las diferencias modernas en la renta per cápita y el crecimiento económico moderno.
+      e. Convergencia condicional
+      f. Correlaciones del crecimiento económico
+      g. De las correlaciones a las causas fundamentales
+      Tema 2) Determinantes próximos: el modelo de Solow
+      a. La acumulación de capital
+      b. La tecnología y el crecimiento.
+      c. La convergencia.
+      d. El capital humano.
+      e. Contabilidad del crecimiento
+      Tema 3) Determinantes fundamentales: las instituciones.
+      a. Causas próximas versus causas fundamentales.
+      b. Economías de escala, población, tecnología y crecimiento económico.
+      c. Las cuatro causas fundamentales.
+      d. Los efectos de las instituciones sobre el crecimiento económico.
+      e. ¿Qué son las instituciones y cuáles importan?
+      f. Economía política de las instituciones: una primera aproximación
+      g. Comprendiendo la evolución institucional endógena.
+      Tema 4) La influencia de las instituciones en la eficiencia.
+      a. Diferencia de eficiencia: algunos ejemplos.
+      i. La planificación central en la Unión Soviética
+      ii. La industria textil en 1910.
+      iii. Diferencias internacionales de productividad por industrias.
+      iv. La minería subterránea en los Estados Unidos.
+      b. Tipos de ineficiencias.
+      i. Actividades improductivas.
+      ii. Recursos inutilizados.
+      iii. Mala asignación sectorial de los factores productivos.
+      iv. Bloqueo de la tecnología.
+      c. Apertura y eficiencia
+      i. ¿Por qué Eurasia y no América o Australia?
+      ii. La globalización: hechos y causas.
+      iii. Oposición a la apertura: la antiglobalización
+      iv. Apertura, renta per cápita y crecimiento económico
+      1. Japón.
+      2. Irlanda: el tigre celta.
+      3. La Gran Depresión.
+      v. La apertura y la ventaja comparativa
+      vi. Apertura y progreso tecnológio.
+      vii. Apertura y competencia
+      Tema 5) Las instituciones formales y el Estado.
+      a. El papel del Estado en la economía: argumentos a favor y en contra de la intervención.
+      b. El Estado y las instituciones que importan.
+      i. La buena gobernanza: el imperio de la ley y otros atributos.
+      ii. Impuestos, eficiencia y dimensiones del Estado.
+      iii. La planificación y otras políticas industriales.
+      iv. La otra senda
+      v. La planificación no siempre es un fracaso.
+      c. Por qué los gobiernos adoptan políticas perjudiciales para el crecimiento
+      i. Algún otro objetivo.
+      ii. Corrupción y cleptocracia.
+      iii. El instinto de supervivencia.
+      iv. La regulación pública: ¿Mano benefactora o mano depredadora?
+      d. Por qué los países pobres tienen malos gobiernos.
+      i. La renta y la gobernanza: ida y vuelta.
+      ii. Democracia y crecimiento económico
+      Tema 6) Las instituciones informales: la cultura.
+      a. Influencia de la cultura en el crecimiento económico.
+      i. Apertura a la nuevas ideas.
+      ii. El esfuerzo.
+      iii. Ahorrar para el futuro.
+      iv. La confianza.
+      v. El capital social
+      vi. La capacidad social.
+      vii. Problemas con las explicaciones culturales.
+      b. ¿Qué determina la cultura?
+      i. El clima y los recursos naturales.
+      ii. Homogeneidad cultural y capital social.
+      iii. Densidad de población y capacidad social
+      c. El cambio cultural.
+      i. Crecimiento económico y cambio cultural.
+      ii. La política del gobierno y el cambio cultural.
+      Tema 7) Otros determinantes fundamentales.*(opcional)
+      a. La geografía
+      i. La localización, el comercio y el crecimiento.
+      ii. Concentración geográfica y efectos difusión.
+      iii. Influencia de la geografía en el tipo de gobierno.
+      b. El clima
+      i. El clima y la productividad agrícola.
+      ii. Clima y enfermedades.
+      iii. Clima y esfuerzo humano.
+      c. Los recursos naturales.
+      i. La relación entre los recursos naturales y el crecimiento
+      ii. Explicaciónes de la maldición de los recursos naturales.
+      iii. Los recursos y los comienzos del desarrollo industrial: el caso del carbón.
+      d. La desigualdad
+      i. La desigualdad de la renta: los hechos.
+      ii. Causas de la desigualdad de la renta.
+      iii. Explicaciones del aumento reciente en la desigualdad de la renta.
+      iv. Influencia de la desigualdad de la renta en el crecimiento económico.
+      v. Más allá de la distribución de la renta: la movilidad económica.
+      Tema 8) Algo de historia: por qué algunos lo lograron y otros no.
+      a. Por qué Gran Bretaña antes que Europa Continental.
+      b. Por qué no fue primero China.
+      c. Por qué los Estados Unidos y Suiza lo hicieron tan bien.
+      d. Por qué Japón experimentó su milagro de desarrollo.
+      Tema 9) Reformas institucionales y desarrollo
+      a. Competencia, libre comercio y privatización.
+
+  - nombre: "Análisis de decisiones económicas y mercados"
+    docentes:
+      - Laura Varela Candamio (UDC)
+      - Miguel Pérez-Nievas Montiel (USC)
+      - Eduardo L.Giménez (UVigo)
+    referencias:
+      parte_i:
+        - "Frank, Robert (2001) Microeconomía y Conducta. McGraw-Hill."
+        - "Varian, H (2010). Microeconomía intermedia. Antoni Bosch."
+        - "Pindyck, RS., Rubinfeld, DL (2013) Microeconomía. Prentice Hall."
+      parte_ii:
+        - "Stiglitz, Joseph (2000) Economía del Sector público. Antoni Bosch."
+        - "Antelo, M (2015) Economía de la información. McGraw-Hill."
+        - "Goolsbee, A., Levitt, S., Syverson, C (2015) Microeconomía. Reverté."
+        - "Gravelle, H., Rees, R (2004) Microeconomía. Pearson Prentice Hall."
+    toc: |
+      Parte I. Herramientas básicas
+      1. Que estudian os Economistas?
+      2. Como piensan os economistas?
+      La regla de decisión racional
+      3. ¿Cómo se ponen de acuerdo compradores e vendedores en un mercado?
+      Equilibrio de un Mercado y Bienestar
+      a. Excedente del Consumidor
+      b. Excedente del Productor
+      4. ¿Qué se intercambia en un mercado?
+      El concepto de mercancía
+      5. ¿Cómo decide un Consumidor?
+      La decisión do consumidor,
+      a. La curva de demanda individual
+      b. La curva de demanda mercado.
+      6. ¿Cómo decide una Empresa/un Empresario?
+      I. Tecnología y costes
+      7. ¿Cómo decide una Empresa/un Empresario?
+      II. La decisión da empresa en competencia perfecta,
+      a. La curva de oferta individual
+      b. La curva de oferta de mercado.
+      8. ¿Cómo se ponen de acuerdo compradores y vendedores en todos los mercados?
+      Equilibrio General de Mercados y Bien-estar
+      a. Eficiencia en sentido de Pareto
+      b. Primer Teorema del Bienestar
+      9. ¿Cómo se ponen de acuerdo consumidores y empresas en todos los mercados?
+      Equilibrio General de Mercados con Producción
+      a. Frontera de Posibilidades de Producción
+      Parte II. Fallos de Mercado
+      1. Externalidades, Bienes Públicos y Poder de Mercado
+      2. Asimetrías de información
+      3. Políticas Públicas: Intervención Estatal y Gobierno 
+
+  - nombre: "Métodos cuantitativos"
+    docentes:
+      - José Benito Pérez Lopez
+      - Maria Luisa Chas Amil
+      - Manuel Alberto Gómez Suárez
+      - Xesús Pereira López
+      - Francisco Javier García Cutrín
+      - Xesús Pereira López
+    referencias:
+      general:
+        - "Adams, R. (2009). Cálculo. Pearson."
+        - "Barro, R., Sala-i-Martin, X. (2004). Economic Growth. (Anexo matemático). MIT Press."
+        - "Cerdá, E. (2011). Optimización Dinámica. Garceta."
+        - "Dalgaard, P. (2002). Introductory Statistics with R. Springer."
+        - "García Pérez, A. (2009). Estadística Aplicada con R. UNED."
+        - "Kamien, M., Schwartz, N. (2012). Dynamic Optimization, Second Edition: The Calculus of Variations and Optimal Control in Economics and Management. Dover Publications, Inc."
+        - "Ruiz-Maya Pérez, L., Martín Pliego, F.J. (2005). Fundamentos de Inferencia Estadística. Ed. Thomson."
+        - "Sydsaeter, K., Hammond, P. Seierstad, A., Strom, A. (2008). Further Mathematics for Economic Analysis. Prentice-Hall."
+        - "Wasserman, L. (2003). All of Statistics. A Concise Course in Statistical Inference. Springer."
+    toc: |
+      1. Convexidade e optimización
+      1.1. Autovalores, autovectores, diagonalización de matrices.
+      1.2. Conxuntos e funcións convexas.
+      1.3. Convexidade e diferenciabilidade.
+      1.4. Optimización con restriccións de igualdade.
+      1.5. Optimización con restriccións de desigualdade.
+
+      2. Ecuacións diferenciais
+      2.1. Concepto de ecuación diferencial.
+      2.2. Ecuacións diferenciais de orde 1.
+      2.3. Sistemas de ecuacións diferenciais.
+      2.4. Equilibrio, estabilidade, diagrama de fases.
+
+      3. Optimización dinámica
+      3.1. Presentación do problema.
+      3.2. Condicións de primera orde.
+      3.3. Condición de transversalidade.
+      3.4. Condición suficiente.
+      3.5. Horizonte infinito.
+
+      4. Análise de datos con R
+      4.1. Introdución a R.
+      4.2. Preparación dos datos.
+      4.3. Análise exploratoria de datos.
+
+
+      5. Variables aleatorias e estimación de parámetros
+      5.1. Tipos de variables aleatorias, caracterización, exemplos notables.
+      5.2. Simulación de variables aleatorias.
+      5.3. Estimación de parámetros.
+      5.4. Propiedades dos estimadores.
+
+
+      6. Inferencia estatística: intervalos de confianza e contrastes de hipóteses
+      6.1. Métodos de obtención de intervalos de confianza (método pivotal, métodos bootstrap).
+      6.2. Elementos dun contraste de hipóteses.
+      6.3. Contrastes clásicos no contexto paramétrico.
+      6.4. Contrastes non paramétricos.
+      6.5. Contrastes de bondade de axuste. 
+  - nombre: "Análisis de coyuntura económica y crecimiento"
+    docentes:
+      - Agustín Pérez-Barahona
+      - Eduardo L.Giménez
+      - Francisco Xavier Lores Insua
+      - Fernando Del Río Iglesias
+    referencias:
+      basica:
+        - "Blanchard, O (2017). Macroeconomía. Pearson Prentice Hall."
+        - "Romer, D. (2006). Macroeconomía Avanzada, 3º Ed. McGraw-Hill."
+        - "Sorensen, P. e H. Jacobsen (2008). Introducción a la macroeconomía avanzada. McGraw-Hill."
+        - "Blanchard, O.J. e S. Fisher (1989). Lectures on Macroeconomics. MIT Press."
+      complementaria:
+        - "Blanchard, Amighini y Giavazzi. Macroeconomía. Pearson."
+        - "Banco de España, Funcas, Fedea. Informes de Coyuntura."
+        - "Mankiw. Macroeconomía. Antoni Bosch."
+        - "Barro, R. y X. Sala-i-Martín (2003). Economic Growth. McGraw-Hill."
+        - "Jones, Charles I (2000). Introducción ao crecemento económico. Pearson Educación."
+        - "Helpman, E. (2007). El misterio del crecimiento económico. Antoni Bosch, Barcelona."
+        - "Weil, D.N. (2007). Crecimiento económico. Pearson, Madrid."
+    toc: |
+      1.- Introducción al Análisis de Coyuntura Económica
+      1.1. Coyuntura
+      1.2. Estructura
+      2.- La actividad económica
+      2.1. Los agregados económicos y los problemas macroeconómicos
+      3.- Crecimiento a largo plazo
+      3.1. El modelo de Solow
+      4.- Análise dos ciclos económicos
+      3.1. Descomposición ciclo-tendencia
+      3.2. Los indicadores económicos
+      3.2.1. Indicadores económicos coincidentes
+      3.2.2. Indicadores económicos adelantados
+      3.2.3. Indicadores económicos retardados
+      3.3. Caracterización de los ciclos económicos
+      5.- Deuda Pública
+      5.1. Análisis y sostenibilidad de la deuda pública
+
+  - nombre: "Técnicas de investigación"
+    docentes:
+      - Manuel Fernández Grela
+    referencias:
+      basica:
+        - "Fatás, E., J. M. Roig (2004). Una introducción a la economía experimental en economía. Cuadernos de Economia, vol 27, pg. 007-036."
+        - "Gordo Á. J. y Serrano, A. (coords.) (2008). Estrategias y prácticas cualitativas de investigación social. Madrid: Pearson."
+        - "Hernández Blázquez, B. (2001). Técnicas estadísticas de investigación social. Madrid: Díaz de Santos."
+        - "Jimenez, N. (2017). Experimentos Económicos en el Mercado Laboral. Economía Industrial, 403."
+        - "Marqués, F. (2015). Técnicas de investigación de mercados. San Fernando de Henares (Madrid): RC Libros."
+        - "Rabadán Anta, R. (2003). Técnicas cualitativas para investigación de mercados. Madrid: Pirámide."
+        - "Sarabia Sánchez, F. J. (coordinador) (2013). Métodos de investigación social y de la empresa. Madrid: Pirámide."
+        - "Vázquez, Xosé H. (2018). The poetry of intriguing ideas, logical arguments and rigorous methods in management. BRQ Business Research Quarterly, 21 (1), pages 1-10."
+      complementaria:
+        - "Berk, J. B., Harvey, C. R., & Hirshleifer, D. (2017). How to write an effective referee report and improve the scientific review process. Journal of Economic Perspectives, 31(1), 231-44."
+        - "Blog 'Nada es Gratis', entradas disponibles en http://nadaesgratis.es/tag/economia-experimental"
+        - "Welch, C., & Piekkari, R. (2017). How should we (not) judge the ‘quality’of qualitative research? A re-assessment of current evaluative criteria in International Business. Journal of World Business, 52(5), 714-725."
+    toc: |
+      T1: Planificación del estudio de investigación
+      1.1 Definición del problema
+      1.2 Diseño metodológico de la investigación
+      1.3 Estructura del trabajo
+      T2: búsqueda y preparación de información
+      2.1 Fuentes primarias y secundarias
+      2.2 Diseño de cuestionarios y experimentos
+      2.3 Muestreo y tratamientos
+      2.4 Análisis y depuración de datos
+      T3: Metodologías para el análisis
+      3.1 Técnicas de análisis cualitativo
+      3.2 Técnicas de análisis cuantitativo
+      T4: Presentación de un informe final
+      4.1 Análisis de los resultados
+      4.2 Discusión de implicaciones
+      4.3 Resumen ejecutivo / conclusiones
+  - nombre: "Técnicas econométricas"
+    docentes:
+      - Estefanía Mourelle Espasandín
+      - Xosé Antón Rodríguez Gonzalez
+      - Carmen López Andión
+      - María del Carmen López Andion
+    referencias:
+      basica:
+        - "Dougherty, C. (2011). Introduction to Econometrics, Fourth edition. Oxford University Press."
+        - "Greene, W. H. (1998). Análisis econométrico. 3ª Ed. Prentice Hall."
+        - "Hill, R. C.; Griffiths, W. E.; Lim, G. C. (2012). Principles of Econometrics, Fourth edition. John Wiley & Sons, Inc."
+        - "Verbeek, M. (2012). A Guide to Modern Econometrics, Fourth edition. John Wiley & Sons, Ltd."
+      complementaria:
+        - "Charemza, W. W.; Deadman, D. F. (1997). New Directions in econometric practice. Aldershot: Edward Elgar."
+        - "Enders, W. (1995). Applied Econometric Time Series. New York: John Wiley & Sons."
+        - "Franses, P.H.; Van Dijk, D (2000). Non-linear Time Series Models in Empirical Finance. Cambridge University Press."
+        - "Johnston, J.; Dinardo, J. (1997). Econometric methods. Singapur: McGraw-Hill."
+        - "Peña, D. (2005). Análisis de series temporales. Alianza Editorial."
+        - "Pesaran, M. H. (2015). Time Series and Panel Data Econometrics. Oxford University Press."
+        - "Wooldridge, J. M. (2006). Introducción a la econometría. Un enfoque moderno. Thomson."
+    toc: |
+      Tema 1.- Modelos lineales y no lineales
+      1.1. Linealidad y no linealidad
+      1.2. Transformación de las variables
+      1.3. Modelos con variables de interacción
+      1.4. Regresión no lineal
+
+      Tema 2.- Problemas de especificación y problemas de datos
+      2.1. Especificación del modelo.
+      2.2. El problema de los datos
+      2.3. Efectos de la omisión e inclusión de variables
+      2.4. Contrastes de especificación
+
+      Tema 3.- El efecto del tiempo en los modelos econométricos
+      3.1.Modelos de series de tempo univariantes
+      3.2. Regresión con series de tiempo: variables estacionarias
+      3.3 Regresión con variables no estacionarias. Cointegración y regresiones espurias
+      3.4. Modelos VAR
+
+      Tema 4.- Modelos heterocedásticos. Evaluando el riesgo.
+      4.1. Introducción.
+      4.2. Modelos GARCH univariantes.
+
+      Tema 5.- Regresores estocásticos: métodos de estimación de los momentos y variables instrumentales
+      5.1. Modelos con regresores estocásticos
+      5.2.Variables instrumentales
+      5.3.Método generalizado de los momentos
+
+      Tema 6.- Manejo de distintos paquetes econométricos 
+  - nombre: "Comportamiento Estratégico"
+    docentes:
+      - Manel Antelo Suárez
+  - nombre: "Econometría Avanzada"
+    docentes:
+      - Emma Maria Iglesias Vázquez
+  - nombre: "Macroeconomía Avanzada"
+    docentes:
+      - Luis Currais Nunes
+  - nombre: "Microeconomía Avanzada"
+    docentes:
+      - Aitor Calo Blanco
+  - nombre: "Técnicas Avanzadas para el Análisis de Datos"
+    docentes:
+      - Ana López Cheda
+      - Manuel Oviedo de la Fuente
+  - nombre: "Temas Avanzados en Teoría Económica"
+    docentes:
+      - Melchor Fernández Fernández
