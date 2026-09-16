@@ -1,0 +1,12 @@
+[package]
+name = "homework_template"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Adrián Berges Enfedaque"]
+license = "All Rights Reserved"
+description = "Plantilla de ejercicio para el máster en economía."
+
+
+[template]
+path = "template"
+entrypoint = "main.typ"
