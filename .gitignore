@@ -37,6 +37,7 @@ desktop.ini
 *.feather
 *.zip
 *.tar.gz
+*.wf1
 
 # ==========================================
 # 4. GRÁFICOS GENERADOS (R / Julia)
