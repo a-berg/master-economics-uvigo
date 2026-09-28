@@ -1,10 +1,9 @@
-#import "@local/homework_template:0.1.0": *
+#import "@local/master-uvigo-templates:0.1.0": homework_econ
 #import "@preview/lilaq:0.6.0" as lq
 
 #show: homework_econ.with(
   course: [Análisis de Decisiones Económicas y Mercados],
   title: [Construyendo curvas agregadas],
-  pdf_title: "AnDec_entrega_2a",
 )
 
 #show: lq.set-diagram(

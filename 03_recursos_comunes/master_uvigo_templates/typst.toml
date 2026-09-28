@@ -1,0 +1,13 @@
+[package]
+name = "master-uvigo-templates"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Adrián Berges Enfedaque"]
+license = "All Rights Reserved"
+description = "Plantillas  para el máster en economía."
+
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+

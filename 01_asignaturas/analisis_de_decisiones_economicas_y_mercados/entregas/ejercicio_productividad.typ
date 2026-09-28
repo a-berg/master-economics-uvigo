@@ -1,9 +1,8 @@
-#import "@local/homework_template:0.1.0": *
+#import "@local/master-uvigo-templates:0.1.0": homework_econ
 
 #show: homework_econ.with(
   course: [Análisis de Decisiones Económicas y Mercados],
   title: [Regla de decisión racional y productividad],
-  pdf_title: "AnDec_entrega_1",
   heading-numbering: "P1.i)",
 )
 

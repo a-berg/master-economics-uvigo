@@ -1,0 +1,6 @@
+[project]
+name = "supuesto-1-3-salarios"
+version = "0.1.0"
+description = "Estimación MCO de los modelos salariales del supuesto 1.3"
+requires-python = ">=3.12,<3.15"
+dependencies = ["numpy>=2.0", "pandas>=2.2", "statsmodels>=0.14.4"]
