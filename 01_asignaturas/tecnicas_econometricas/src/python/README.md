@@ -16,3 +16,7 @@ y guarda en `../../datos/`:
 Se usan errores estándar convencionales y la misma muestra en ambos modelos.
 Los valores ausentes, no numéricos, infinitos o salarios no positivos generan
 un error explícito. El CSV original se conserva sin modificaciones.
+
+El apartado 4 usa Box-Cox con verosimilitud de regresión y jacobiano,
+contrastes de razón de verosimilitudes y AIC comparables en la escala original.
+SciPy se utiliza para optimización, intervalos y probabilidades de los contrastes.

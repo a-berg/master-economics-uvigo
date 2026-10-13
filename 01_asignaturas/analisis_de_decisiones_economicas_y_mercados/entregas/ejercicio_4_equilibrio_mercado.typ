@@ -1,4 +1,4 @@
-#import "@local/master-uvigo-templates:0.1.0": homework_econ
+#import "@local/master-uvigo-templates:0.1.0": font_sizes, homework_econ
 #import "@preview/lilaq:0.6.0" as lq
 #import "@preview/tiptoe:0.4.0"
 
@@ -6,6 +6,7 @@
   course: [Análisis de Decisiones Económicas y Mercados],
   title: [Calculando el equilibrio de mercado],
   heading-numbering: "1.a.1",
+  author: ("Adrián Berges Enfedaque", "Milagros Rey Juncal", "Larissa Parrado Arduino"),
 )
 #show quote.where(block: true): it => emph(it)
 #set text(lang: "es")
@@ -39,12 +40,24 @@
   )
 }
 
+// Un punto y su rótulo. Las coordenadas siguen el orden (Q, P).
+#let equilibrio(q, p, nombre) = (
+  lq.scatter((q,), (p,), color: black, mark: "o"),
+  lq.place(q, p, align: left, pad(0.7em)[$#nombre$]),
+)
+
 #let enunciado(content) = {
   set text(style: "italic")
   block(fill: luma(200), inset: 8pt, radius: 4pt, stroke: 1pt)[#content]
 }
 
 #let x = lq.linspace(0, 21)
+
+#align(center, block(width: 80%, align(center)[
+  #set text(size: font_sizes.footnotesize)
+  *Aviso de autoría*: en el transcurso del trabajo se ha usado GPT-6 Sol Light.
+  Su rol ha sido de guía para las dudas y ayuda en formatos o gráficas.
+]))
 
 = Construcción del agregado a partir de las decisiones individuales, y cálculo del equilibrio de mercado.
 #set enum(numbering: "i)")
@@ -77,8 +90,8 @@ de mercado agregada tenemos que obtener los ceros de las demandas individuales,
 que marcan los puntos de transición:
 
 $
-  q^i > 0 & <=> p < 10, \
-  q^h > 0 & <=> 4p < 20 <=> p < 5
+  q^i >= 0 & <=> p <= 10, \
+  q^h >= 0 & <=> 4p <= 20 <=> p <= 5
 $
 
 Es decir, para $p in [0, 5)$ tendremos $q^i > 0 #sym.and q^h > 0$, mientras que con
@@ -86,40 +99,32 @@ $p in [5, 10)$ será $q^i > 0 #sym.and q^h < 0$. Por tanto:
 
 $
   D(p) = cases(
-    q^i + q^h & "si" 0 <= p < 5,
+    q^i + q^h & "si" 0 <= p <= 5,
     q^i & "si" 5 <= p < 10,
     0 & "si" p >= 10,
   ) = cases(
-    30 - 5p & "si" 0 <= p < 5,
+    30 - 5p & "si" 0 <= p <= 5,
     10 - p & "si" 5 <= p < 10,
     0 & "si" p >= 10,
   ).
 $ <eq:Dp>
 
-La representación gráfica de cada una de las curvas se puede ver en
-// @fig:curvas-agregada-ejercicio-1.
+La representación gráfica de cada una de las curvas se puede ver en la
+@fig:curvas-demanda-ejercicio-1.
 
 #{
   show: lq.layout
 
-  figure(
+  [#figure(
     grid(
       columns: 3,
-      lq.diagram(legend: (position: top + left), plot_dscurve(x, consumer-i, $q^i (p)$)),
-      lq.diagram(legend: (position: top + left), plot_dscurve(x, consumer-h, $q^h (p)$)),
-      lq.diagram(legend: (position: top + left), plot_dscurve(x, p => consumer-i(p) + consumer-h(p), $D(p)$)),
+      lq.diagram(legend: (position: top + left), plot_dscurve(x, consumer-i, $q^i (p)$), ..equilibrio(6, 4, $(4,6)$)),
+      lq.diagram(legend: (position: top + left), plot_dscurve(x, consumer-h, $q^h (p)$), ..equilibrio(4, 4, $(4,4)$)),
+      lq.diagram(legend: (position: top + left), plot_dscurve(x, p => consumer-i(p) + consumer-h(p), $D(p)$), ..equilibrio(10, 4, $(4,10)$)),
     ),
-    caption: "Curvas de demanda individuales y agregada.",
-  )
-} <fig:curvas-agregada-ejercicio-1>
-
-// #lq.diagram(
-//   title: [Curvas de demanda],
-//   // xlim: (auto, 35),
-//   plot_dscurve(x, producer-j, $q^j (p)$),
-//   plot_dscurve(x, producer-k, $q^k (p)$),
-//   plot_dscurve(x, p => producer-j(p) + producer-k(p), $S (p)$),
-// )
+    caption: [Curvas de demanda individuales y agregada. También se marca el punto $(p, Q)$ para $p=4$.],
+  ) <fig:curvas-demanda-ejercicio-1>]
+}
 
 == Construcción de la curvas de oferta de mercado.
 
@@ -144,38 +149,40 @@ El razonamiento es exactamente igual que en el caso anterior. Los precios que
 marcan el cambio de régimen son:
 
 $
-  q^j > 0 & <=> p > 2, \
-  q^k > 0 & <=> p > 0
+  q^j >= 0 & <=> p >= 2, \
+  q^k >= 0 & <=> p >= 0
 $
 
 y por tanto la curva de oferta agregada es:
 
 $
   O(p) = cases(
-    q^j + q^k & "si" p > 2,
-    q^k & "si" 0<p<=2,
+    q^j + q^k & "si" p >= 2,
+    q^k & "si" 0<=p<=2,
     0 & "en otro caso",
   ) = cases(
-    3p - 2 & "si" p > 2,
-    2p & "si" 0<p<=2,
+    3p - 2 & "si" p >= 2,
+    2p & "si" 0<=p<=2,
     0 & "en otro caso",
   ).
 $ <eq:Op>
 
-La representación gráfica de cada una de las curvas se puede ver en
+La representación gráfica de cada una de las curvas se puede ver en la
+@fig:curvas-oferta-ejercicio-1.
+
 #{
   show: lq.layout
 
-  figure(
+  [#figure(
     grid(
       columns: 3,
-      lq.diagram(legend: (position: top + left), plot_dscurve(x, producer-j, $o^j (p)$)),
-      lq.diagram(legend: (position: top + left), plot_dscurve(x, producer-k, $o^k (p)$)),
-      lq.diagram(legend: (position: top + left), plot_dscurve(x, p => producer-j(p) + producer-k(p), $O(p)$)),
+      lq.diagram(legend: (position: top + left), plot_dscurve(x, producer-j, $o^j (p)$), ..equilibrio(2, 4, $(4,2)$), ),
+      lq.diagram(legend: (position: top + left), plot_dscurve(x, producer-k, $o^k (p)$), ..equilibrio(8, 4, $(4,8)$)),
+      lq.diagram(legend: (position: top + left), plot_dscurve(x, p => producer-j(p) + producer-k(p), $O(p)$), ..equilibrio(10, 4, $(4,10)$)),
     ),
-    caption: "Curvas de oferta individuales y agregada.",
-  )
-} <fig:curvas-oferta-ejercicio-1>
+    caption: [Curvas de oferta individuales y agregada. También se marca el punto $(p, Q)$ para $p=4$.],
+  )<fig:curvas-oferta-ejercicio-1>]
+}
 
 == Equilibrio de mercado de la mercancı́a
 
@@ -216,6 +223,7 @@ $
     legend: (position: (100% + .5em, 0%)),
     plot_dscurve(x, p => consumer-i(p) + consumer-h(p), $D(p)$),
     plot_dscurve(x, p => producer-j(p) + producer-k(p), $O(p)$),
+    ..equilibrio(10, 4, $E$),
   ),
   caption: "Equilibrio.",
 ) <fig:equilibrio-1>
@@ -485,12 +493,6 @@ es tan sensible al precio del mismo.
   color: red,
   stroke: (paint: red, dash: "dashed"),
   label: [$O_1$],
-)
-
-// Un punto y su rótulo. Las coordenadas siguen el orden (Q, P).
-#let equilibrio(q, p, nombre) = (
-  lq.scatter((q,), (p,), color: black, mark: "o"),
-  lq.place(q, p, align: left, pad(0.7em)[$#nombre$]),
 )
 
 == Equilibrio inicial

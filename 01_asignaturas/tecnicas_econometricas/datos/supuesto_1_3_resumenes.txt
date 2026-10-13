@@ -5,8 +5,8 @@ MODELO 1: LOGARITMO DEL SALARIO
 Dep. Variable:                 LNWAGE   R-squared:                       0.309
 Model:                            OLS   Adj. R-squared:                  0.307
 Method:                 Least Squares   F-statistic:                     111.5
-Date:                Fri, 25 Sep 2026   Prob (F-statistic):           1.52e-78
-Time:                        23:23:16   Log-Likelihood:                -640.54
+Date:                Tue, 29 Sep 2026   Prob (F-statistic):           1.52e-78
+Time:                        14:58:30   Log-Likelihood:                -640.54
 No. Observations:                1000   AIC:                             1291.
 Df Residuals:                     995   BIC:                             1316.
 Df Model:                           4                                         
@@ -38,8 +38,8 @@ MODELO 2: SALARIO EN NIVELES
 Dep. Variable:                   WAGE   R-squared:                       0.271
 Model:                            OLS   Adj. R-squared:                  0.269
 Method:                 Least Squares   F-statistic:                     123.4
-Date:                Fri, 25 Sep 2026   Prob (F-statistic):           5.98e-68
-Time:                        23:23:16   Log-Likelihood:                -3092.5
+Date:                Tue, 29 Sep 2026   Prob (F-statistic):           5.98e-68
+Time:                        14:58:30   Log-Likelihood:                -3092.5
 No. Observations:                1000   AIC:                             6193.
 Df Residuals:                     996   BIC:                             6213.
 Df Model:                           3                                         
@@ -62,3 +62,8 @@ Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
 [2] The condition number is large, 4.29e+03. This might indicate that there are
 strong multicollinearity or other numerical problems.
+
+BOX-COX: lambda = -0.133966; IC 95 % = (-0.23178194902100832, -0.03704344956188757)
+| Logarítmico con interacción: λ = 0 | 7.364650 | 1 | 0.00665185 |
+| Niveles con interacción: λ = 1 | 574.855868 | 1 | 4.93222e-127 |
+| Niveles del enunciado: λ = 1 y β₄ = 0 | 577.593718 | 2 | 3.77675e-126 |

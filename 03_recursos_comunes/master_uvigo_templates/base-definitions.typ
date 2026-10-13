@@ -21,11 +21,15 @@
   "Huge": 24.88pt,
 )
 
-#let base-styles() = {
+#let base-styles(doc) = {
   set text(
-    font: ("New Computer Modern", "Latin Modern Math"),
+    // font: ("New Computer Modern", "Latin Modern Math"),
     size: font_sizes.normalsize,
     lang: "es",
+  )
+  set page(
+    paper: "a4",
+    margin: 1.5in,
   )
   set par(justify: true, leading: 0.65em, first-line-indent: 1.25em, justification-limits: (
     tracking: (min: -0.01em, max: 0.02em),
@@ -43,6 +47,8 @@
 
   // Configuración de ecuaciones
   set math.equation(numbering: "(1)")
+
+  doc
 }
 
 // Bloque para resaltar resultados de código (R/Julia)

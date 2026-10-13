@@ -63,20 +63,44 @@ Los R² (incluidos los ajustados) de ambos modelos no son directamente comparabl
 uno mide variación de ln(WAGE) y el otro de WAGE. Tampoco se comparan directamente
 sus AIC/BIC sin ajustar la verosimilitud por la transformación de la respuesta.
 
-Para comparar en la misma escala y muestra, se retransfoma el modelo logarítmico:
-WAGE estimado = exp(ln(WAGE) estimado) × media(exp(residuo)), con factor de Duan
-1.11094565. El factor global aproxima la media condicional si el momento
-E[exp(ε)|X] es constante; puede no ser adecuado bajo heterocedasticidad.
+Se utiliza la transformación Box-Cox: y(λ) = (WAGE^λ − 1)/λ si λ ≠ 0,
+con y(0) = ln(WAGE). Se estima una familia que incluye EDUC, EXPER, EXPER² y
+EDUC·EXPER, además de la constante. λ = 0 reproduce el modelo logarítmico;
+λ = 1 reproduce el modelo en niveles con interacción (restar 1 solo modifica
+la constante). El modelo en niveles del enunciado exige además β₄ = 0.
 
-| Modelo | RMSE en WAGE | MAE en WAGE | 1 − SSE/TSS en WAGE |
+Se maximiza la log-verosimilitud perfilada de la regresión gaussiana,
+ℓ(λ) = −n/2·[ln(2π) + 1 + ln(SSE(λ)/n)] + (λ−1)·Σln(WAGE).
+El último término es el jacobiano de la transformación y permite comparar
+verosimilitudes sobre la misma variable original. No se estima λ únicamente
+sobre la distribución marginal del salario: se condiciona en los regresores.
+
+λ estimado = -0.133966; IC del 95 % por razón de verosimilitudes:
+[-0.231782, -0.037043]. Para cada hipótesis se calcula
+LR = 2·[ℓ(λ estimado) − ℓ(restringida)], con referencia asintótica χ² y tantos
+grados de libertad como restricciones, bajo los supuestos del modelo gaussiano
+homocedástico e independencia de las observaciones.
+
+| Hipótesis nula | LR | gl | Valor p |
 | --- | ---: | ---: | ---: |
-| Logarítmico (retransformación de Duan) | 5.285704 | 3.714974 | 0.283284 |
-| Lineal en niveles | 5.331049 | 3.806712 | 0.270934 |
+| Logarítmico con interacción: λ = 0 | 7.364650 | 1 | 0.00665185 |
+| Niveles con interacción: λ = 1 | 574.855868 | 1 | 4.93222e-127 |
+| Niveles del enunciado: λ = 1 y β₄ = 0 | 577.593718 | 2 | 3.77675e-126 |
 
-El menor RMSE dentro de la muestra corresponde a: **Logarítmico (retransformación de Duan)**.
-El último indicador se calcula sobre WAGE para ambos modelos; en el modelo
-retransformado no es su R² MCO original. Son medidas de ajuste dentro de la muestra,
-no evidencia de superioridad predictiva fuera de ella. Las especificaciones también
-difieren por la interacción, además de la transformación de la respuesta.
+Al 5 %, se rechazan tanto λ = 0 como λ = 1. También se rechaza la
+restricción conjunta λ = 1 y β₄ = 0, correspondiente al modelo en niveles
+solicitado. El modelo logarítmico tampoco es la transformación óptima según
+este contraste. Para elegir entre las dos especificaciones concretas se comparan
+sus AIC sobre la escala original, incorporando el jacobiano: AIC del modelo
+logarítmico = 5626.744014;
+AIC del modelo en niveles = 6194.973081.
+Se cuenta la varianza residual como parámetro en ambos modelos. El menor AIC
+favorece al logarítmico con interacción entre las dos alternativas, aunque
+Box-Cox sugiere una potencia distinta de cero. Esto no prueba superioridad predictiva fuera
+de la muestra. El contraste de λ mantiene fijos los regresores; la última fila
+considera además la distinta especificación del modelo alternativo.
+
+Referencia metodológica: SAS/STAT, Box-Cox Transformations:
+https://support.sas.com/documentation/cdl/en/statug/65328/HTML/default/statug_transreg_details02.htm
 
 Los resúmenes completos de ambas estimaciones se guardan en `supuesto_1_3_resumenes.txt`.
