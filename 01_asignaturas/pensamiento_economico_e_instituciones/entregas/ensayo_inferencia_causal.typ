@@ -1,4 +1,6 @@
 #import "@local/master-uvigo-templates:0.1.0": essay, font_sizes, uvigo-gray, base-styles
+#import "@preview/cetz:0.5.2"
+#import "figuras/bifurcaciones.typ": arbol-bifurcaciones
 
 // TITLE PAGE
 #let title-page(essay-title, author) = {
@@ -125,6 +127,19 @@ de los años setenta y ochenta y la expansión de los diseños causales.
 Finalmente, se examina la convivencia de enfoques y la tensión entre
 identificar efectos, explicar mecanismos y generalizar resultados.
 
+La @fig-bifurcaciones sintetiza respuestas a problemas compartidos, sin
+atribuir a cada método un origen exclusivo. El seguimiento de las ramas se
+valora por campos: una práctica puede perder autoridad en uno y seguir activa
+en otro. Las cajas discontinuas señalan prácticas cuestionadas o relegadas.
+
+#figure(
+  arbol-bifurcaciones(cetz),
+  placement: auto,
+  caption: [Bifurcaciones de la inferencia causal en Economía. Síntesis propia
+    basada en @panhans_singleton2015 y @angrist_pischke2010, y en las
+    aportaciones contemporáneas examinadas en el texto.],
+) <fig-bifurcaciones>
+
 = Haavelmo y los fundamentos de la inferencia causal econométrica
 
 == Antecedentes y contexto intelectual
@@ -229,15 +244,6 @@ identificación se convertiría así en uno de los problemas centrales de la
 econometría de posguerra, y la credibilidad de tales restricciones sería objeto
 de controversias metodológicas posteriores.
 
-Desde la perspectiva de este ensayo, la importancia de Haavelmo reside en
-articular dos exigencias: un fundamento probabilístico para la inferencia y
-una interpretación estructural de las relaciones económicas. Esta combinación
-contribuyó a orientar el programa de Cowles hacia la identificación y
-estimación de sistemas de ecuaciones, que se desarrollaría durante la posguerra
-@panhans_singleton2015[pp. 9–11]. El punto de partida del recorrido histórico
-será, por ello, la búsqueda de relaciones con las que justificar afirmaciones
-sobre el funcionamiento de la economía y sus posibles transformaciones.
-
 = El paradigma estructural de posguerra
 
 == La consolidación del programa de Cowles
@@ -334,14 +340,9 @@ evidencia no siempre permite discriminar entre todas las explicaciones
 estructurales compatibles con las observaciones. La credibilidad del resultado
 requiere, por ello, defender los supuestos que hacen posible su interpretación.
 
-Esta tensión permite enlazar con las controversias posteriores sin presentar
-el desarrollo de la disciplina como una sustitución completa de un método por
-otro. La cuestión que se abrirá es cómo justificar las restricciones y la
-estabilidad del modelo, y qué alternativas permiten sostener afirmaciones
-causales cuando esas justificaciones resultan insuficientes. El programa
-estructural constituye, así, una referencia frente a la que se formularán
-críticas y nuevas estrategias, además de una tradición que continuará
-desarrollándose junto a ellas.
+Esta tensión abre las controversias posteriores sobre cómo justificar las
+restricciones y la estabilidad del modelo. Frente al programa estructural
+se formularán críticas y alternativas que convivirán con su desarrollo.
 
 = Crisis de la econometría tradicional
 
@@ -525,16 +526,42 @@ generalización son problemas relacionados, pero diferentes. Asimismo,
 conocer el efecto de una intervención no equivale necesariamente a explicar
 todos los mecanismos que lo producen @deaton2010.
 
-La interpretación propuesta en este ensayo es que la revolución de la
-credibilidad reordenó las prioridades de una parte de la Economía empírica:
-la defensa de una comparación causal concreta adquirió mayor peso en la
-selección de preguntas y en la evaluación de resultados. La teoría siguió
-siendo necesaria para interpretar instituciones, anticipar canales y
-justificar supuestos. La discusión contemporánea se abre precisamente en
-torno a cómo combinar esa credibilidad con la explicación de mecanismos y
-el análisis de políticas que exceden la variación directamente observada.
+La revolución de la credibilidad reordenó prioridades en una parte de la
+Economía empírica. La discusión contemporánea se abre en torno a cómo combinar
+la defensa de comparaciones concretas con la explicación de mecanismos y
+el análisis de políticas que exceden la variación observada.
 
 = La bifurcación contemporánea
+
+== Ramas relegadas y continuidad por campos
+
+Las controversias alteraron la posición de ciertas prácticas sin producir
+un abandono general de la econometría estructural. En macroeconomía, las
+críticas de Lucas y Sims debilitaron la pretensión de evaluar cambios de
+política mediante grandes sistemas cuyas restricciones e invariancia se
+daban por suficientemente justificadas. La rama relegada fue esa manera
+de defender su interpretación causal; las respuestas incluyeron modelos
+que explicaban expectativas y decisiones, y sistemas de series temporales
+con otras estrategias de identificación @lucas1976 @sims1980.
+
+En microeconomía aplicada, Panhans y Singleton describen el desplazamiento
+relativo desde modelos estructurales hacia un repertorio de diseños
+cuasiexperimentales. Su penetración fue desigual entre campos, revistas y
+departamentos: ganó especial influencia en trabajo, educación, salud y
+economía pública, mientras que el análisis estructural conservó una posición
+central en organización industrial @panhans_singleton2015[pp. 17–18].
+La búsqueda de mecanismos y escenarios contrafactuales quedó menos visible
+en parte de la investigación centrada en efectos de tratamiento, pero
+continuó desarrollándose en otras áreas @nevo_whinston2010.
+
+También conviene distinguir la pérdida de protagonismo de una propuesta
+de su incorporación a otras prácticas. Angrist y Pischke reconocen el
+papel del análisis de sensibilidad de Leamer, aunque atribuyen el cambio
+principal a los diseños de investigación @angrist_pischke2010. La sensibilidad
+persistió como una exigencia que puede acompañar distintas estrategias.
+Por ello, las ramas oscurecidas de este recorrido son relativas al campo
+y al criterio de credibilidad considerado; calificarlas de abandonadas
+exigiría evidencia adicional de su desaparición.
 
 == Diseños, mecanismos y alcance de las preguntas
 
@@ -612,7 +639,26 @@ representar relaciones simultáneas de equilibrio, características de muchos
 modelos económicos. Esta dificultad ayuda a entender que la adopción de
 los lenguajes causales depende también de los problemas de cada disciplina.
 
-== Nuevos datos, aprendizaje automático y complementariedad
+== Nuevos datos y revisión de los diseños en los años 2020
+
+La revisión de las diferencias en diferencias muestra que la exigencia
+de credibilidad también transforma los métodos cuasiexperimentales ya
+establecidos. Cuando las unidades reciben una política en fechas distintas
+y los efectos varían entre grupos o a lo largo del tiempo, una regresión
+convencional puede combinar comparaciones cuyo significado causal no
+coincide con el efecto que se pretende estimar. El problema obliga a
+precisar quién se compara con quién y qué efectos se agregan.
+
+Callaway y Sant'Anna proponen identificar efectos por grupo y periodo
+en contextos de adopción escalonada, con supuestos explícitos sobre tendencias
+paralelas y distintas formas de agregación @callaway_santanna2021. Borusyak,
+Jaravel y Spiess desarrollan una revisión de los estudios de eventos que
+aborda la heterogeneidad y propone un estimador basado en imputar resultados
+sin tratamiento @borusyak_et_al2024. Su aplicación a la respuesta del consumo
+ante devoluciones fiscales estadounidenses conecta el refinamiento del
+diseño con preguntas económicas sustantivas. Estas aportaciones prolongan
+el debate sobre credibilidad hasta los años 2020: adoptar una técnica
+reconocida no sustituye la justificación de las comparaciones que realiza.
 
 La transformación metodológica continúa con la disponibilidad de registros
 administrativos y nuevas capacidades de procesamiento. Currie, Kleven y
@@ -632,15 +678,6 @@ de muestras para abordar problemas de regularización y sobreajuste
 estructurales sigue requiriendo los supuestos que identifican esos objetos.
 La capacidad predictiva de un algoritmo no demuestra, por sí sola, que
 una comparación tenga interpretación causal.
-
-Desde la perspectiva histórica adoptada aquí, la bifurcación contemporánea
-deja un campo plural: diseños que justifican comparaciones concretas,
-modelos que articulan mecanismos y escenarios, y herramientas que permiten
-expresar supuestos o estimar relaciones con mayor flexibilidad. La continuidad
-con Haavelmo se encuentra en la necesidad de conectar la evidencia con
-hipótesis sobre el funcionamiento económico. Lo que cambia es la forma
-de organizar esa conexión, el alcance de las afirmaciones que se pretende
-defender y las exigencias utilizadas para juzgar su credibilidad.
 
 = Conclusiones
 
@@ -684,6 +721,15 @@ la división entre diseños y modelos económicos. Los nuevos datos y el
 aprendizaje automático amplían las posibilidades de estimación dentro
 de estrategias cuya identificación sigue requiriendo argumentos sustantivos.
 
+El árbol histórico muestra además que la pérdida de protagonismo fue
+selectiva. Se cuestionaron prácticas de identificación e invariancia de
+los modelos tradicionales y el análisis estructural quedó en segundo plano
+en parte de la microeconomía aplicada, mientras conservó fuerza en otros
+campos. Las revisiones de los diseños con adopción escalonada en los años
+2020 confirman que las ramas más influyentes también están sujetas a
+revisión. El seguimiento mayoritario de una estrategia en un campo no
+garantiza la validez de cada aplicación.
+
 La posición que se deriva de este ensayo es que la elección metodológica
 debe atender a la pregunta y al alcance de la conclusión pretendida.
 Una afirmación causal convincente necesita precisar el efecto de interés,
@@ -695,4 +741,5 @@ los pasos de la extrapolación. Desde Haavelmo hasta los debates contemporáneos
 la conexión entre teoría, evidencia e intervención permanece como el
 problema central, mientras evolucionan las formas de construirla y evaluarla.
 
+#pagebreak()
 #bibliography("fuentes.bib", style: "harvard-cite-them-right")
