@@ -1,0 +1,47 @@
+[
+  {
+    "code": "ESP.1.0.0.0.NPTN",
+    "primary": "POP:3",
+    "other": "mercado traballo:2",
+    "n_common": 64,
+    "n_different": 29,
+    "primary_unit": "1000 persons",
+    "other_unit": "1000 persons"
+  },
+  {
+    "code": "ESP.1.0.0.0.USGG",
+    "primary": "REAL:30",
+    "other": "NOMINAL:30",
+    "n_common": 27,
+    "n_different": 27,
+    "primary_unit": "Mrd EURO-ESP",
+    "other_unit": "Mrd EURO-ESP"
+  },
+  {
+    "code": "ESP.1.0.0.0.USGG",
+    "primary": "REAL:30",
+    "other": "NOMINAL:34",
+    "n_common": 27,
+    "n_different": 27,
+    "primary_unit": "Mrd EURO-ESP",
+    "other_unit": "Mrd EURO-ESP"
+  },
+  {
+    "code": "ESP.1.0.0.0.USGN",
+    "primary": "REAL:31",
+    "other": "NOMINAL:31",
+    "n_common": 62,
+    "n_different": 27,
+    "primary_unit": "Mrd EURO-ESP",
+    "other_unit": "Mrd EURO-ESP"
+  },
+  {
+    "code": "ESP.1.0.0.0.USGP",
+    "primary": "REAL:29",
+    "other": "NOMINAL:29",
+    "n_common": 27,
+    "n_different": 27,
+    "primary_unit": "Mrd EURO-ESP",
+    "other_unit": "Mrd EURO-ESP"
+  }
+]

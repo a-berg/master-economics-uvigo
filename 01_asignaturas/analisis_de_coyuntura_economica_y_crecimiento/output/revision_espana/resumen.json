@@ -1,0 +1,290 @@
+{
+  "version": "2026-10-21",
+  "ameco_target_spain": 76,
+  "ameco_recovered": 84,
+  "ameco_accepted": 84,
+  "ameco_review_notebook": 0,
+  "ameco_missing": 0,
+  "ameco_excluded": 2,
+  "ine_added": 3,
+  "long_observations": 6434,
+  "analytic_series": 123,
+  "analytic_years": 80,
+  "status_counts": [
+    {
+      "status": "ACEPTADA_FUENTE_INE_ACTUAL",
+      "len": 3
+    },
+    {
+      "status": "ACEPTADA_COINCIDENCIA_NUMERICA",
+      "len": 33
+    },
+    {
+      "status": "ACEPTADA_BASE_EDICION_ACTUAL",
+      "len": 10
+    },
+    {
+      "status": "EXCLUIDA_NO_PUBLICADA_EDICION_ACTUAL",
+      "len": 2
+    },
+    {
+      "status": "ACEPTADA_CONCEPTO_Y_FUENTE",
+      "len": 20
+    },
+    {
+      "status": "ACEPTADA_FUENTE_OFICIAL",
+      "len": 26
+    },
+    {
+      "status": "ACEPTADA_REVISION_MANUAL",
+      "len": 31
+    }
+  ],
+  "scope": "Fuentes recuperadas integradas; AMECO explícito y localizado por concepto, EPA, PWT, cuentas INE y componentes salariales Eurostat. Clasificación completa de las 69 filas sin código en filas_reconciliadas.csv; los huecos históricos y diferencias de universo se documentan por separado.",
+  "provenance_note": "La fila 29 no se usa como fuente de datos analíticos; la serie INE es nueva y documentada. Cobertura EPA 2006–2025, sin relleno anterior.",
+  "policy": {
+    "decision_date": "2026-10-20",
+    "authority": "Instrucción del alumno en la conversación",
+    "base_changes": {
+      "action": "accept_current_edition",
+      "initial_status": "PENDIENTE_BASE_PRECIOS_O_INDICE",
+      "final_status": "ACEPTADA_BASE_EDICION_ACTUAL",
+      "note": "Se adopta íntegramente la serie AMECO vigente; no se reescala ni empalma con los valores antiguos del Excel. Se conservan año de referencia y unidad actuales."
+    },
+    "manual_decisions": {
+      "ESP.1.0.0.0.AKGDV": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.AKNDV": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.AMGT": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.AXGT": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.NETN": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UOGD": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.URTG": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.USGG": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.USGN": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.USGP": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UTVT": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UUTG": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UVGM": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UVGN": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UVGT": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UVNN": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UVNT": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UWCD": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UYGD": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.0.0.UYVT": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.99.0.DMGE": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.99.0.DMGI": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.99.0.DMGT": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.99.0.DXGE": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.99.0.DXGI": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.0.99.0.DXGT": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.1.0.0.UVG0": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.1.0.0.UVG1": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.1.0.0.UVG2": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.1.0.0.UVG4": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      },
+      "ESP.1.1.0.0.UVG5": {
+        "action": "accept_current_edition",
+        "note": "Criterio del alumno, 20/10/2026: adoptar valores y unidades publicados de la edición AMECO vigente para el mismo identificador. Las diferencias entre ediciones no bloquean la selección. Previsiones y revisiones son explicaciones posibles; no se certifica una causa concreta ni se reescala el Excel para producir silver."
+      }
+    },
+    "forecast_policy": "Conservar en tabla larga y excluir de vista anual analítica los años 2026 y posteriores de esta edición; no implica que todos los años anteriores sean definitivos.",
+    "ine_epa_policy": "Serie anual oficial actual, total nacional, ambos sexos, 16 y más años, valores absolutos. Mantener separada del empleo de contabilidad nacional y del paro registrado. No rellenar con la fila de origen desconocido.",
+    "vintage_acceptance_policy": "Mismo identificador AMECO: se adopta la serie de la edición vigente. Se conservan título, unidad literal, fecha y previsiones. No se exige igualdad numérica con otra edición.",
+    "excluded_current_codes": {
+      "ESP.1.0.0.0.AMGE": {
+        "note": "No publicada en la edición actual: se excluye de los objetivos activos siguiendo la revisión del alumno. Tampoco aparece en el archivo oficial Autumn 2021 inspeccionado; no se acredita fecha exacta de retirada ni que todo el Excel pertenezca a 2021.",
+        "evidence": "output/revision_espana/ameco_series_excluidas.json"
+      },
+      "ESP.1.0.0.0.AXGE": {
+        "note": "No publicada en la edición actual: se excluye de los objetivos activos siguiendo la revisión del alumno. Tampoco aparece en el archivo oficial Autumn 2021 inspeccionado; no se acredita fecha exacta de retirada ni que todo el Excel pertenezca a 2021.",
+        "evidence": "output/revision_espana/ameco_series_excluidas.json"
+      }
+    }
+  },
+  "ameco_added_by_concept": 10,
+  "ameco_total_catalogue": 86,
+  "series_by_source": [
+    {
+      "source": "ameco_spring2026",
+      "series": 84
+    },
+    {
+      "source": "bde_money_statistical_annex_2018",
+      "series": 3
+    },
+    {
+      "source": "estat_nama_10_gdp",
+      "series": 2
+    },
+    {
+      "source": "fred_imf_spain_myagm1esm189n",
+      "series": 2
+    },
+    {
+      "source": "fred_imf_spain_myagm2esm189n",
+      "series": 2
+    },
+    {
+      "source": "fred_imf_spain_myagm3esm189n",
+      "series": 2
+    },
+    {
+      "source": "ine_bankruptcies_historical_20261020",
+      "series": 3
+    },
+    {
+      "source": "ine_births_registration_20261020",
+      "series": 1
+    },
+    {
+      "source": "ine_deaths_historical_20261020",
+      "series": 1
+    },
+    {
+      "source": "ine_deaths_residence_20261020",
+      "series": 1
+    },
+    {
+      "source": "ine_epa_annual_activos",
+      "series": 1
+    },
+    {
+      "source": "ine_epa_annual_ocupados",
+      "series": 1
+    },
+    {
+      "source": "ine_epa_annual_parados",
+      "series": 1
+    },
+    {
+      "source": "ine_insolvency_20261020",
+      "series": 1
+    },
+    {
+      "source": "ine_integrated_accounts",
+      "series": 6
+    },
+    {
+      "source": "ine_marriages_different_sex_20261020",
+      "series": 1
+    },
+    {
+      "source": "ine_sector_accounts_20261020",
+      "series": 1
+    },
+    {
+      "source": "ine_suspensions_historical_20261020",
+      "series": 3
+    },
+    {
+      "source": "mites_smi_public_20261020",
+      "series": 2
+    },
+    {
+      "source": "pwt110",
+      "series": 2
+    },
+    {
+      "source": "sepe_registered_2001_2016_20261020",
+      "series": 1
+    },
+    {
+      "source": "sepe_registered_2017_current_20261020",
+      "series": 1
+    },
+    {
+      "source": "wdi_fx_esp_emu_20261020",
+      "series": 2
+    }
+  ]
+}

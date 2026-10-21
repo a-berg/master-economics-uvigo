@@ -1,0 +1,52 @@
+[
+  {
+    "country": "CHN",
+    "country_code": 156,
+    "table": "2.6",
+    "group_code": 206,
+    "classification": "ISIC Rev.4",
+    "records": 0,
+    "status": "SIN_REGISTROS_EN_CONSULTA_OFICIAL",
+    "last_update": "2026/10/14",
+    "country_checkbox_present": false,
+    "evidence": {
+      "id": "un26_chn_presence",
+      "url": "https://data.un.org/Data.aspx?d=SNA&f=group_code%3A206%3Bcountry_code%3A156",
+      "extension": "html",
+      "publication_date": null,
+      "landing_url": "https://unstats.un.org/unsd/econstats/national-accounts/data/madt",
+      "artifact": "datos/bronze/un26_chn_presence/20261019T173121_601ee70c1564.html",
+      "sha256": "601ee70c1564283560bf8cecc624b51f1f73649839bd7a8e147a8285da97ef62",
+      "bytes": 85663,
+      "accessed_at_utc": "2026-10-19T17:31:21.766316+00:00",
+      "content_type": null,
+      "provider_last_modified": null
+    },
+    "limit": "Resultado de esta tabla, variante y consulta en esta fecha. No demuestra ausencia en otras tablas o fuentes; Hong Kong no equivale a China continental."
+  },
+  {
+    "country": "ESP",
+    "country_code": 724,
+    "table": "2.6",
+    "group_code": 206,
+    "classification": "ISIC Rev.4",
+    "records": 6908,
+    "status": "REGISTROS_PRESENTES_NO_DESCARGA_COMPLETA",
+    "last_update": "2026/10/14",
+    "country_checkbox_present": true,
+    "evidence": {
+      "id": "un26_esp_presence",
+      "url": "https://data.un.org/Data.aspx?d=SNA&f=group_code%3A206%3Bcountry_code%3A724",
+      "extension": "html",
+      "publication_date": null,
+      "landing_url": "https://unstats.un.org/unsd/econstats/national-accounts/data/madt",
+      "artifact": "datos/bronze/un26_esp_presence/20261019T173126_2ac3763a8c59.html",
+      "sha256": "2ac3763a8c5998cb4c358086307de534f96612c21d13b2af9ed966480bab5101",
+      "bytes": 102599,
+      "accessed_at_utc": "2026-10-19T17:31:26.690713+00:00",
+      "content_type": null,
+      "provider_last_modified": null
+    },
+    "limit": "Resultado de esta tabla, variante y consulta en esta fecha. No demuestra ausencia en otras tablas o fuentes; Hong Kong no equivale a China continental."
+  }
+]

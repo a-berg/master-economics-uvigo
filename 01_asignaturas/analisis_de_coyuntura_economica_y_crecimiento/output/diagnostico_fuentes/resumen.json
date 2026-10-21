@@ -1,0 +1,147 @@
+{
+  "base_sheets": [
+    "Produzón-CI-VA",
+    "REAL",
+    "NOMINAL",
+    "POP",
+    "K",
+    "mercado traballo",
+    "Indices Prezos",
+    "Quebras",
+    "i-e",
+    "Money"
+  ],
+  "unique_ameco_codes": 80,
+  "exact_codes_retrieved": 78,
+  "spain_codes": 76,
+  "spain_exact_codes_retrieved": 74,
+  "missing_codes": [
+    "ESP.1.0.0.0.AMGE",
+    "ESP.1.0.0.0.AXGE"
+  ],
+  "un_china_real_demand": [
+    {
+      "ameco_suffix": "OVGD",
+      "un_indicator": "Gross Domestic Product (GDP)",
+      "CHN_n": 55,
+      "CHN_first": 1970,
+      "CHN_last": 2024,
+      "correspondence": "AGREGADO_COINCIDENTE; comprobar revisión, método y notas",
+      "unit": "yuanes; precios constantes de 2020",
+      "publication_date": "No acreditada; consulta 2026-10-19"
+    },
+    {
+      "ameco_suffix": "OCPH",
+      "un_indicator": "Household consumption expenditure (including Non-profit institutions serving households)",
+      "CHN_n": 55,
+      "CHN_first": 1970,
+      "CHN_last": 2024,
+      "correspondence": "AGREGADO_COINCIDENTE; comprobar revisión, método y notas",
+      "unit": "yuanes; precios constantes de 2020",
+      "publication_date": "No acreditada; consulta 2026-10-19"
+    },
+    {
+      "ameco_suffix": "OCTG",
+      "un_indicator": "General government final consumption expenditure",
+      "CHN_n": 55,
+      "CHN_first": 1970,
+      "CHN_last": 2024,
+      "correspondence": "AGREGADO_COINCIDENTE; comprobar revisión, método y notas",
+      "unit": "yuanes; precios constantes de 2020",
+      "publication_date": "No acreditada; consulta 2026-10-19"
+    },
+    {
+      "ameco_suffix": "OITT",
+      "un_indicator": "Gross capital formation",
+      "CHN_n": 55,
+      "CHN_first": 1970,
+      "CHN_last": 2024,
+      "correspondence": "AGREGADO_COINCIDENTE; comprobar revisión, método y notas",
+      "unit": "yuanes; precios constantes de 2020",
+      "publication_date": "No acreditada; consulta 2026-10-19"
+    },
+    {
+      "ameco_suffix": "OIGT",
+      "un_indicator": "Gross fixed capital formation (including Acquisitions less disposals of valuables)",
+      "CHN_n": 55,
+      "CHN_first": 1970,
+      "CHN_last": 2024,
+      "correspondence": "PARCIAL: incluye objetos valiosos",
+      "unit": "yuanes; precios constantes de 2020",
+      "publication_date": "No acreditada; consulta 2026-10-19"
+    },
+    {
+      "ameco_suffix": "OIST",
+      "un_indicator": "Changes in inventories",
+      "CHN_n": 55,
+      "CHN_first": 1970,
+      "CHN_last": 2024,
+      "correspondence": "PARCIAL: AMECO incluye existencias y objetos valiosos; ONU separa existencias",
+      "unit": "yuanes; precios constantes de 2020",
+      "publication_date": "No acreditada; consulta 2026-10-19"
+    },
+    {
+      "ameco_suffix": "OXGS",
+      "un_indicator": "Exports of goods and services",
+      "CHN_n": 55,
+      "CHN_first": 1970,
+      "CHN_last": 2024,
+      "correspondence": "AGREGADO_COINCIDENTE; comprobar revisión, método y notas",
+      "unit": "yuanes; precios constantes de 2020",
+      "publication_date": "No acreditada; consulta 2026-10-19"
+    },
+    {
+      "ameco_suffix": "OMGS",
+      "un_indicator": "Imports of goods and services",
+      "CHN_n": 55,
+      "CHN_first": 1970,
+      "CHN_last": 2024,
+      "correspondence": "AGREGADO_COINCIDENTE; comprobar revisión, método y notas",
+      "unit": "yuanes; precios constantes de 2020",
+      "publication_date": "No acreditada; consulta 2026-10-19"
+    }
+  ],
+  "remaining": "Producción bruta y consumos intermedios, rentas/CCF/capital de China, IO y extras monetarios/quiebras: revisar fuentes detalladas y requisitos, no declarar imposibilidad.",
+  "sources": {
+    "ameco_spring2026": {
+      "id": "ameco_spring2026",
+      "url": "https://ec.europa.eu/economy_finance/db_indicators/ameco/documents/ameco0.zip",
+      "extension": "zip",
+      "publication_date": "2026-06-03",
+      "landing_url": "https://economy-finance.ec.europa.eu/economic-research-and-databases/economic-databases/ameco-database/download-annual-data-set-macro-economic-database-ameco_en",
+      "artifact": "datos/bronze/ameco_spring2026/20261019T123357_5f8760abad2b.zip",
+      "sha256": "5f8760abad2b5d9b73a0eed09267fcaddb3f9944a6155ece146398484579cb00",
+      "bytes": 7134059,
+      "accessed_at_utc": "2026-10-19T12:33:57.266729+00:00",
+      "content_type": "application/zip",
+      "provider_last_modified": "Tue, 02 Jun 2026 14:51:23 GMT"
+    },
+    "un_ama_current_lcu": {
+      "id": "un_ama_current_lcu",
+      "url": "https://unstats.un.org/unsd/amaapi/api/file/1",
+      "extension": "xlsx",
+      "publication_date": null,
+      "landing_url": "https://unstats.un.org/unsd/snaama/downloads",
+      "artifact": "datos/bronze/un_ama_current_lcu/20261019T123356_2434ffdbcfc5.xlsx",
+      "sha256": "2434ffdbcfc527314cf5bae6e3530cc8be8138cfeae96c1aea6a979a213ee29f",
+      "bytes": 2255482,
+      "accessed_at_utc": "2026-10-19T12:33:56.233876+00:00",
+      "content_type": "application/vnd.ms-excel",
+      "provider_last_modified": null
+    },
+    "un_ama_constant2020_lcu": {
+      "id": "un_ama_constant2020_lcu",
+      "url": "https://unstats.un.org/unsd/amaapi/api/file/5",
+      "extension": "xlsx",
+      "publication_date": null,
+      "landing_url": "https://unstats.un.org/unsd/snaama/downloads",
+      "artifact": "datos/bronze/un_ama_constant2020_lcu/20261019T123356_ef57043aaf1e.xlsx",
+      "sha256": "ef57043aaf1e6af0256f7de2274526e1da85eb45536aba3efe403b8f9285255f",
+      "bytes": 2918096,
+      "accessed_at_utc": "2026-10-19T12:33:56.327196+00:00",
+      "content_type": "application/vnd.ms-excel",
+      "provider_last_modified": null
+    }
+  },
+  "checks": "Claves únicas y valores finitos; no se certifican todavía identidades ni comparabilidad completa."
+}

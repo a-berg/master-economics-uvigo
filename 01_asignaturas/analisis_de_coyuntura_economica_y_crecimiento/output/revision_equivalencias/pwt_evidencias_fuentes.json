@@ -1,0 +1,47 @@
+{
+  "pwt110_na": {
+    "id": "pwt110_na",
+    "provider": "pwt",
+    "format": "xlsx",
+    "url": "https://dataverse.nl/api/access/datafile/554022",
+    "landing_url": "https://www.rug.nl/ggdc/productivity/pwt/",
+    "version": "11.0",
+    "publication_date": "2025-10-07",
+    "purpose": "Base común CHN/ESP; preservar leyenda y unidades",
+    "artifact": "datos/bronze/pwt110_na/20261016T081500421291Z_7514e8585e89.xlsx",
+    "sha256": "7514e8585e89cb064aaa624417cdc49ecea82786969eb55238836b9bc3f29d04",
+    "size_bytes": 2732538,
+    "accessed_at_utc": "2026-10-16T08:15:00.421921+00:00",
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "provider_updated_at": null
+  },
+  "pwt110": {
+    "id": "pwt110",
+    "provider": "pwt",
+    "format": "xlsx",
+    "url": "https://dataverse.nl/api/access/datafile/554105",
+    "landing_url": "https://www.rug.nl/ggdc/productivity/pwt/",
+    "version": "11.0",
+    "publication_date": "2025-10-07",
+    "purpose": "Base común CHN/ESP; preservar leyenda y unidades",
+    "artifact": "datos/bronze/pwt110/20261016T081500780250Z_7b337e94f39d.xlsx",
+    "sha256": "7b337e94f39dfe304bc459e433f8ce0624496c812707ae0c924888f5142b3ab3",
+    "size_bytes": 5839841,
+    "accessed_at_utc": "2026-10-16T08:15:00.781279+00:00",
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "provider_updated_at": null
+  },
+  "pwt110_labor_detail": {
+    "id": "pwt110_labor_detail",
+    "url": "https://dataverse.nl/api/access/datafile/554028",
+    "extension": "dta",
+    "publication_date": null,
+    "landing_url": "https://www.rug.nl/ggdc/productivity/pwt/",
+    "artifact": "datos/bronze/pwt110_labor_detail/20261019T172709_245d31864aa9.dta",
+    "sha256": "245d31864aa9d86abfc011f72404b13e364cc834033609a054e2c184227f6a0c",
+    "bytes": 2723875,
+    "accessed_at_utc": "2026-10-19T17:27:09.346515+00:00",
+    "content_type": null,
+    "provider_last_modified": null
+  }
+}

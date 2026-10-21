@@ -1,0 +1,72 @@
+[
+  {
+    "code": "ESP.1.0.0.0.AMGE",
+    "present_autumn2021": false,
+    "present_spring2026": false,
+    "decision": "EXCLUIDA_EDICION_ACTUAL",
+    "retirement_date": null,
+    "retirement_date_verified": false,
+    "note": "No publicada en la edición actual: se excluye de los objetivos activos siguiendo la revisión del alumno. Tampoco aparece en el archivo oficial Autumn 2021 inspeccionado; no se acredita fecha exacta de retirada ni que todo el Excel pertenezca a 2021.",
+    "source_2021": {
+      "id": "ameco_autumn2021_audit",
+      "url": "https://economy-finance.ec.europa.eu/document/download/a522fc1a-c386-4c3e-80dd-50de123fb773_en?filename=ameco_autumn2021.zip",
+      "extension": "zip",
+      "publication_date": "2021-11-11",
+      "landing_url": "https://economy-finance.ec.europa.eu/economic-research-and-databases/economic-databases/ameco-database/ameco-archive_en",
+      "artifact": "datos/bronze/ameco_autumn2021_audit/20261020T144257_1fc02a304cde.zip",
+      "sha256": "1fc02a304cde8f2641403e59ea84f48fd2841d6b2bf420e45b3f7c05a0553e57",
+      "bytes": 12012412,
+      "accessed_at_utc": "2026-10-20T14:42:57.514089+00:00",
+      "content_type": "application/zip",
+      "provider_last_modified": null
+    },
+    "source_2026": {
+      "id": "ameco_spring2026",
+      "url": "https://ec.europa.eu/economy_finance/db_indicators/ameco/documents/ameco0.zip",
+      "extension": "zip",
+      "publication_date": "2026-06-03",
+      "landing_url": "https://economy-finance.ec.europa.eu/economic-research-and-databases/economic-databases/ameco-database/download-annual-data-set-macro-economic-database-ameco_en",
+      "artifact": "datos/bronze/ameco_spring2026/20261019T123357_5f8760abad2b.zip",
+      "sha256": "5f8760abad2b5d9b73a0eed09267fcaddb3f9944a6155ece146398484579cb00",
+      "bytes": 7134059,
+      "accessed_at_utc": "2026-10-19T12:33:57.266729+00:00",
+      "content_type": "application/zip",
+      "provider_last_modified": "Tue, 02 Jun 2026 14:51:23 GMT"
+    }
+  },
+  {
+    "code": "ESP.1.0.0.0.AXGE",
+    "present_autumn2021": false,
+    "present_spring2026": false,
+    "decision": "EXCLUIDA_EDICION_ACTUAL",
+    "retirement_date": null,
+    "retirement_date_verified": false,
+    "note": "No publicada en la edición actual: se excluye de los objetivos activos siguiendo la revisión del alumno. Tampoco aparece en el archivo oficial Autumn 2021 inspeccionado; no se acredita fecha exacta de retirada ni que todo el Excel pertenezca a 2021.",
+    "source_2021": {
+      "id": "ameco_autumn2021_audit",
+      "url": "https://economy-finance.ec.europa.eu/document/download/a522fc1a-c386-4c3e-80dd-50de123fb773_en?filename=ameco_autumn2021.zip",
+      "extension": "zip",
+      "publication_date": "2021-11-11",
+      "landing_url": "https://economy-finance.ec.europa.eu/economic-research-and-databases/economic-databases/ameco-database/ameco-archive_en",
+      "artifact": "datos/bronze/ameco_autumn2021_audit/20261020T144257_1fc02a304cde.zip",
+      "sha256": "1fc02a304cde8f2641403e59ea84f48fd2841d6b2bf420e45b3f7c05a0553e57",
+      "bytes": 12012412,
+      "accessed_at_utc": "2026-10-20T14:42:57.514089+00:00",
+      "content_type": "application/zip",
+      "provider_last_modified": null
+    },
+    "source_2026": {
+      "id": "ameco_spring2026",
+      "url": "https://ec.europa.eu/economy_finance/db_indicators/ameco/documents/ameco0.zip",
+      "extension": "zip",
+      "publication_date": "2026-06-03",
+      "landing_url": "https://economy-finance.ec.europa.eu/economic-research-and-databases/economic-databases/ameco-database/download-annual-data-set-macro-economic-database-ameco_en",
+      "artifact": "datos/bronze/ameco_spring2026/20261019T123357_5f8760abad2b.zip",
+      "sha256": "5f8760abad2b5d9b73a0eed09267fcaddb3f9944a6155ece146398484579cb00",
+      "bytes": 7134059,
+      "accessed_at_utc": "2026-10-19T12:33:57.266729+00:00",
+      "content_type": "application/zip",
+      "provider_last_modified": "Tue, 02 Jun 2026 14:51:23 GMT"
+    }
+  }
+]

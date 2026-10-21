@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ine_marriages_different_sex_20261020",
+    "status": "ARCHIVED",
+    "bytes": 113776,
+    "artifact": "datos/bronze/ine_marriages_different_sex_20261020/20261020T145908_0b42e1e42005.json"
+  },
+  {
+    "id": "ine_deaths_historical_20261020",
+    "status": "ARCHIVED",
+    "bytes": 89031,
+    "artifact": "datos/bronze/ine_deaths_historical_20261020/20261020T145908_39608966c9e5.json"
+  },
+  {
+    "id": "ine_deaths_residence_20261020",
+    "status": "ARCHIVED",
+    "bytes": 872383,
+    "artifact": "datos/bronze/ine_deaths_residence_20261020/20261020T145909_0c8647a24c0a.json"
+  },
+  {
+    "id": "ine_births_registration_20261020",
+    "status": "ARCHIVED",
+    "bytes": 1311237,
+    "artifact": "datos/bronze/ine_births_registration_20261020/20261020T145909_72a42f61cebb.json"
+  },
+  {
+    "id": "mites_smi_20261020",
+    "status": "FAILED",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>",
+    "url": "https://www.mites.gob.es/estadisticas/bel/SMI/smi1.xls"
+  },
+  {
+    "id": "wdi_fx_esp_emu_20261020",
+    "status": "ARCHIVED",
+    "bytes": 31147,
+    "artifact": "datos/bronze/wdi_fx_esp_emu_20261020/20261020T145924_16fdbf83577e.json"
+  },
+  {
+    "id": "ine_sector_accounts_20261020",
+    "status": "ARCHIVED",
+    "bytes": 2467172,
+    "artifact": "datos/bronze/ine_sector_accounts_20261020/20261020T145924_0dae069888c0.json"
+  },
+  {
+    "id": "ine_insolvency_20261020",
+    "status": "ARCHIVED",
+    "bytes": 3023141,
+    "artifact": "datos/bronze/ine_insolvency_20261020/20261020T145924_7812af9a34fd.json"
+  },
+  {
+    "id": "ine_insolvency_turnover_20261020",
+    "status": "ARCHIVED",
+    "bytes": 3717173,
+    "artifact": "datos/bronze/ine_insolvency_turnover_20261020/20261020T145924_5c6274ce38a8.json"
+  }
+]

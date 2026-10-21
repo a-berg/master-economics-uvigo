@@ -1,0 +1,10 @@
+{
+  "status": "OK",
+  "series": 123,
+  "observations": 6434,
+  "new_series": 26,
+  "new_observations": 835,
+  "subannual_observations": 2544,
+  "independent_aggregation_checks": 422,
+  "partial_2004_excluded_from_analytic_view": true
+}

@@ -1,0 +1,848 @@
+[
+  {
+    "sheet": "Source",
+    "row": 1,
+    "text": "ESPAÑA",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 2,
+    "text": "BASE DE DADOS",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 3,
+    "text": "Prof. Eduardo L.Giménez",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 4,
+    "text": "egimenez@uvigo.gal",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 5,
+    "text": "Análisis de Coyuntura y Crecimiento (Estandar)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 6,
+    "text": "Máster Universitario en Economía",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 7,
+    "text": "curso 202627",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 8,
+    "text": "Versión: | 20260928.0",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 11,
+    "text": "FOLLA",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 13,
+    "text": "PT-CI-VA",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 15,
+    "text": "Source: | cecoint95_22.xls | Resultados detallados Agregados por ramas de actividad",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 16,
+    "text": "Contabilidad Nacional Anual de España. Revisión Estadística 2024.",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 17,
+    "text": "Cuentas económicas integradas | Agregados por ramas de actividad",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 18,
+    "text": "Tabla 30. Cuentas corrientes y cuentas de acumulación. Año 2024 (A)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 19,
+    "text": "Unidad: millones de euros | Unidades:Millones €",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 20,
+    "text": "Cuentas corrientes y de acumulación integradas",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 21,
+    "text": "b+c | a | Producción",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 22,
+    "text": "P.1 | Producción | b | Consumos intermedios",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 23,
+    "text": "D.21-D.31 | Impuestos menos subvenciones sobre los productos | d+g+h | c | Valor añadido bruto",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 24,
+    "text": "Producción bruta (=Produzon a c.f. + impostos) | e+f | d | Remuneración de los asalariados",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 25,
+    "text": "P2 | Consumos intermedios | e | Sueldos y salarios",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 26,
+    "text": "B.1b/B.1*b | Valor añadido bruto/Producto interior bruto | f | Cotizaciones sociales a cargo de los empleadores",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 27,
+    "text": "g | Otros impuestos netos sobre la producción",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 28,
+    "text": "https://ine.es/daco/daco42/cne24/cecoint95_24.xlsx | h | Excedente de explotación bruto y Renta mixta bruta",
+    "links": [
+      "https://ine.es/daco/daco42/cne24/cecoint95_24.xlsx"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 29,
+    "text": "INEbase / Economía /Cuentas económicas /Cuentas anuales no financieras de los sectores institucionales / Resultados",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 30,
+    "text": "https://www.ine.es/jaxiT3/Tabla.htm?t=32449",
+    "links": [
+      "https://www.ine.es/jaxiT3/Tabla.htm?t=32449"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 33,
+    "text": "mercado de traballo",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 35,
+    "text": "Average annual hours worked by persons engaged | Pen World Tables 100",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 36,
+    "text": "https://www.rug.nl/ggdc/productivity/pwt/?lang=en",
+    "links": [
+      "https://www.rug.nl/ggdc/productivity/pwt/?lang=en"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 39,
+    "text": "Labor",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 41,
+    "text": "Paro Rexistrado | Datos 2001-2024",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 42,
+    "text": "Servicio Público de Empleo Estatal",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 43,
+    "text": "https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/datos-avance/paro",
+    "links": [
+      "https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/datos-avance/paro"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 44,
+    "text": "Evolución del paro registrado según sectores. Años 2001 a 2021",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 45,
+    "text": "Evolución del paro registrado según sexo y edad. Años 2001 a 2021",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 46,
+    "text": "Nota. O dato están calculado como o promedio anual dos datos mensuais",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 48,
+    "text": "Datos 1981-2000",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 49,
+    "text": "INEM | (Teño que atopar de onde os saquei: documento FEDEA?)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 51,
+    "text": "EPA | Datos 2006-2024",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 52,
+    "text": "INE",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 53,
+    "text": "Media de los cuatro trimestres del año Parados",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 54,
+    "text": "Parados por sexo y grupo de edad. Valores absolutos y porcentajes respecto del total de cada sexo",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 55,
+    "text": "Unidades:  Miles Personas",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 56,
+    "text": "https://www.ine.es/jaxiT3/Tabla.htm?t=4886&L=0",
+    "links": [
+      "https://www.ine.es/jaxiT3/Tabla.htm?t=4886&L=0"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 58,
+    "text": "Nota-Coincide cos datos de AMECO",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 60,
+    "text": "Datos 1981-2011",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 61,
+    "text": "INEM | (Teño que atopar de onde os saquei: documento FEDEA?)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 63,
+    "text": "Salário Mínimo | Ministerio de Trabajo y Economía Social",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 64,
+    "text": "El salario y tiempo de Trabajo",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 65,
+    "text": "13.2. El Salario Mínimo Interprofesional",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 66,
+    "text": "https://www.mites.gob.es/es/Guia/texto/guia_6/contenidos/guia_6_13_2.htm",
+    "links": [
+      "https://www.mites.gob.es/es/Guia/texto/guia_6/contenidos/guia_6_13_2.htm"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 67,
+    "text": "https://www.mites.gob.es/estadisticas/bel/SMI/smi1.xls",
+    "links": [
+      "https://www.mites.gob.es/estadisticas/bel/SMI/smi1.xls"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 69,
+    "text": "Nota- Para 2022 prorrateou-se os meses nos que estivo vixente cada Salário Mínimo (01-08 e 09-12)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 71,
+    "text": "POP",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 73,
+    "text": "Defuncións | Movimiento Natural de la Población: DefuncionesDefunciones (Cifras anuales)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 74,
+    "text": "Por lugar de residencia y sexo. Total nacional y provincias",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 75,
+    "text": "Unidades:  Defunciones",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 76,
+    "text": "1940-1974 | https://www.ine.es/jaxiT3/Tabla.htm?t=6554&L=0",
+    "links": [
+      "https://www.ine.es/jaxiT3/Tabla.htm?t=6554&L=0"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 77,
+    "text": "1975- | https://www.ine.es/jaxiT3/Tabla.htm?t=6545&L=0",
+    "links": [
+      "https://www.ine.es/jaxiT3/Tabla.htm?t=6545&L=0"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 79,
+    "text": "Matrimonios | Series anuales Matrimonios de diferente sexo (Cifras anuales)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 80,
+    "text": "Por lugar de residencia. Total nacional y comunidades autónomas",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 81,
+    "text": "1975- | https://www.ine.es/jaxiT3/Tabla.htm?t=6529&L=0",
+    "links": [
+      "https://www.ine.es/jaxiT3/Tabla.htm?t=6529&L=0"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 83,
+    "text": "Nacementos | Movimiento Natural de la Población: Nacimientos Nacimientos (Cifras anuales)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 84,
+    "text": "Por lugar de inscripción y sexo. Total nacional y provincias",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 85,
+    "text": "https://www.ine.es/jaxiT3/Tabla.htm?t=6518&L=0",
+    "links": [
+      "https://www.ine.es/jaxiT3/Tabla.htm?t=6518&L=0"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 88,
+    "text": "Empresas",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 89,
+    "text": "https://ine.es/dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735576550",
+    "links": [
+      "https://ine.es/dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735576550"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 91,
+    "text": "Quebras | Quebras e suspensión de datos",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 93,
+    "text": "Número de empresas | Activo (euros) | Pasivo (euros)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 94,
+    "text": "1990Q1-2004Q3 | Suspensiones. Total | https://www.ine.es/jaxi/Tabla.htm?path=/t38/bme2/t30/p148/l0/&file=0906001a.px&L=0 | https://www.ine.es/jaxi/Tabla.htm?path=/t38/bme2/t30/p148/l0/&file=0906001a.px&L=0 | https://www.ine.es/jaxi/Tabla.htm?path=/t38/bme2/t30/p148/l0/&file=0906001a.px&L=0",
+    "links": [
+      "https://www.ine.es/jaxi/Tabla.htm?path=/t38/bme2/t30/p148/l0/&file=0906001a.px&L=0",
+      "https://www.ine.es/jaxi/Tabla.htm?path=/t38/bme2/t30/p148/l0/&file=0906001a.px&L=0",
+      "https://www.ine.es/jaxi/Tabla.htm?path=/t38/bme2/t30/p148/l0/&file=0906001a.px&L=0"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 95,
+    "text": "1990Q1-2004Q4 | ACTIVO (miles euros)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 96,
+    "text": "1990Q1-2004Q5 | PASIVO (miles euros)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 98,
+    "text": "2005-2020 | Empresas concursadas por tramo de volumen de negocio | https://www.ine.es/jaxiT3/Tabla.htm?t=3184",
+    "links": [
+      "https://www.ine.es/jaxiT3/Tabla.htm?t=3184"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 100,
+    "text": "2004Q3-2020 | Empresas concursadas | https://www.ine.es/jaxiT3/Tabla.htm?t=3169",
+    "links": [
+      "https://www.ine.es/jaxiT3/Tabla.htm?t=3169"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 102,
+    "text": "Declaraciones de quiebras. Resumen general | https://www.ine.es/jaxi/Tabla.htm?path=/t38/bme2/t30/p148/l0/&file=0906003a.px&L=0",
+    "links": [
+      "https://www.ine.es/jaxi/Tabla.htm?path=/t38/bme2/t30/p148/l0/&file=0906003a.px&L=0"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 103,
+    "text": "Quiebras e Suspensión de Pagos",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 105,
+    "text": "Money-i-e",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 106,
+    "text": "Series monetarias procedentes do Banco de España (?)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 108,
+    "text": "e (Peseta/Dólar) | WorldBank Database | España | https://data.worldbank.org/country/spain",
+    "links": [
+      "https://data.worldbank.org/country/spain"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 109,
+    "text": "e (EURO/Dólar) | WorldBank Database | Euro Zone | https://data.worldbank.org/region/euro-area",
+    "links": [
+      "https://data.worldbank.org/region/euro-area"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 111,
+    "text": "Yield curve | http://www.worldgovernmentbonds.com/country/spain/",
+    "links": [
+      "http://www.worldgovernmentbonds.com/country/spain/"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 117,
+    "text": "Tabla de los tipos de referencia oficiales del mercado hipotecario | Banco de España | https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/relacionados/tiposinteres/guia-textual/tiposinteresrefe/tabla_tipos_referencia_oficiales_mercado_hipotecario.html?anyo=d293dd0fb7626810VgnVCM10000083f614acRCRD",
+    "links": [
+      "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/relacionados/tiposinteres/guia-textual/tiposinteresrefe/tabla_tipos_referencia_oficiales_mercado_hipotecario.html?anyo=d293dd0fb7626810VgnVCM10000083f614acRCRD"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 122,
+    "text": "Resto de Follas: AMECO",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 124,
+    "text": "annual data set of the macro-economic database AMECO",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 126,
+    "text": "https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/macro-economic-database-ameco/download-annual-data-set-macro-economic-database-ameco_en",
+    "links": [
+      "https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/macro-economic-database-ameco/download-annual-data-set-macro-economic-database-ameco_en"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 128,
+    "text": "Last update : Autumn 2021 Economic Forecast (15/11/2023)",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 130,
+    "text": "REAL | NOMINAL | POP | K | mercado traballo | Indices Prezos | i-e",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 131,
+    "text": "PIB | AMECO6.Domestic Product - ESP.1.1.0.0.OVGD | AMECO6.Domestic Product - ESP.1.0.0.0.UVGD",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 132,
+    "text": "C | AMECO2.Consumption - ESP.1.1.0.0.OCPH | AMECO2.Consumption - ESP.1.0.0.0.UCPH",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 133,
+    "text": "FBC | AMECO3.Capital Formation - ESP.1.1.0.0.OITT | AMECO3.Capital Formation - ESP.1.0.0.0.UITT",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 134,
+    "text": "FBCF | AMECO3.Capital Formation - ESP.1.1.0.0.OIGT | AMECO3.Capital Formation - ESP.1.0.0.0.UIGT",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 135,
+    "text": "VE | AMECO3.Capital Formation - ESP.1.0.0.0.OIST | AMECO3.Capital Formation - ESP.1.0.0.0.UIST",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 136,
+    "text": "G | AMECO2.Consumption - ESP.1.1.0.0.OCTG | AMECO2.Consumption - ESP.1.0.0.0.UCTG",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 137,
+    "text": "X | AMECO9.Exports and Imports of Goods And Services - ESP.1.1.0.0.OXGS | AMECO9.Exports and Imports of Goods And Services - ESP.1.0.0.0.UXGS",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 138,
+    "text": "IM | AMECO9.Exports and Imports of Goods And Services - ESP.1.1.0.0.OMGS | AMECO9.Exports and Imports of Goods And Services - ESP.1.0.0.0.UMGS",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 140,
+    "text": "Total population (National accounts)  | AMECO1.Population and  - ESP.1.0.0.0.NPTD",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 141,
+    "text": "Total population  | AMECO1.Population and Employment - ESP.1.0.0.0.NPTN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 142,
+    "text": "Population: 0 to 14 years  | AMECO1.Population and Employment - ESP.1.0.0.0.NPCN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 143,
+    "text": "Population: 15 to 64 years  | AMECO1.Population and Employment - ESP.1.0.0.0.NPAN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 144,
+    "text": "Population: 65 years and over  | AMECO1.Population and Employment - ESP.1.0.0.0.NPON",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 146,
+    "text": "K (real) | AMECO8.Capital Stock - ESP.1.0.0.0.OKND",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 147,
+    "text": "CCF (nominal) | AMECO3.Capital Formation - ESP.1.0.0.0.UKCT",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 148,
+    "text": "CCF (real) | AMECO3.Capital Formation - ESP.1.1.0.0.OKCT",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 150,
+    "text": "Activos | AMECO1.Population and Employment - ESP.1.0.0.0.NLTN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 151,
+    "text": "Empregados | AMECO1.Population and Employment - ESP.1.0.0.0.NETN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 152,
+    "text": "Desempregados | AMECO1.Population and Employment - ESP.1.0.0.0.NUTN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 153,
+    "text": "horas equivalentes | AMECO1.Population and Employment",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 155,
+    "text": "PIBcf | AMECO6.Domestic Product - ESP.1.0.0.0.UYGD",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 156,
+    "text": "w | AMECO7.GDPincome - ESP.1.0.0.0.UWCD",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 157,
+    "text": "OS (Gross) | AMECO7.GDPincome - ESP.1.0.0.0.UOGD",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 158,
+    "text": "T | AMECO7.GDPincome - ESP.1.0.0.0.UTVT",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 159,
+    "text": "Subs | AMECO7.GDPincome - ESP.1.0.0.0.UYVT",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 161,
+    "text": "S | AMECO3.Capital Formation - ESP.1.0.0.0.USGP",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 162,
+    "text": "T-G | AMECO3.Capital Formation - ESP.1.0.0.0.USGG",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 163,
+    "text": "S+(T-G) | AMECO3.Capital Formation - ESP.1.0.0.0.USGN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 165,
+    "text": "IPC | AMECO2.Consumption - ESP.3.0.0.0.ZCPIN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 167,
+    "text": "Taxa de xuro nominal CP - España | AMECO13. Monetary Variables - ESP.1.1.0.0.ISN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 168,
+    "text": "Taxa de xuro nominal LP - España | AMECO13. Monetary Variables - ESP.1.1.0.0.ILN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 169,
+    "text": "Taxa de xuro nominal CP - USA | AMECO13. Monetary Variables - USA.1.1.0.0.ISN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 170,
+    "text": "Taxa de xuro nominal LP - USA | AMECO13. Monetary Variables - USA.1.1.0.0.ILN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 172,
+    "text": "e (Peseta/EURO) | AMECO13. Monetary Variables -ESP.1.0.99.0.XNEF",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 174,
+    "text": "IPC - USA | AMECO2.Consumption - USA.3.0.0.0.ZCPIN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 175,
+    "text": "Defl -USA | AMECO6.Domestic Product - USA.3.1.0.0.PVGD | USA.3.0.0.0.ZCPIN",
+    "links": []
+  },
+  {
+    "sheet": "Source",
+    "row": 128,
+    "text": "hipervínculo de celda",
+    "links": [
+      "https://ec.europa.eu/info/business-economy-euro/economic-performance-and-forecasts/economic-forecasts/autumn-2021-economic-forecast-recovery-expansion-amid-headwinds_en"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 4,
+    "text": "hipervínculo de celda",
+    "links": [
+      "mailto:egimenez@uvigo.gal"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 43,
+    "text": "hipervínculo de celda",
+    "links": [
+      "https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/datos-avance/paro"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 63,
+    "text": "hipervínculo de celda",
+    "links": [
+      "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwitkNHRzN6EAxUshP0HHa_9AwkQFnoECA0QAQ&url=https%3A%2F%2Fwww.mites.gob.es%2Festadisticas%2Fbel%2FSMI%2Fsmi1.xls&usg=AOvVaw3ejxkouULfbiZ_L1sHAKQS&opi=89978449"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 67,
+    "text": "hipervínculo de celda",
+    "links": [
+      "https://www.mites.gob.es/estadisticas/bel/SMI/smi1.xls"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 77,
+    "text": "hipervínculo de celda",
+    "links": [
+      "https://www.ine.es/jaxiT3/Tabla.htm?t=6545&L=0"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 29,
+    "text": "hipervínculo de celda",
+    "links": [
+      "https://ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177054&menu=resultados&idp=1254735576581"
+    ]
+  },
+  {
+    "sheet": "Source",
+    "row": 20,
+    "text": "hipervínculo de celda",
+    "links": [
+      "https://www.ine.es/daco/daco42/cne15/cecoint95_20.xlsx"
+    ]
+  }
+]

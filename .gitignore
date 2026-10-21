@@ -38,6 +38,11 @@ desktop.ini
 *.zip
 *.tar.gz
 *.wf1
+bronze/
+silver/
+gold/
+catalogo/
+snapshots/
 
 # ==========================================
 # 4. GRÁFICOS GENERADOS (R / Julia)
@@ -80,6 +85,30 @@ Manifest.toml
 renv/library/
 renv/staging/
 renv/sandbox/
+
+# ==========================================
+# 7. python
+# ==========================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
 # ==========================================
 # 7. NUSHELL (Opcional)

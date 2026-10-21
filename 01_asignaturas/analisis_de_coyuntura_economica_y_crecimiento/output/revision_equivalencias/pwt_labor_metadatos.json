@@ -1,0 +1,59 @@
+{
+  "variables": {
+    "countrycode": "3-letter ISO country code",
+    "year": "Year",
+    "emp": "Number of persons engaged",
+    "avh": "Average annual hours worked by persons engaged",
+    "i_emp": "",
+    "yr_sch": "Average years of schooling in the population aged 25 years and older",
+    "source": "Source of schooling data",
+    "labsh": "Share of labour compensation in GDP at current national prices",
+    "i_labsh": "Method",
+    "i_labsh2": "Observed or estimated",
+    "comp_sh": "Share of labor income of empoyees in GDP",
+    "i_mix": "",
+    "lab_sh1": "Share of labor income in GDP – All mixed income",
+    "lab_sh2": "Share of labor income in GDP – Part mixed income",
+    "lab_sh3": "Share of labor income in GDP – Average wage of employees",
+    "lab_sh4": "Share of labor income in GDP – Agriculture share",
+    "i_comp_sh": "Observed or estimated",
+    "i_lab_sh1": "Observed or estimated",
+    "i_lab_sh2": "Observed or estimated",
+    "i_lab_sh3": "Observed or estimated",
+    "i_lab_sh4": "Observed or estimated",
+    "countryname": "Country Name",
+    "indicatorname": "Indicator Name",
+    "seriescode": "Series Code"
+  },
+  "categorias": {
+    "i_labsh": {
+      "1": "Adjustment 2, part mixed income",
+      "2": "Naïve share",
+      "3": "Adjustment 3, average wage",
+      "4": "Adjustment 4, agriculture"
+    },
+    "i_labsh2": {
+      "0": "Assumed constant or interpolated",
+      "1": "Observed data",
+      "2": "extrapolation mixed income share"
+    },
+    "source": {
+      "0": "Barro-Lee",
+      "1": "Cohen-Soto-Leker",
+      "2": "UN-extrapolation"
+    },
+    "i_emp": {
+      "0": "Extrapolated",
+      "1": "TCB",
+      "2": "TCB (interpolated)",
+      "3": "ILO (official)",
+      "4": "ILO (interpolated)",
+      "5": "WDI (employment)",
+      "6": "WDI (emp., interpolated)",
+      "7": "WDI (labor force)",
+      "11": "ETD",
+      "12": "EASD (interpolated)",
+      "13": "10SD (interpolated)"
+    }
+  }
+}
