@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_batch_1",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/NE.GDI.STKB.CN;NE.EXP.GNFS.CN;NE.EXP.GNFS.KN;NE.IMP.GNFS.CN;NE.IMP.GNFS.KN;FP.CPI.TOTL;SP.POP.TOTL;SP.POP.0014.TO;SP.POP.1564.TO;SP.POP.65UP.TO?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_batch_1/20261021T204712520631Z_b9e8149701f0.json",
+  "sha256": "b9e8149701f047e265b506abc9080e572682cb6961b801ea5a8d0e5803271d99",
+  "size_bytes": 144354,
+  "accessed_at_utc": "2026-10-21T20:47:12.520864+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

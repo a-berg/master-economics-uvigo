@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_nv_agr_totl_cn",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/NV.AGR.TOTL.CN?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_nv_agr_totl_cn/20261021T204714934141Z_8a0138496c2f.json",
+  "sha256": "8a0138496c2f1ee3365fb91142f0632d96b554ce3f49709458edf2ce653b8ab5",
+  "size_bytes": 1302,
+  "accessed_at_utc": "2026-10-21T20:47:14.934314+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

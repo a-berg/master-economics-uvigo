@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_data_sl_emp_totl_sp_zs",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/SL.EMP.TOTL.SP.ZS?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_data_sl_emp_totl_sp_zs/20261021T204849162787Z_8c5c4c634d6f.json",
+  "sha256": "8c5c4c634d6f6b817707aa74cda205182db8166664c578711513e898449a1073",
+  "size_bytes": 16529,
+  "accessed_at_utc": "2026-10-21T20:48:49.162987+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

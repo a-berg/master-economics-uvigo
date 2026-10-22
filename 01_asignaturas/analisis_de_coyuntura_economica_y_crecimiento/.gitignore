@@ -1,0 +1,13 @@
+# Preserve the China delivery in Git despite repository-wide bronze/silver ignores.
+!datos/bronze/
+datos/bronze/*
+!datos/bronze/china_*/
+!datos/bronze/china_*/*
+!datos/bronze/professor_instructions_20261021/
+!datos/bronze/professor_instructions_20261021/*.pdf
+!datos/silver/
+datos/silver/*
+!datos/silver/china*
+!notebooks/04_china.ipynb
+!output/revision_china/
+!output/revision_china/**

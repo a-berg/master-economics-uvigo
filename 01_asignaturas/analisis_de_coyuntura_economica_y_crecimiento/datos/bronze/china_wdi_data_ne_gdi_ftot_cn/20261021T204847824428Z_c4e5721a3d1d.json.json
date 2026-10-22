@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_data_ne_gdi_ftot_cn",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/NE.GDI.FTOT.CN?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_data_ne_gdi_ftot_cn/20261021T204847824428Z_c4e5721a3d1d.json",
+  "sha256": "c4e5721a3d1d992aae05c00bb5c1f6fd1abe9356cdc29083eb5501c7742c6cd4",
+  "size_bytes": 15100,
+  "accessed_at_utc": "2026-10-21T20:48:47.824726+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

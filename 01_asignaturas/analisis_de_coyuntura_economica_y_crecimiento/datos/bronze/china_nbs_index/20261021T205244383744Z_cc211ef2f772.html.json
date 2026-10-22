@@ -1,0 +1,14 @@
+{
+  "id": "china_nbs_index",
+  "provider": "nbs",
+  "url": "https://www.stats.gov.cn/sj/ndsj/2025/left_.htm",
+  "format": "html",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_nbs_index/20261021T205244383744Z_cc211ef2f772.html",
+  "sha256": "cc211ef2f772f8df4b8722b8ac8bcec1295f2dc4c69c8c216edad34186478a75",
+  "size_bytes": 80507,
+  "accessed_at_utc": "2026-10-21T20:52:44.384115+00:00",
+  "content_type": "text/html",
+  "provider_updated_at": null
+}

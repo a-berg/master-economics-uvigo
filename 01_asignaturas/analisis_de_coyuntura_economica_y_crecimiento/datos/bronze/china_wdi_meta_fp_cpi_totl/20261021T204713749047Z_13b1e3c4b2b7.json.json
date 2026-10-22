@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_fp_cpi_totl",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/FP.CPI.TOTL?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_fp_cpi_totl/20261021T204713749047Z_13b1e3c4b2b7.json",
+  "sha256": "13b1e3c4b2b72f7fb3a630b4dde37f0e68e6d5e78dc06b2437dfea0c0b93af46",
+  "size_bytes": 459,
+  "accessed_at_utc": "2026-10-21T20:47:13.749222+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

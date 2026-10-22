@@ -1,0 +1,14 @@
+{
+  "id": "china_imf_accounts_method",
+  "provider": "imf",
+  "url": "https://dsbb.imf.org/sdds/dqaf-base/country/CHN/category/NAG00",
+  "format": "html",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_imf_accounts_method/20261021T205737607138Z_5bdfdf3dc435.html",
+  "sha256": "5bdfdf3dc43587e8a96634d65ee30e0c5359093076ef4db30485561c10de4bd9",
+  "size_bytes": 44059,
+  "accessed_at_utc": "2026-10-21T20:57:37.607562+00:00",
+  "content_type": "text/html; charset=utf-8",
+  "provider_updated_at": null
+}

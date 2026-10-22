@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_fr_inr_dpst",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/FR.INR.DPST?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_fr_inr_dpst/20261021T204715014334Z_6975dc3f7043.json",
+  "sha256": "6975dc3f7043684e9beed19f21209e98ee5bdc104275a0eca8cf82f176d0e2d2",
+  "size_bytes": 614,
+  "accessed_at_utc": "2026-10-21T20:47:15.014545+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

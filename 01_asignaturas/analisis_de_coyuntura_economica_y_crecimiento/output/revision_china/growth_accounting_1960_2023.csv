@@ -1,0 +1,7 @@
+start,end,gdp_log_growth,capital_contribution,employment_contribution,solow_residual,alpha,n_years,note
+1960,1989,6.12821976182667,2.186769660586982,1.742164024892344,2.199286076347344,0.3333333333333333,30,Mismos periodos temas 6–7; residuo no identifica tecnología; PWT estimaciones y PIB oficial CHN
+1989,2000,9.366572501794224,3.144064608888856,0.8643801879971386,5.358127704908229,0.3333333333333333,12,Mismos periodos temas 6–7; residuo no identifica tecnología; PWT estimaciones y PIB oficial CHN
+2000,2008,10.153764634095461,3.790034577906129,0.44160066380733975,5.922129392381993,0.3333333333333333,9,Mismos periodos temas 6–7; residuo no identifica tecnología; PWT estimaciones y PIB oficial CHN
+2008,2019,7.534699217676406,3.6189901292751845,0.020400041002393055,3.895309047398828,0.3333333333333333,12,Mismos periodos temas 6–7; residuo no identifica tecnología; PWT estimaciones y PIB oficial CHN
+2019,2023,4.587204732037186,2.4856814174828465,-0.31963408954041417,2.421157404094754,0.3333333333333333,5,Mismos periodos temas 6–7; residuo no identifica tecnología; PWT estimaciones y PIB oficial CHN
+1960,2023,7.352560285842266,2.8265543582540844,0.9922160030661887,3.5337899245219933,0.3333333333333333,64,Mismos periodos temas 6–7; residuo no identifica tecnología; PWT estimaciones y PIB oficial CHN

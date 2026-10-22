@@ -1,0 +1,14 @@
+{
+  "id": "china_nbs_accounts_method",
+  "provider": "nbs",
+  "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/sme03.htm",
+  "format": "html",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_nbs_accounts_method/20261021T205242164486Z_ab38cae3ccb4.html",
+  "sha256": "ab38cae3ccb438bc1d0fd9400ac4a436f9e40436da2918742d190d489f734bd7",
+  "size_bytes": 8786,
+  "accessed_at_utc": "2026-10-21T20:52:42.164692+00:00",
+  "content_type": "text/html",
+  "provider_updated_at": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_data_ny_gns_ictr_cn",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/NY.GNS.ICTR.CN?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_data_ny_gns_ictr_cn/20261021T204849533163Z_c63f99a51e8f.json",
+  "sha256": "c63f99a51e8f7273dd51e35a135662ca5f5206ddd1b25f749fc39f4812b2f826",
+  "size_bytes": 13934,
+  "accessed_at_utc": "2026-10-21T20:48:49.533417+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

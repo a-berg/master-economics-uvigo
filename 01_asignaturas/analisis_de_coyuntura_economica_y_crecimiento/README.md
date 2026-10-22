@@ -2,6 +2,22 @@
 
 Pipeline de datos para el informe del máster. El Excel del profesor se conserva como referencia documental. Las cifras nuevas se obtienen desde fuentes oficiales y desde PWT 11.0.
 
+## China: entrega de datos y límites (21/10/2026)
+
+La nueva entrega está documentada en [CIERRE_CHINA.md](output/revision_china/CIERRE_CHINA.md). Incluye silver larga y anual separadas, [contratos](output/revision_china/contratos.csv), [catálogo](output/revision_china/catalogo_china.csv), correspondencias con las 125 entradas españolas y [notebook ejecutado](notebooks/04_china.ipynb). Los recuentos y controles vigentes están en [quality.json](output/revision_china/quality.json).
+
+Las candidatas con escala o valoración pendiente permanecen fuera de la vista analítica. Los índices de demanda PWT permiten estudiar evolución sin certificar niveles monetarios. NBS se utilizó después de las fuentes prioritarias para huecos concretos; sus coincidencias con distribuidores internacionales no acreditan independencia. Se conservan los originales nuevos y las instrucciones del profesor recuperadas del chat. La entrega española y v0 no se modifican.
+
+```sh
+uv sync --locked --group analysis
+uv run --offline python src/china_silver.py
+uv run --offline python src/china_quality.py
+uv run --offline --group analysis python src/create_china_notebook.py
+uv run --offline --group analysis python src/verify_china.py
+```
+
+Los límites de cobertura, equivalencia y acceso están en [BUSQUEDA_Y_BLOQUEOS.md](output/revision_china/BUSQUEDA_Y_BLOQUEOS.md). La contabilidad de crecimiento nueva cubre 1960–2023, como exigen las instrucciones; el resto del pipeline histórico conserva sus parámetros provisionales.
+
 ## Estado vigente: integración de España (21/10/2026)
 
 La silver contiene **123 series y 6.434 observaciones**; se han integrado las 26 series recuperadas. La vista analítica excluye previsiones AMECO y el periodo parcial de concursos de 2004. Las coberturas varían entre series: 1946–2025 es el rango conjunto, no un panel completo.

@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_ny_adj_dkap_cn",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/NY.ADJ.DKAP.CN?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_ny_adj_dkap_cn/20261021T204714917227Z_f230e5b6d8f6.json",
+  "sha256": "f230e5b6d8f652aa544aec29624faa117c27571ce309a7a474584e1cfeb45c1b",
+  "size_bytes": 102,
+  "accessed_at_utc": "2026-10-21T20:47:14.917463+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

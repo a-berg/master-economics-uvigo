@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_data_ny_gnp_mktp_cn",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/NY.GNP.MKTP.CN?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_data_ny_gnp_mktp_cn/20261021T204849883153Z_1f89a3e2900a.json",
+  "sha256": "1f89a3e2900a016c847b33624573951b51cfd195569afb117def19176dd8318b",
+  "size_bytes": 13433,
+  "accessed_at_utc": "2026-10-21T20:48:49.883404+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

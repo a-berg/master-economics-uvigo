@@ -1,0 +1,14 @@
+{
+  "id": "china_pbc_m1_method",
+  "provider": "pbc",
+  "url": "https://www.pbc.gov.cn/en/3688247/3688978/3709137/2025080817512723397/index.html",
+  "format": "html",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_pbc_m1_method/20261021T205738341165Z_dd544c272f96.html",
+  "sha256": "dd544c272f9650098a78d9f73809ad67e75193a8a97bb56caa4d9ce46836aec3",
+  "size_bytes": 136936,
+  "accessed_at_utc": "2026-10-21T20:57:38.341495+00:00",
+  "content_type": "text/html",
+  "provider_updated_at": null
+}

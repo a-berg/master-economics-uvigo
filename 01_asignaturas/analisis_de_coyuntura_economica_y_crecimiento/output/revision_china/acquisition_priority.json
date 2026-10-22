@@ -1,0 +1,471 @@
+[
+  {
+    "id": "china_wdi_data_ny_gdp_mktp_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ny_gdp_mktp_cn/20261021T204847192070Z_d6caebda9009.json"
+  },
+  {
+    "id": "china_wdi_meta_ny_gdp_mktp_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ny_gdp_mktp_cn/20261021T204712105156Z_09e99958a924.json"
+  },
+  {
+    "id": "china_wdi_data_ny_gdp_mktp_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ny_gdp_mktp_kn/20261021T204847133777Z_1cacfb90ad7f.json"
+  },
+  {
+    "id": "china_wdi_meta_ny_gdp_mktp_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ny_gdp_mktp_kn/20261021T204712331797Z_70eaa4a629f8.json"
+  },
+  {
+    "id": "china_wdi_data_ne_con_prvt_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_con_prvt_cn/20261021T204847151978Z_02b7c5e54d72.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_con_prvt_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_con_prvt_cn/20261021T204712500978Z_3d6aeb575c6f.json"
+  },
+  {
+    "id": "china_wdi_data_ne_con_prvt_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_con_prvt_kn/20261021T204847111517Z_34963a3e58ed.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_con_prvt_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_con_prvt_kn/20261021T204712779221Z_c1b30e098c3c.json"
+  },
+  {
+    "id": "china_wdi_data_ne_con_govt_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_con_govt_cn/20261021T204847136926Z_929f3fe43d79.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_con_govt_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_con_govt_cn/20261021T204712912869Z_128d801e66ca.json"
+  },
+  {
+    "id": "china_wdi_data_ne_con_govt_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_con_govt_kn/20261021T204847494806Z_4b1361eda280.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_con_govt_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_con_govt_kn/20261021T204712721509Z_519690357aa1.json"
+  },
+  {
+    "id": "china_wdi_data_ne_gdi_totl_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_gdi_totl_cn/20261021T204847489591Z_52a9bf47ed8f.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_gdi_totl_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_gdi_totl_cn/20261021T204713110783Z_146ae4568a07.json"
+  },
+  {
+    "id": "china_wdi_data_ne_gdi_totl_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_gdi_totl_kn/20261021T204847753686Z_b73d02d23a61.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_gdi_totl_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_gdi_totl_kn/20261021T204713660977Z_0b120504aa0a.json"
+  },
+  {
+    "id": "china_wdi_data_ne_gdi_ftot_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_gdi_ftot_cn/20261021T204847824428Z_c4e5721a3d1d.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_gdi_ftot_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_gdi_ftot_cn/20261021T204713636320Z_b651d46e1794.json"
+  },
+  {
+    "id": "china_wdi_data_ne_gdi_ftot_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_gdi_ftot_kn/20261021T204847599686Z_f10e25d84fe1.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_gdi_ftot_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_gdi_ftot_kn/20261021T204713666220Z_d4b026bbedf1.json"
+  },
+  {
+    "id": "china_wdi_data_ne_gdi_stkb_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_gdi_stkb_cn/20261021T204847864629Z_b9b2e96282bc.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_gdi_stkb_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_gdi_stkb_cn/20261021T204713647405Z_6b45b911be27.json"
+  },
+  {
+    "id": "china_wdi_data_ne_gdi_stkb_kn",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_wdi_data_ne_gdi_stkb_kn/20261021T210717814100Z_0318132f3e33.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_gdi_stkb_kn",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_wdi_meta_ne_gdi_stkb_kn/20261021T210717730171Z_88068909e704.json"
+  },
+  {
+    "id": "china_wdi_data_ne_exp_gnfs_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_exp_gnfs_cn/20261021T204847869152Z_aebe18a9a782.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_exp_gnfs_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_exp_gnfs_cn/20261021T204713649717Z_6740ac3dfdad.json"
+  },
+  {
+    "id": "china_wdi_data_ne_exp_gnfs_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_exp_gnfs_kn/20261021T204848236895Z_bc9590738de6.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_exp_gnfs_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_exp_gnfs_kn/20261021T204713998850Z_2f773a24b09b.json"
+  },
+  {
+    "id": "china_wdi_data_ne_imp_gnfs_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_imp_gnfs_cn/20261021T204848170734Z_8b6ef55638fc.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_imp_gnfs_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_imp_gnfs_cn/20261021T204713911835Z_42ea3647a1e7.json"
+  },
+  {
+    "id": "china_wdi_data_ne_imp_gnfs_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ne_imp_gnfs_kn/20261021T204848147769Z_520195a1902e.json"
+  },
+  {
+    "id": "china_wdi_meta_ne_imp_gnfs_kn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ne_imp_gnfs_kn/20261021T204713950752Z_d5a8793785a0.json"
+  },
+  {
+    "id": "china_wdi_data_fp_cpi_totl",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_fp_cpi_totl/20261021T204848539284Z_e8f4a810d762.json"
+  },
+  {
+    "id": "china_wdi_meta_fp_cpi_totl",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_fp_cpi_totl/20261021T204713749047Z_13b1e3c4b2b7.json"
+  },
+  {
+    "id": "china_wdi_data_sp_pop_totl",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_sp_pop_totl/20261021T204848249853Z_f9fa8ef7566c.json"
+  },
+  {
+    "id": "china_wdi_meta_sp_pop_totl",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_sp_pop_totl/20261021T204713747927Z_2f8491efc00b.json"
+  },
+  {
+    "id": "china_wdi_data_sp_pop_0014_to",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_sp_pop_0014_to/20261021T204848505341Z_6189331832a9.json"
+  },
+  {
+    "id": "china_wdi_meta_sp_pop_0014_to",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_sp_pop_0014_to/20261021T204714058313Z_88b6150f5f2f.json"
+  },
+  {
+    "id": "china_wdi_data_sp_pop_1564_to",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_sp_pop_1564_to/20261021T204848606867Z_9f0f83fb1c5e.json"
+  },
+  {
+    "id": "china_wdi_meta_sp_pop_1564_to",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_sp_pop_1564_to/20261021T204714068900Z_a705d3d61c94.json"
+  },
+  {
+    "id": "china_wdi_data_sp_pop_65up_to",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_sp_pop_65up_to/20261021T204848658218Z_a24c1d359723.json"
+  },
+  {
+    "id": "china_wdi_meta_sp_pop_65up_to",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_sp_pop_65up_to/20261021T204714542781Z_5a09266e614a.json"
+  },
+  {
+    "id": "china_wdi_data_sl_tlf_totl_in",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_sl_tlf_totl_in/20261021T204848679714Z_110d2470c147.json"
+  },
+  {
+    "id": "china_wdi_meta_sl_tlf_totl_in",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_sl_tlf_totl_in/20261021T204714206418Z_340678b5331f.json"
+  },
+  {
+    "id": "china_wdi_data_sl_uem_totl_zs",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_sl_uem_totl_zs/20261021T204848731508Z_710a0533b3cb.json"
+  },
+  {
+    "id": "china_wdi_meta_sl_uem_totl_zs",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_sl_uem_totl_zs/20261021T204714122313Z_3ae370ed4beb.json"
+  },
+  {
+    "id": "china_wdi_data_sl_tlf_cact_zs",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_sl_tlf_cact_zs/20261021T204849155776Z_4cc61906513a.json"
+  },
+  {
+    "id": "china_wdi_meta_sl_tlf_cact_zs",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_sl_tlf_cact_zs/20261021T204714176403Z_10154473c4d7.json"
+  },
+  {
+    "id": "china_wdi_data_sl_emp_totl_sp_zs",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_sl_emp_totl_sp_zs/20261021T204849162787Z_8c5c4c634d6f.json"
+  },
+  {
+    "id": "china_wdi_meta_sl_emp_totl_sp_zs",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_sl_emp_totl_sp_zs/20261021T204714169877Z_58f353c396c5.json"
+  },
+  {
+    "id": "china_wdi_data_si_pov_gini",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_si_pov_gini/20261021T204849170725Z_ac6562f5b7d0.json"
+  },
+  {
+    "id": "china_wdi_meta_si_pov_gini",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_si_pov_gini/20261021T204714716146Z_e377bf82b380.json"
+  },
+  {
+    "id": "china_wdi_data_fm_lbl_bmny_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_fm_lbl_bmny_cn/20261021T204849107062Z_a29b29cf18a9.json"
+  },
+  {
+    "id": "china_wdi_meta_fm_lbl_bmny_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_fm_lbl_bmny_cn/20261021T204714638426Z_8038d7abc086.json"
+  },
+  {
+    "id": "china_wdi_data_fm_lbl_mqmy_cn",
+    "status": "failed",
+    "artifact": "datos/bronze/china_wdi_data_fm_lbl_mqmy_cn/20261021T204849048250Z_f230e5b6d8f6.json",
+    "error": "WDI response has no data array; original response preserved"
+  },
+  {
+    "id": "china_wdi_meta_fm_lbl_mqmy_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_fm_lbl_mqmy_cn/20261021T204714397275Z_9822811f0ca2.json"
+  },
+  {
+    "id": "china_wdi_data_fm_lbl_mony_cn",
+    "status": "failed",
+    "artifact": "datos/bronze/china_wdi_data_fm_lbl_mony_cn/20261021T204849600565Z_f230e5b6d8f6.json",
+    "error": "WDI response has no data array; original response preserved"
+  },
+  {
+    "id": "china_wdi_meta_fm_lbl_mony_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_fm_lbl_mony_cn/20261021T204714545000Z_1834760c310f.json"
+  },
+  {
+    "id": "china_wdi_data_pa_nus_fcrf",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_pa_nus_fcrf/20261021T204849671979Z_6866b853df62.json"
+  },
+  {
+    "id": "china_wdi_meta_pa_nus_fcrf",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_pa_nus_fcrf/20261021T204714567643Z_879ac40c1e11.json"
+  },
+  {
+    "id": "china_wdi_data_fr_inr_lend",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_fr_inr_lend/20261021T204849807498Z_0f7b7bd4381b.json"
+  },
+  {
+    "id": "china_wdi_meta_fr_inr_lend",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_fr_inr_lend/20261021T204714637549Z_5ba11a439eaa.json"
+  },
+  {
+    "id": "china_wdi_data_fr_inr_dpst",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_fr_inr_dpst/20261021T204849686185Z_f421f6d74ca2.json"
+  },
+  {
+    "id": "china_wdi_meta_fr_inr_dpst",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_fr_inr_dpst/20261021T204715014334Z_6975dc3f7043.json"
+  },
+  {
+    "id": "china_wdi_data_ny_gns_ictr_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ny_gns_ictr_cn/20261021T204849533163Z_c63f99a51e8f.json"
+  },
+  {
+    "id": "china_wdi_meta_ny_gns_ictr_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ny_gns_ictr_cn/20261021T204714751852Z_ad65e7e5ae5e.json"
+  },
+  {
+    "id": "china_wdi_data_ny_gnp_mktp_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ny_gnp_mktp_cn/20261021T204849883153Z_1f89a3e2900a.json"
+  },
+  {
+    "id": "china_wdi_meta_ny_gnp_mktp_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ny_gnp_mktp_cn/20261021T204714916569Z_e4fe25b6e86f.json"
+  },
+  {
+    "id": "china_wdi_data_ny_adj_dkap_cn",
+    "status": "failed",
+    "artifact": "datos/bronze/china_wdi_data_ny_adj_dkap_cn/20261021T204850131420Z_a0933d376ff6.json",
+    "error": "WDI response has no data array; original response preserved"
+  },
+  {
+    "id": "china_wdi_meta_ny_adj_dkap_cn",
+    "status": "failed",
+    "artifact": "datos/bronze/china_wdi_meta_ny_adj_dkap_cn/20261021T204714917227Z_f230e5b6d8f6.json",
+    "error": "WDI response has no data array; original response preserved"
+  },
+  {
+    "id": "china_wdi_data_ny_tax_nind_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_ny_tax_nind_cn/20261021T204850092209Z_4cf7b31b969b.json"
+  },
+  {
+    "id": "china_wdi_meta_ny_tax_nind_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_ny_tax_nind_cn/20261021T204715052609Z_5dad456c4651.json"
+  },
+  {
+    "id": "china_wdi_data_nv_agr_totl_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_nv_agr_totl_cn/20261021T204850027299Z_4324baa2bc48.json"
+  },
+  {
+    "id": "china_wdi_meta_nv_agr_totl_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_nv_agr_totl_cn/20261021T204714934141Z_8a0138496c2f.json"
+  },
+  {
+    "id": "china_wdi_data_nv_ind_totl_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_nv_ind_totl_cn/20261021T204850139624Z_b9dd77ddfe9e.json"
+  },
+  {
+    "id": "china_wdi_meta_nv_ind_totl_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_nv_ind_totl_cn/20261021T204715221175Z_418f675a612f.json"
+  },
+  {
+    "id": "china_wdi_data_nv_srv_totl_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_nv_srv_totl_cn/20261021T204850260221Z_85618711135d.json"
+  },
+  {
+    "id": "china_wdi_meta_nv_srv_totl_cn",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_nv_srv_totl_cn/20261021T204715099933Z_db8dc6ea2438.json"
+  },
+  {
+    "id": "china_wdi_data_sp_dyn_cbrt_in",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_sp_dyn_cbrt_in/20261021T204850380991Z_8580e5bbbbc9.json"
+  },
+  {
+    "id": "china_wdi_meta_sp_dyn_cbrt_in",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_sp_dyn_cbrt_in/20261021T204715019096Z_c7dbb8d451cd.json"
+  },
+  {
+    "id": "china_wdi_data_sp_dyn_cdrt_in",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_data_sp_dyn_cdrt_in/20261021T204850468604Z_1742c3948d29.json"
+  },
+  {
+    "id": "china_wdi_meta_sp_dyn_cdrt_in",
+    "status": "cached",
+    "artifact": "datos/bronze/china_wdi_meta_sp_dyn_cdrt_in/20261021T204715098828Z_a94e51d3d3db.json"
+  },
+  {
+    "id": "china_ilo_chn_annual",
+    "status": "cached",
+    "artifact": "datos/bronze/china_ilo_chn_annual/20261021T204851025761Z_005573e01519.gz"
+  },
+  {
+    "id": "china_ilo_dic_indicator",
+    "status": "cached",
+    "artifact": "datos/bronze/china_ilo_dic_indicator/20261021T204850637334Z_fc5aa1677cdc.csv"
+  },
+  {
+    "id": "china_ilo_dic_source",
+    "status": "cached",
+    "artifact": "datos/bronze/china_ilo_dic_source/20261021T204850636769Z_1177f934f5ec.csv"
+  },
+  {
+    "id": "china_ilo_dic_classif1",
+    "status": "cached",
+    "artifact": "datos/bronze/china_ilo_dic_classif1/20261021T204850720747Z_c21b37b94754.csv"
+  },
+  {
+    "id": "china_ilo_dic_classif2",
+    "status": "cached",
+    "artifact": "datos/bronze/china_ilo_dic_classif2/20261021T204850734739Z_f411785e1b56.csv"
+  },
+  {
+    "id": "china_ilo_dic_sex",
+    "status": "cached",
+    "artifact": "datos/bronze/china_ilo_dic_sex/20261021T204850846422Z_2b1c19213199.csv"
+  },
+  {
+    "id": "china_ilo_dic_obs_status",
+    "status": "cached",
+    "artifact": "datos/bronze/china_ilo_dic_obs_status/20261021T204850773216Z_4f78a0a382c9.csv"
+  },
+  {
+    "id": "china_ilo_dic_note_source",
+    "status": "cached",
+    "artifact": "datos/bronze/china_ilo_dic_note_source/20261021T204850982131Z_e6c16ca01ca5.csv"
+  },
+  {
+    "id": "china_ilo_dic_note_indicator",
+    "status": "cached",
+    "artifact": "datos/bronze/china_ilo_dic_note_indicator/20261021T204850976463Z_a5a03f637172.csv"
+  },
+  {
+    "id": "china_ilo_dic_note_classif",
+    "status": "cached",
+    "artifact": "datos/bronze/china_ilo_dic_note_classif/20261021T204850961876Z_bb1fcd30bbaf.csv"
+  },
+  {
+    "id": "china_un26_presence",
+    "status": "cached",
+    "artifact": "datos/bronze/china_un26_presence/20261021T204715728585Z_601ee70c1564.html"
+  }
+]

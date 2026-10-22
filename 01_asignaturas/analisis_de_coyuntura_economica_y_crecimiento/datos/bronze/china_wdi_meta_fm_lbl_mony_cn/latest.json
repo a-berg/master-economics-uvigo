@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_fm_lbl_mony_cn",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/FM.LBL.MONY.CN?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_fm_lbl_mony_cn/20261021T204714545000Z_1834760c310f.json",
+  "sha256": "1834760c310fcbacf0ef9827f9df3197c32db47033644d196108a631d6642700",
+  "size_bytes": 522,
+  "accessed_at_utc": "2026-10-21T20:47:14.545175+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

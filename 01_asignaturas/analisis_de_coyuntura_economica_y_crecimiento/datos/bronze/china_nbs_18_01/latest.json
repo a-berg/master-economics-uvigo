@@ -1,0 +1,14 @@
+{
+  "id": "china_nbs_18_01",
+  "provider": "nbs",
+  "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/E18-01.jpg",
+  "format": "jpg",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_nbs_18_01/20261021T205356730819Z_d8751b18f3b1.jpg",
+  "sha256": "d8751b18f3b11219608d213ba9884d08fb5813f1bb7e25e44dd10ecaeab53e51",
+  "size_bytes": 475929,
+  "accessed_at_utc": "2026-10-21T20:53:56.731210+00:00",
+  "content_type": "image/jpeg",
+  "provider_updated_at": null
+}

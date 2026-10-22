@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_data_ne_gdi_stkb_kn",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/NE.GDI.STKB.KN?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_data_ne_gdi_stkb_kn/20261021T210717814100Z_0318132f3e33.json",
+  "sha256": "0318132f3e335a0ba1dfe597156f8a35f1119420b3c63fa5c1effd106e498b4c",
+  "size_bytes": 14152,
+  "accessed_at_utc": "2026-10-21T21:07:17.814336+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

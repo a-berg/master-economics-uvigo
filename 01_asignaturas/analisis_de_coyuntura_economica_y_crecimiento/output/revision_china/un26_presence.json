@@ -1,0 +1,22 @@
+{
+  "table": "2.6",
+  "group": 206,
+  "country_code": 156,
+  "classification": "ISIC Rev.4",
+  "records": 0,
+  "evidence": {
+    "id": "china_un26_presence",
+    "provider": "un26",
+    "url": "https://data.un.org/Data.aspx?d=SNA&f=group_code%3A206%3Bcountry_code%3A156",
+    "format": "html",
+    "purpose": "China audit; no automatic equivalence",
+    "publication_date": null,
+    "artifact": "datos/bronze/china_un26_presence/20261021T204715728585Z_601ee70c1564.html",
+    "sha256": "601ee70c1564283560bf8cecc624b51f1f73649839bd7a8e147a8285da97ef62",
+    "size_bytes": 85663,
+    "accessed_at_utc": "2026-10-21T20:47:15.728888+00:00",
+    "content_type": "text/html; charset=utf-8",
+    "provider_updated_at": null
+  },
+  "limit": "Esta consulta y variante; no prueba ausencia universal. No se usa AMA."
+}

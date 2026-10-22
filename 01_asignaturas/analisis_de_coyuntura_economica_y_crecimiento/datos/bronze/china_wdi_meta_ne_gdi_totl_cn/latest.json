@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_ne_gdi_totl_cn",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/NE.GDI.TOTL.CN?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_ne_gdi_totl_cn/20261021T204713110783Z_146ae4568a07.json",
+  "sha256": "146ae4568a07b968f72cfe9743a28f21c23751bd07b381154bb28c669141ba29",
+  "size_bytes": 820,
+  "accessed_at_utc": "2026-10-21T20:47:13.110973+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

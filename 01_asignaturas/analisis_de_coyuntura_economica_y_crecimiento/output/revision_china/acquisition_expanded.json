@@ -1,0 +1,22 @@
+[
+  {
+    "id": "china_oecd_icio",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "china_adb_io",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "china_pbc_m1_method",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_pbc_m1_method/20261021T205738341165Z_dd544c272f96.html"
+  },
+  {
+    "id": "china_imf_accounts_method",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_imf_accounts_method/20261021T205737607138Z_5bdfdf3dc435.html"
+  }
+]

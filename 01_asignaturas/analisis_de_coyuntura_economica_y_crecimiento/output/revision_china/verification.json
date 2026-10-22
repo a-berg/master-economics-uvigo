@@ -1,0 +1,14 @@
+{
+  "status": "OK_WITH_DOCUMENTED_GAPS",
+  "snapshot_v0": "VERIFIED",
+  "contracts": 38,
+  "spanish_catalogue_rows": 125,
+  "observation_count": 7514,
+  "analytic_series": 90,
+  "io_cells": 400,
+  "io_sum_checks": 40,
+  "notebook_code_cells": 7,
+  "notebook_figures": 6,
+  "filled_missing_values": false,
+  "silent_source_splices": false
+}

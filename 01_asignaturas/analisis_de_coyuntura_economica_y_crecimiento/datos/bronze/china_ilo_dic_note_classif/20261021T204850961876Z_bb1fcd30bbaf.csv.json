@@ -1,0 +1,14 @@
+{
+  "id": "china_ilo_dic_note_classif",
+  "provider": "ilo",
+  "url": "https://rplumber.ilo.org/metadata/dic?format=.csv&lang=en&var=note_classif",
+  "format": "csv",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_ilo_dic_note_classif/20261021T204850961876Z_bb1fcd30bbaf.csv",
+  "sha256": "bb1fcd30bbafae48c5fa4330bda1a58a348bfad7ffb530de10c2358a46746320",
+  "size_bytes": 39431,
+  "accessed_at_utc": "2026-10-21T20:48:50.962116+00:00",
+  "content_type": "application/octet-stream",
+  "provider_updated_at": null
+}

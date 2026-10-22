@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_data_ne_exp_gnfs_kn",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/NE.EXP.GNFS.KN?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_data_ne_exp_gnfs_kn/20261021T204848236895Z_bc9590738de6.json",
+  "sha256": "bc9590738de6e6979379c02ac8ee9224cfdcb2406d5dd7f91a7188a18f028637",
+  "size_bytes": 14614,
+  "accessed_at_utc": "2026-10-21T20:48:48.237167+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

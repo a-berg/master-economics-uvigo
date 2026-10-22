@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_sp_pop_65up_to",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/SP.POP.65UP.TO?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_sp_pop_65up_to/20261021T204714542781Z_5a09266e614a.json",
+  "sha256": "5a09266e614a7d6c232daabfc25fcc8dcf9105ec077e9ba345eb30366c65fd71",
+  "size_bytes": 563,
+  "accessed_at_utc": "2026-10-21T20:47:14.542971+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

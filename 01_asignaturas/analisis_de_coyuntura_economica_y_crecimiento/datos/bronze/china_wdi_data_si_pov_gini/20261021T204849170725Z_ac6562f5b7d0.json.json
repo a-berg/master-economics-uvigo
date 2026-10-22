@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_data_si_pov_gini",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/SI.POV.GINI?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_data_si_pov_gini/20261021T204849170725Z_ac6562f5b7d0.json",
+  "sha256": "ac6562f5b7d081d3d5e4119b51f9b245d8acc9a31a495618f98175ec01d144f3",
+  "size_bytes": 12166,
+  "accessed_at_utc": "2026-10-21T20:48:49.170958+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

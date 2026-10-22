@@ -1,0 +1,47 @@
+[
+  {
+    "id": "china_nbs_index",
+    "status": "cached",
+    "artifact": "datos/bronze/china_nbs_index/20261021T205244383744Z_cc211ef2f772.html"
+  },
+  {
+    "id": "china_nbs_accounts_method",
+    "status": "cached",
+    "artifact": "datos/bronze/china_nbs_accounts_method/20261021T205242164486Z_ab38cae3ccb4.html"
+  },
+  {
+    "id": "china_nbs_03_01",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_nbs_03_01/20261021T205352285376Z_73ceff096b6e.jpg"
+  },
+  {
+    "id": "china_nbs_03_10",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_nbs_03_10/20261021T205348224412Z_db3fe88103a5.jpg"
+  },
+  {
+    "id": "china_nbs_03_15",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_nbs_03_15/20261021T205346846921Z_c9d7d438ae96.jpg"
+  },
+  {
+    "id": "china_nbs_03_21",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_nbs_03_21/20261021T205350406742Z_448c78055946.jpg"
+  },
+  {
+    "id": "china_nbs_03_22",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_nbs_03_22/20261021T205348354918Z_24c09119b7ea.jpg"
+  },
+  {
+    "id": "china_nbs_04_01",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_nbs_04_01/20261021T205350844881Z_79e06c4a0632.jpg"
+  },
+  {
+    "id": "china_nbs_18_01",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_nbs_18_01/20261021T205356730819Z_d8751b18f3b1.jpg"
+  }
+]

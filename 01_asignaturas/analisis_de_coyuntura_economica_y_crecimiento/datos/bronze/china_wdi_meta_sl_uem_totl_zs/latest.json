@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_sl_uem_totl_zs",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/SL.UEM.TOTL.ZS?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_sl_uem_totl_zs/20261021T204714122313Z_3ae370ed4beb.json",
+  "sha256": "3ae370ed4bebba092338e94334c35add71490324ee57f1dfe81885dade51f52f",
+  "size_bytes": 670,
+  "accessed_at_utc": "2026-10-21T20:47:14.122568+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

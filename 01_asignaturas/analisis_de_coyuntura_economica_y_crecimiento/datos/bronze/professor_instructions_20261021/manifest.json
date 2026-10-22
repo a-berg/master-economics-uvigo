@@ -1,0 +1,20 @@
+[
+  {
+    "artifact": "datos/bronze/professor_instructions_20261021/Ensaio Final-Instruccións-Español.pdf",
+    "sha256": "62c3ae19f8a32dbfb5fbbf21501c25872d4e37ce83e74af9e0bb233f1351107b",
+    "source": "ChatGPT conversation 6ad10505-f6c8-83ed-8c50-a92904eef434 attachment",
+    "url": null,
+    "accessed_at_utc": null,
+    "original_download_date": "unknown",
+    "import_date": "2026-10-21"
+  },
+  {
+    "artifact": "datos/bronze/professor_instructions_20261021/Ensaio Final-Template-Español.docx",
+    "sha256": "e4613bce7d5f639bc409f29892b8fe0272f71c258ba865d756cd67a266d7fb56",
+    "source": "ChatGPT conversation 6ad10505-f6c8-83ed-8c50-a92904eef434 attachment",
+    "url": null,
+    "accessed_at_utc": null,
+    "original_download_date": "unknown",
+    "import_date": "2026-10-21"
+  }
+]

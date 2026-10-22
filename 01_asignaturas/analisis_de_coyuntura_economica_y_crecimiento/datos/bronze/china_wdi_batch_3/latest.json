@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_batch_3",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/FR.INR.DPST;NY.GNS.ICTR.CN;NY.GNP.MKTP.CN;NY.ADJ.DKAP.CN;NY.TAX.NIND.CN;NV.AGR.TOTL.CN;NV.IND.TOTL.CN;NV.SRV.TOTL.CN;SP.DYN.CBRT.IN;SP.DYN.CDRT.IN?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_batch_3/20261021T204712442894Z_f230e5b6d8f6.json",
+  "sha256": "f230e5b6d8f652aa544aec29624faa117c27571ce309a7a474584e1cfeb45c1b",
+  "size_bytes": 102,
+  "accessed_at_utc": "2026-10-21T20:47:12.443070+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

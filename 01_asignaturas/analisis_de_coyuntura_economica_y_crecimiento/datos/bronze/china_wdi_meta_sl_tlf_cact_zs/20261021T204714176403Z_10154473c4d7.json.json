@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_sl_tlf_cact_zs",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/SL.TLF.CACT.ZS?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_sl_tlf_cact_zs/20261021T204714176403Z_10154473c4d7.json",
+  "sha256": "10154473c4d75dd636f728baf231162ddd5a12c910084f832a3b93fe55038fe7",
+  "size_bytes": 759,
+  "accessed_at_utc": "2026-10-21T20:47:14.176598+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

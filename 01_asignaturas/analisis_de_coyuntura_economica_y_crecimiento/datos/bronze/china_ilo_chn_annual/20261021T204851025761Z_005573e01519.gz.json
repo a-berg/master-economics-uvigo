@@ -1,0 +1,14 @@
+{
+  "id": "china_ilo_chn_annual",
+  "provider": "ilo",
+  "url": "https://rplumber.ilo.org/data/ref_area?format=.csv.gz&id=CHN_A",
+  "format": "gz",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_ilo_chn_annual/20261021T204851025761Z_005573e01519.gz",
+  "sha256": "005573e01519af2a6a532c2d04f55284821cedf3f65e86514723bd44ad4a8921",
+  "size_bytes": 373650,
+  "accessed_at_utc": "2026-10-21T20:48:51.026184+00:00",
+  "content_type": "application/octet-stream",
+  "provider_updated_at": null
+}

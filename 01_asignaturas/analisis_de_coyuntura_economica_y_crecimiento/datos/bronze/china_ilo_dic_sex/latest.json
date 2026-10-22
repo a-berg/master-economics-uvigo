@@ -1,0 +1,14 @@
+{
+  "id": "china_ilo_dic_sex",
+  "provider": "ilo",
+  "url": "https://rplumber.ilo.org/metadata/dic?format=.csv&lang=en&var=sex",
+  "format": "csv",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_ilo_dic_sex/20261021T204850846422Z_2b1c19213199.csv",
+  "sha256": "2b1c192131997b97da5948af1c777a4561b4abf3f448112921cc693063360b45",
+  "size_bytes": 85,
+  "accessed_at_utc": "2026-10-21T20:48:50.846705+00:00",
+  "content_type": "application/octet-stream",
+  "provider_updated_at": null
+}

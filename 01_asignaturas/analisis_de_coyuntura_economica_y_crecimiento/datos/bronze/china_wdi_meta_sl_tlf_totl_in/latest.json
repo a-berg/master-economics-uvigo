@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_sl_tlf_totl_in",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/SL.TLF.TOTL.IN?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_sl_tlf_totl_in/20261021T204714206418Z_340678b5331f.json",
+  "sha256": "340678b5331fb15ff94da10a221dde0e9c52d73895782242e357edbed3892696",
+  "size_bytes": 998,
+  "accessed_at_utc": "2026-10-21T20:47:14.206648+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

@@ -1,0 +1,51 @@
+{
+  "status": "OK_WITH_DOCUMENTED_GAPS",
+  "observations": 7514,
+  "series": 136,
+  "analytic_observations": 4542,
+  "analytic_series": 90,
+  "quarantined_series": 46,
+  "original_manifest_hash_checks": 110,
+  "independent_raw_wdi_cell_checks": 1760,
+  "independent_raw_pwt_cell_checks": 4306,
+  "age_identity_checks": 66,
+  "ilo_identity_checks": 37,
+  "formula_checks": 204,
+  "un26_records": 0,
+  "contracts": 38,
+  "contract_statuses": [
+    {
+      "status": "ALTERNATIVA_DOCUMENTADA",
+      "len": 5
+    },
+    {
+      "status": "ALTERNATIVA_ESTRUCTURAL_2023_ESCALA_PENDIENTE",
+      "len": 1
+    },
+    {
+      "status": "ALTERNATIVA_ESTRUCTURAL_ESCALA_PENDIENTE",
+      "len": 2
+    },
+    {
+      "status": "ALTERNATIVA_NBS_COBERTURA_LIMITADA",
+      "len": 2
+    },
+    {
+      "status": "CANDIDATA_EN_CUARENTENA",
+      "len": 6
+    },
+    {
+      "status": "CORRESPONDENCIA_CONCEPTUAL",
+      "len": 12
+    },
+    {
+      "status": "DERIVADA",
+      "len": 4
+    },
+    {
+      "status": "NO_RECUPERADA",
+      "len": 6
+    }
+  ],
+  "caveat": "Controles de integridad y coherencia; no certifican precisión de la medición ni independencia ni comparabilidad plena."
+}

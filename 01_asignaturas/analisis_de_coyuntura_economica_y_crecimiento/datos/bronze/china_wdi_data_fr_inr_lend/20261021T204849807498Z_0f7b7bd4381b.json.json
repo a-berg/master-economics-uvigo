@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_data_fr_inr_lend",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/FR.INR.LEND?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_data_fr_inr_lend/20261021T204849807498Z_0f7b7bd4381b.json",
+  "sha256": "0f7b7bd4381b8fb6141ab584ff28eb1aea6991880363a99f7cb2c417923908c7",
+  "size_bytes": 13199,
+  "accessed_at_utc": "2026-10-21T20:48:49.807669+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

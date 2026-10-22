@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_pa_nus_fcrf",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/PA.NUS.FCRF?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_pa_nus_fcrf/20261021T204714567643Z_879ac40c1e11.json",
+  "sha256": "879ac40c1e115d0575c0ac1d26a45b68432303927ea163be9c80e7f47c739b12",
+  "size_bytes": 685,
+  "accessed_at_utc": "2026-10-21T20:47:14.567818+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_meta_ny_tax_nind_cn",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/indicator/NY.TAX.NIND.CN?format=json",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_meta_ny_tax_nind_cn/20261021T204715052609Z_5dad456c4651.json",
+  "sha256": "5dad456c465193c0a9568710c45004f408116872b69097b17ba6d7188f890275",
+  "size_bytes": 765,
+  "accessed_at_utc": "2026-10-21T20:47:15.052816+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_data_sp_dyn_cbrt_in",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.CBRT.IN?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_data_sp_dyn_cbrt_in/20261021T204850380991Z_8580e5bbbbc9.json",
+  "sha256": "8580e5bbbbc931c49fc110f5d5b52c5776f4e3a0cb9d8d9c36481153330ce154",
+  "size_bytes": 14141,
+  "accessed_at_utc": "2026-10-21T20:48:50.381275+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

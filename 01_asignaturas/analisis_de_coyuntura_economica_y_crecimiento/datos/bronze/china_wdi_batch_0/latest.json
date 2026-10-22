@@ -1,0 +1,14 @@
+{
+  "id": "china_wdi_batch_0",
+  "provider": "wdi",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.MKTP.CN;NY.GDP.MKTP.KN;NE.CON.PRVT.CN;NE.CON.PRVT.KN;NE.CON.GOVT.CN;NE.CON.GOVT.KN;NE.GDI.TOTL.CN;NE.GDI.TOTL.KN;NE.GDI.FTOT.CN;NE.GDI.FTOT.KN?source=2&format=json&per_page=20000",
+  "format": "json",
+  "purpose": "China audit; no automatic equivalence",
+  "publication_date": null,
+  "artifact": "datos/bronze/china_wdi_batch_0/20261021T204712541950Z_ff493d137f7e.json",
+  "sha256": "ff493d137f7e54aeef978fd4af23fa61043d1b4f5daec1441782198f39c5dc5d",
+  "size_bytes": 152553,
+  "accessed_at_utc": "2026-10-21T20:47:12.542191+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}
