@@ -2,6 +2,10 @@
 
 Pipeline de datos para el informe del máster. El Excel del profesor se conserva como referencia documental. Las cifras nuevas se obtienen desde fuentes oficiales y desde PWT 11.0.
 
+## Primera compilación para revisión: solo gráficas
+
+El [PDF del apéndice](output/pdf/apendice_graficas_revision.pdf) contiene 38 gráficas dibujadas en Lilaq, una por página, con paneles de China y España. La [fuente Typst](entregas/apendice_graficas_lilaq.typ) es independiente del borrador completo. Las fuentes, coberturas y limitaciones acompañan cada figura. Consulta [reproducción y validación](output/apendice_lilaq/LEEME.md).
+
 ## Base vigente para redactar el informe
 
 La [guía para redactar](output/preparacion_informe/GUIA_PARA_REDACTAR.md) y el [índice visual](output/preparacion_informe/index.html) reúnen **38 gráficos y 21 tablas**. El [estado de requisitos](output/preparacion_informe/estado_requisitos.csv) conecta los 27 bloques con resultados concretos y diferencia preparados, adaptados y parciales. El [notebook 06](notebooks/06_datos_informe.ipynb) permite revisar muestras, salarios, productividad y crecimiento.

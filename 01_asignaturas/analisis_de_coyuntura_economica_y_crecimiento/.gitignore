@@ -20,5 +20,11 @@ datos/gold/*
 !datos/gold/informe/**
 !output/preparacion_informe/
 !output/preparacion_informe/**
+!output/apendice_lilaq/
+!output/apendice_lilaq/**
+!output/pdf/
+output/pdf/*
+!output/pdf/apendice_graficas_revision.pdf
+tmp/pdfs/lilaq_revision/
 !output/revision_china/
 !output/revision_china/**

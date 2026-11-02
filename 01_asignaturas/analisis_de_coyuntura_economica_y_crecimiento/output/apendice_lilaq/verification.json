@@ -1,0 +1,11 @@
+{
+  "status": "OK",
+  "figures": 38,
+  "pages": 38,
+  "points_verified": 6479,
+  "input_hashes": 40,
+  "renderer": "Lilaq 0.6.0",
+  "embedded_raster_images": 0,
+  "source_points_changed": false,
+  "pdf_sha256": "377e92edfa3cbefdd1e03fd7672c0c038a4f98db9c3264bdef968bee97e7f193"
+}
