@@ -1,0 +1,15 @@
+{
+  "comparison_start": 1990,
+  "end": 2023,
+  "growth_start": 1960,
+  "index_base": 2008,
+  "alpha": 0.3333333333333333,
+  "growth_periods": [[1960, 1989], [1989, 2000], [2000, 2008], [2008, 2019], [2019, 2023], [1960, 2023], [1990, 2023]],
+  "cycle_windows": [[1996, 2019], [1996, 2023]],
+  "mean_windows": [[1990, 1999], [2000, 2007], [2008, 2019], [2020, 2023], [1990, 2023]],
+  "countries": ["CHN", "ESP"],
+  "policy": "Datos locales archivados; sin interpolación ni empalmes. Muestras comunes entre países por variable y ventana. Bases monetarias nacionales no comparadas como PPA.",
+  "labor_policy": "Bloque principal comparable: activos WDI y tasa de paro modelizada OIT/WDI para ambos países; empleados y parados derivados. Encuestas nacionales y registros se muestran aparte.",
+  "wage_policy": "D1 nacional / ocupados PWT; promedio por ocupado, no salario por asalariado. Deflactor del PIB nacional normalizado a 2008. Fuentes combinadas con justificación explícita.",
+  "inventory_policy": "Cambios anuales de un índice con escala |VE_2008|; conserva signo. Correlación de cambios con crecimiento del PIB; no crecimiento porcentual ni desviación relativa interpretable como elasticidad."
+}

@@ -1,0 +1,14 @@
+{
+  "status": "OK_WITH_DOCUMENTED_ALTERNATIVES",
+  "protected_files": 669,
+  "source_hashes": 14,
+  "OECD_source_cells": 149,
+  "CCF_asset_derived_observations": 144,
+  "FRED_index_observations": 40,
+  "io_coefficients": 9,
+  "subsidies_partial_years": 20,
+  "notebook_code_cells": 6,
+  "exact_D3_recovered": false,
+  "own_gap_filling": false,
+  "spain_and_originals_unchanged": true
+}

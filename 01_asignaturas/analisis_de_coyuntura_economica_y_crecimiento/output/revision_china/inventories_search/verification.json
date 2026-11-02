@@ -1,0 +1,14 @@
+{
+  "status": "OK_CANDIDATE_ONLY",
+  "oecd_observations": 550,
+  "oecd_real_observations": 0,
+  "oecd_nominal_combined_p52_equal_years": 55,
+  "fred_real_candidate_observations": 40,
+  "fred_first": 1980,
+  "fred_last": 2019,
+  "wdi_real_observations": 0,
+  "source_hash_checks": 5,
+  "main_silver_modified": false,
+  "spain_modified": false,
+  "decision": "Found P52-like real candidate, not accepted equivalence. No real P52+P53 series retrieved from OECD query."
+}

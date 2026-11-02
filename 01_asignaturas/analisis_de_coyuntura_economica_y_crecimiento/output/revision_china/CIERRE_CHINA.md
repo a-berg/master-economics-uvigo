@@ -4,6 +4,12 @@ Se entrega una silver reproducible y una decisión por necesidad. **No se acredi
 
 Resultado: **136 series y 7.514 observaciones** en la tabla larga; **90 series y 4.542 observaciones** en la vista analítica, y 46 cand   tes. Pasan 110 comprobaciones de manifiestos, 1.760 celdas WDI y 4.306 celdas PWT contrastadas con originales, 66 identidades demográficas, 37 laborales y los 40 controles de totales IO. `verification.json` confirma también v0 y el notebook ejecutado.
 
+## Suplemento posterior: existencias (02/11/2026)
+
+**Selección vigente para el trabajo:** la [ampliación práctica de los huecos](complecion/discrepancias_informe.md) integra 29 series adicionales y proporciona un mapa de selección para los 38 conceptos. Incluye el índice de existencias, estimación de CCF, rentas OCDE, subvenciones parciales y coeficientes IO. Los recuentos originales de este documento corresponden a la entrega del 21/10; los nuevos están en `complecion/resumen.json`.
+
+La [búsqueda dirigida de P52+P53 y P52](inventories_search/RESULTADO.md) localiza una candidata real FMI/IFS vía FRED para 1980–2019, con base, escala y alcance contable todavía pendientes. OCDE proporciona ambos conceptos nominales, no reales, para 1970–2024. Los recuentos y contratos de esta entrega original del 21/10 se conservan; la candidata posterior se documenta por separado, sin integrarla automáticamente.
+
 ## Punto de partida y conservación
 
 - Rama: `codex/china-series-audit`. No se encontró AGENTS.md en la asignatura ni en sus directorios ascendientes inspeccionados.

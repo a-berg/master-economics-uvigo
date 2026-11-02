@@ -2,6 +2,34 @@
 
 Pipeline de datos para el informe del máster. El Excel del profesor se conserva como referencia documental. Las cifras nuevas se obtienen desde fuentes oficiales y desde PWT 11.0.
 
+## Base vigente para redactar el informe
+
+La [guía para redactar](output/preparacion_informe/GUIA_PARA_REDACTAR.md) y el [índice visual](output/preparacion_informe/index.html) reúnen **38 gráficos y 21 tablas**. El [estado de requisitos](output/preparacion_informe/estado_requisitos.csv) conecta los 27 bloques con resultados concretos y diferencia preparados, adaptados y parciales. El [notebook 06](notebooks/06_datos_informe.ipynb) permite revisar muestras, salarios, productividad y crecimiento.
+
+Los datos analíticos están en `datos/gold/informe/indicadores.parquet`, con [diccionario](datos/gold/informe/diccionario.csv), fórmulas, unidades y fuentes. Las figuras exportan sus puntos y las tablas estadísticas conservan las muestras utilizadas. La comparación principal es 1990–2023; las tablas de crecimiento comparten subperiodos desde 1960. Se preservan silver, bronze y v0.
+
+```sh
+uv run --offline python src/prepare_report.py
+uv run --offline --group analysis python src/create_report_notebook.py
+uv run --offline --group analysis python src/verify_report_data.py
+```
+
+Quedan parciales las rentas chinas completas y la comparación IO con España. También faltan las referencias históricas docentes adicionales, si se exige reproducir literalmente las tablas de otros países. Consulta las [limitaciones y decisiones](output/preparacion_informe/limitaciones.csv) y el [guion para escribir](entregas/NOTAS_PARA_REDACTAR.md). El borrador Typst anterior todavía usa la base de octubre y requiere actualización antes de entregar.
+
+## China: selección práctica ampliada (02/11/2026)
+
+Para continuar el trabajo, utiliza [la selección y las discrepancias esenciales](output/revision_china/complecion/discrepancias_informe.md), [el mapa de conceptos](output/revision_china/complecion/seleccion_conceptos.csv) y [el notebook 05](notebooks/05_china_alternativas.ipynb). La [estrategia por serie](output/revision_china/complecion/ESTRATEGIA.md) está ejecutada: se incorporan rentas OCDE, CCF aproximado con PWT, existencias reales como índice, subvenciones fiscales parciales NBS y coeficientes técnicos IO.
+
+`datos/silver/china_completada.parquet` reúne la entrega original y 29 series adicionales; `china_seleccion.parquet` identifica una elección por concepto. Las unidades varían entre conceptos. Las subvenciones parciales no equivalen a D3; el dato FMI 2023 se conserva aparte. España, v0 y las anotaciones originales de `contratos.csv` se mantienen.
+
+```sh
+uv run --offline python src/china_complete.py
+uv run --offline --group analysis python src/create_china_complete_notebook.py
+uv run --offline --group analysis python src/verify_china_complete.py
+```
+
+La reconstrucción histórica siguiente genera la entrega del 21/10, incluidos sus contratos; para conservar anotaciones manuales, usa los comandos del suplemento anterior.
+
 ## China: entrega de datos y límites (21/10/2026)
 
 La nueva entrega está documentada en [CIERRE_CHINA.md](output/revision_china/CIERRE_CHINA.md). Incluye silver larga y anual separadas, [contratos](output/revision_china/contratos.csv), [catálogo](output/revision_china/catalogo_china.csv), correspondencias con las 125 entradas españolas y [notebook ejecutado](notebooks/04_china.ipynb). Los recuentos y controles vigentes están en [quality.json](output/revision_china/quality.json).

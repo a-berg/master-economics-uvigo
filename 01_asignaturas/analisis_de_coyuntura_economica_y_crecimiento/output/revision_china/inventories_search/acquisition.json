@@ -1,0 +1,51 @@
+[
+  {
+    "id": "china_inventory_search_oecd_structure_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_inventory_search_oecd_structure_20261102/20261102T125650528969Z_a38f754603e7.xml",
+    "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NAMAIN10@DF_TABLE1_EXPENDITURE/2.0?references=all",
+    "checked_at_utc": "2026-11-02T12:56:50.530480+00:00"
+  },
+  {
+    "id": "china_inventory_search_fred_real_page_20261102",
+    "status": "failed",
+    "error": "TimeoutError: The read operation timed out",
+    "url": "https://fred.stlouisfed.org/series/NINVRXDCCNA",
+    "checked_at_utc": "2026-11-02T12:58:30.023900+00:00"
+  },
+  {
+    "id": "china_inventory_search_fred_real_csv_20261102",
+    "status": "failed",
+    "error": "TimeoutError: The read operation timed out",
+    "url": "https://fred.stlouisfed.org/graph/?g=1&id=NINVRXDCCNA&cosd=1900-01-01&coed=2026-11-02",
+    "checked_at_utc": "2026-11-02T12:58:30.029522+00:00"
+  },
+  {
+    "id": "china_inventory_search_fred_real_download_20261102",
+    "status": "failed",
+    "error": "TimeoutError: The read operation timed out",
+    "url": "https://fred.stlouisfed.org/graph/graph.csv?id=NINVRXDCCNA",
+    "checked_at_utc": "2026-11-02T12:58:30.029952+00:00"
+  },
+  {
+    "id": "china_inventory_search_fred_nominal_download_20261102",
+    "status": "failed",
+    "error": "TimeoutError: The read operation timed out",
+    "url": "https://fred.stlouisfed.org/graph/graph.csv?id=NINVXDCCNA",
+    "checked_at_utc": "2026-11-02T12:58:30.633086+00:00"
+  },
+  {
+    "id": "china_inventory_search_imf_method_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_inventory_search_imf_method_20261102/20261102T125830749206Z_f44a8abcb625.html",
+    "url": "https://dsbb.imf.org/sdds/dqaf-base/country/CHN/category/NAG00",
+    "checked_at_utc": "2026-11-02T12:58:30.749900+00:00"
+  },
+  {
+    "id": "china_inventory_search_wdi_real_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_inventory_search_wdi_real_20261102/20261102T125830882137Z_0318132f3e33.json",
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/NE.GDI.STKB.KN?source=2&format=json&per_page=20000",
+    "checked_at_utc": "2026-11-02T12:58:30.882774+00:00"
+  }
+]

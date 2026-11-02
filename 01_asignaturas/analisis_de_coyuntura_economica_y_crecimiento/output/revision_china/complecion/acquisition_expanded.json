@@ -1,0 +1,37 @@
+[
+  {
+    "id": "china_complete_oecd_table6_structure_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_oecd_table6_structure_20261102/20261102T151044703150Z_b3f950f1e566.xml",
+    "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NAMAIN10@DF_TABLE6/1.0?references=all",
+    "checked_at_utc": "2026-11-02T15:10:44.705108+00:00"
+  },
+  {
+    "id": "china_complete_oecd_table6_v1_20261102",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 404: Not Found",
+    "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.SDD.NAD,DSD_NAMAIN10@DF_TABLE6,1.0/A.CHN..........?format=csvfile",
+    "checked_at_utc": "2026-11-02T15:10:44.567812+00:00"
+  },
+  {
+    "id": "china_complete_wdi_gc_xpn_trft_zs_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_wdi_gc_xpn_trft_zs_20261102/20261102T151044012517Z_6ceb5a77af18.json",
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/GC.XPN.TRFT.ZS?format=json&per_page=20000",
+    "checked_at_utc": "2026-11-02T15:10:44.013148+00:00"
+  },
+  {
+    "id": "china_complete_imf_subsidies_paper_20261102",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "url": "https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025155-source-pdf.pdf",
+    "checked_at_utc": "2026-11-02T15:10:43.725074+00:00"
+  },
+  {
+    "id": "china_complete_imf_weo_chapter_20261102",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "url": "https://www.imf.org/en/Publications/WEO/Issues/2025/10/14/world-economic-outlook-october-2025",
+    "checked_at_utc": "2026-11-02T15:10:43.847865+00:00"
+  }
+]

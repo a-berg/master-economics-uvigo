@@ -1,0 +1,23 @@
+[
+  {
+    "id": "china_complete_nbs_notes_20261102",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 404: Not Found",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/zbe03.htm",
+    "checked_at_utc": "2026-11-02T15:11:57.977846+00:00"
+  },
+  {
+    "id": "china_complete_nbs_notes_2020_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_nbs_notes_2020_20261102/20261102T151158718033Z_8263da57d14e.html",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/zbe03.htm",
+    "checked_at_utc": "2026-11-02T15:11:58.718802+00:00"
+  },
+  {
+    "id": "china_complete_nbs_io_page_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_nbs_io_page_20261102/20261102T151200370043Z_448c78055946.jpg",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/E03-21.jpg",
+    "checked_at_utc": "2026-11-02T15:12:00.370845+00:00"
+  }
+]

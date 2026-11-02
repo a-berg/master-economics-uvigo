@@ -1,0 +1,14 @@
+{
+  "id": "china_inventory_search_oecd_p5m_20261102",
+  "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.SDD.NAD,DSD_NAMAIN10@DF_TABLE1_EXPENDITURE,2.0/A.CHN...P5M.......?format=csvfile",
+  "format": "csv",
+  "provider": "research",
+  "publication_date": null,
+  "purpose": "P52+P53 before P52; candidate only",
+  "artifact": "datos/bronze/china_inventory_search_oecd_p5m_20261102/20261102T125748528662Z_c28dfde2a050.csv",
+  "sha256": "c28dfde2a050853e50c48085dd792845d8d3b9237d41dc269ddad3edc17a3666",
+  "size_bytes": 34896,
+  "accessed_at_utc": "2026-11-02T12:57:48.528968+00:00",
+  "content_type": "application/vnd.sdmx.data+csv; charset=utf-8",
+  "provider_updated_at": null
+}

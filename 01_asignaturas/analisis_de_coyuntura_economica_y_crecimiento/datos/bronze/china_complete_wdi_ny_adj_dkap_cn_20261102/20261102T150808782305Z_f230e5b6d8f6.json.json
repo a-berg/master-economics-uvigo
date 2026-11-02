@@ -1,0 +1,14 @@
+{
+  "id": "china_complete_wdi_ny_adj_dkap_cn_20261102",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/NY.ADJ.DKAP.CN?format=json&per_page=20000",
+  "format": "json",
+  "provider": "wdi",
+  "publication_date": null,
+  "purpose": "Remaining concepts; practical documented alternatives",
+  "artifact": "datos/bronze/china_complete_wdi_ny_adj_dkap_cn_20261102/20261102T150808782305Z_f230e5b6d8f6.json",
+  "sha256": "f230e5b6d8f652aa544aec29624faa117c27571ce309a7a474584e1cfeb45c1b",
+  "size_bytes": 102,
+  "accessed_at_utc": "2026-11-02T15:08:08.782568+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

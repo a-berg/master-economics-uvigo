@@ -1,0 +1,13 @@
+{
+  "supplement_series": 29,
+  "supplement_observations": 934,
+  "combined_series": 165,
+  "combined_observations": 8448,
+  "concepts": 38,
+  "concepts_with_numeric_data": 37,
+  "structural_matrix": true,
+  "subsidies_D3_recovered": false,
+  "subsidies_partial_series_recovered": true,
+  "ccf_sensitivity_max_percent": 10.77784735179601,
+  "income_discrepancy_max_percent_GDP": 2.185843021786831
+}

@@ -1,0 +1,14 @@
+{
+  "id": "china_complete_oecd_table1_structure_20261102",
+  "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NAMAIN10@DF_TABLE1/2.0?references=all",
+  "format": "xml",
+  "provider": "oecd",
+  "publication_date": null,
+  "purpose": "Remaining concepts; practical documented alternatives",
+  "artifact": "datos/bronze/china_complete_oecd_table1_structure_20261102/20261102T150809881163Z_f18294cb836c.xml",
+  "sha256": "f18294cb836c366bae18a7ea363828cf2221a56bfd1cf3bbe1826f4b76b5b620",
+  "size_bytes": 4178721,
+  "accessed_at_utc": "2026-11-02T15:08:09.882089+00:00",
+  "content_type": "application/vnd.sdmx.structure+xml; version=2.1; charset=utf-8",
+  "provider_updated_at": null
+}

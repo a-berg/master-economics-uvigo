@@ -1,0 +1,15 @@
+{
+  "status": "OK_WITH_EXPLICIT_ADAPTATIONS",
+  "input_hashes": 179,
+  "output_hashes": 151,
+  "source_PWT_cells": 730,
+  "paired_statistic_rows": 152,
+  "figure_points_checked": 6479,
+  "growth_accounting_rows": 14,
+  "requirements": 27,
+  "figures": 38,
+  "tables": 21,
+  "notebook_code_cells": 6,
+  "artificial_gap_filling": false,
+  "inventory_percentage_growth": false
+}

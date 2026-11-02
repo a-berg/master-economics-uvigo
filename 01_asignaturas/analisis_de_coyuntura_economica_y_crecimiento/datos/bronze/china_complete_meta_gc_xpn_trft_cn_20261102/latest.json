@@ -1,0 +1,14 @@
+{
+  "id": "china_complete_meta_gc_xpn_trft_cn_20261102",
+  "url": "https://api.worldbank.org/v2/indicator/GC.XPN.TRFT.CN?format=json",
+  "format": "json",
+  "provider": "meta",
+  "publication_date": null,
+  "purpose": "Remaining concepts; practical documented alternatives",
+  "artifact": "datos/bronze/china_complete_meta_gc_xpn_trft_cn_20261102/20261102T150810282665Z_1a03056f4f60.json",
+  "sha256": "1a03056f4f6011aba871085d022a9abb939a87f8c9f059d6baa84ca0f37e556c",
+  "size_bytes": 823,
+  "accessed_at_utc": "2026-11-02T15:08:10.282840+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "china_inventory_search_imf_method_20261102",
+  "url": "https://dsbb.imf.org/sdds/dqaf-base/country/CHN/category/NAG00",
+  "format": "html",
+  "provider": "research",
+  "publication_date": null,
+  "purpose": "P52+P53 before P52; candidate only",
+  "artifact": "datos/bronze/china_inventory_search_imf_method_20261102/20261102T125830749206Z_f44a8abcb625.html",
+  "sha256": "f44a8abcb625970b4f74d90dad1dcea84b683a7c7c64e6d2f19c7874f8a37366",
+  "size_bytes": 44059,
+  "accessed_at_utc": "2026-11-02T12:58:30.749588+00:00",
+  "content_type": "text/html; charset=utf-8",
+  "provider_updated_at": null
+}

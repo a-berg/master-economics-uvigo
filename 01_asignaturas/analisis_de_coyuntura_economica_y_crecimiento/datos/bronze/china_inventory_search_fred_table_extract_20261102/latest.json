@@ -1,0 +1,10 @@
+{
+  "id": "china_inventory_search_fred_table_extract_20261102",
+  "artifact": "datos/bronze/china_inventory_search_fred_table_extract_20261102/published_table_extraction.json",
+  "sha256": "137db0e7068e19dac7810505e9f23bab35025b358d92600ba06a61f5edeb5888",
+  "url": "https://fred.stlouisfed.org/data/NINVRXDCCNA",
+  "accessed_at_utc": "2026-11-02T13:00:42.372369+00:00",
+  "retrieval_method": "web.run readable primary-source table; numeric transcription",
+  "artifact_kind": "structured_extraction_NOT_original_HTTP_bytes",
+  "limit": "Direct Python HTML and CSV downloads timed out; this artifact preserves the published data and metadata extracted via browser search tool, not original HTML. Base and currency multiplier unspecified; candidate only."
+}

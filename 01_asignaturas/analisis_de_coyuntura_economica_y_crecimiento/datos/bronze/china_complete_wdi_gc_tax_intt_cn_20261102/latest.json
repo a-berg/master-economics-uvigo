@@ -1,0 +1,14 @@
+{
+  "id": "china_complete_wdi_gc_tax_intt_cn_20261102",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/GC.TAX.INTT.CN?format=json&per_page=20000",
+  "format": "json",
+  "provider": "wdi",
+  "publication_date": null,
+  "purpose": "Remaining concepts; practical documented alternatives",
+  "artifact": "datos/bronze/china_complete_wdi_gc_tax_intt_cn_20261102/20261102T150810276855Z_e007f9411cf4.json",
+  "sha256": "e007f9411cf4efecf0ce6ca16ba4743ef41c669e09a27f578676f7e75ab6f1be",
+  "size_bytes": 14643,
+  "accessed_at_utc": "2026-11-02T15:08:10.277017+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

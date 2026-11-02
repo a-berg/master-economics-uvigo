@@ -1,0 +1,9 @@
+{
+  "id": "china_complete_imf_cash_subsidy_extract_20261102",
+  "artifact": "datos/bronze/china_complete_imf_cash_subsidy_extract_20261102/published_estimate.json",
+  "sha256": "27a44fd4c790c8c301134e4b422e6cf8e61180d5707a0949f5b29e02288ec1a9",
+  "url": "https://www.elibrary.imf.org/abstract/journals/001/2025/155/article-A001-en.xml",
+  "accessed_at_utc": "2026-11-02T15:19:37.469047+00:00",
+  "artifact_kind": "structured_extraction_NOT_original_HTTP_bytes",
+  "retrieval_method": "web search readable excerpt of primary IMF publication; structured extraction, not original HTTP bytes"
+}

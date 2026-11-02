@@ -1,0 +1,8 @@
+[
+  {
+    "id": "china_complete_imf_weo_ch3_data_browser_20261102",
+    "url": "https://www.imf.org/-/media/files/publications/weo/2025/october/data/ch3data.xlsx?download=1",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  }
+]

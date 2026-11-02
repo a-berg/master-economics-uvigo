@@ -9,5 +9,16 @@ datos/bronze/*
 datos/silver/*
 !datos/silver/china*
 !notebooks/04_china.ipynb
+!notebooks/05_china_alternativas.ipynb
+!notebooks/06_datos_informe.ipynb
+!datos/catalogo/
+datos/catalogo/*
+!datos/catalogo/informe_config.json
+!datos/gold/
+datos/gold/*
+!datos/gold/informe/
+!datos/gold/informe/**
+!output/preparacion_informe/
+!output/preparacion_informe/**
 !output/revision_china/
 !output/revision_china/**

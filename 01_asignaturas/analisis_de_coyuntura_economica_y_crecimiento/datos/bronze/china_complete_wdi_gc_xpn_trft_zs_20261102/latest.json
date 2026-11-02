@@ -1,0 +1,14 @@
+{
+  "id": "china_complete_wdi_gc_xpn_trft_zs_20261102",
+  "url": "https://api.worldbank.org/v2/country/CHN/indicator/GC.XPN.TRFT.ZS?format=json&per_page=20000",
+  "format": "json",
+  "provider": "wdi",
+  "publication_date": null,
+  "purpose": "Remaining concepts; practical documented alternatives",
+  "artifact": "datos/bronze/china_complete_wdi_gc_xpn_trft_zs_20261102/20261102T151044012517Z_6ceb5a77af18.json",
+  "sha256": "6ceb5a77af1805ab7711eda62cf81ecabc1eb8aff78accae29d94dca55505b31",
+  "size_bytes": 14614,
+  "accessed_at_utc": "2026-11-02T15:10:44.012794+00:00",
+  "content_type": "application/json;charset=utf-8",
+  "provider_updated_at": "2026-10-08"
+}

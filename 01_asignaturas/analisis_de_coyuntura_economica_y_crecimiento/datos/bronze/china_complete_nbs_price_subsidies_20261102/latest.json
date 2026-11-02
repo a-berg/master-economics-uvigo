@@ -1,0 +1,14 @@
+{
+  "id": "china_complete_nbs_price_subsidies_20261102",
+  "url": "https://www.stats.gov.cn/sj/ndsj/2007/html/H0809e.htm",
+  "format": "html",
+  "provider": "nbs",
+  "publication_date": null,
+  "purpose": "Remaining concepts; practical documented alternatives",
+  "artifact": "datos/bronze/china_complete_nbs_price_subsidies_20261102/20261102T152052630422Z_1dcfae1d3cea.html",
+  "sha256": "1dcfae1d3cea59be888a39d026e0e504e4c30ffc20fa55ece4c13f6db4d09522",
+  "size_bytes": 34595,
+  "accessed_at_utc": "2026-11-02T15:20:52.630779+00:00",
+  "content_type": "text/html",
+  "provider_updated_at": null
+}
