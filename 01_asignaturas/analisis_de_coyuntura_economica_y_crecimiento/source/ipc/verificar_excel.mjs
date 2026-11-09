@@ -1,0 +1,27 @@
+import fs from 'node:fs/promises';
+import assert from 'node:assert/strict';
+import {FileBlob,SpreadsheetFile} from '@oai/artifact-tool';
+const wb=await SpreadsheetFile.importXlsx(await FileBlob.load('output/ipc/IPC-ADRIAN BERGES-revisado.xlsx'));
+const s=wb.worksheets.getItem('Mis Gastos'),t=wb.worksheets.getItem('Tablas e Gráficos');
+const data=JSON.parse(await fs.readFile('entregas/ipc/datos_ipc.json','utf8'));
+const value=(sheet,cell)=>sheet.getRange(cell).values[0][0];
+const isBlank=(sheet,cell)=>[null,''].includes(value(sheet,cell));
+wb.recalculate();
+assert.ok(Math.abs(value(s,'CK3')-1751.93)<1e-8);
+assert.ok(isBlank(t,'F3'));
+for(const col of ['CP','CR','CT']) for(const item of data.items) s.getRange(`${col}${item.row}`).values=[[item.base_price]];
+wb.recalculate();
+for(let r=3;r<=5;r++) assert.ok(Math.abs(value(t,`F${r}`)-100)<1e-8);
+s.getRange('CR7').values=[[data.items[0].base_price*1.1]];
+wb.recalculate();
+const expected=100*(1751.93+0.46)/1751.93;
+assert.ok(Math.abs(value(t,'F4')-expected)<1e-8);
+assert.ok(Math.abs(value(t,'G4')-(expected-100))<1e-8);
+assert.ok(value(t,'G5')<0);
+s.getRange('CP7').clear({applyTo:'contents'});
+s.getRange('CP72').values=[[999]]; // Un precio ajeno no suple el precio que falta.
+wb.recalculate();
+assert.ok(isBlank(t,'F3'));
+assert.ok(isBlank(t,'G4'));
+assert.equal(t.charts.items.length,2);
+console.log('Verificado: base, cesta constante, cambio de precio, tasas y bloqueo por dato faltante. No se exportan los datos de prueba.');

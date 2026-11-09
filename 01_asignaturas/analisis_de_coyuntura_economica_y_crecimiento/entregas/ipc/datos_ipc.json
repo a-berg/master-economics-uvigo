@@ -1,0 +1,1792 @@
+{
+  "source": "/home/xylon/Documents/Master_Economia/Analisis de Coyuntura y Crecimiento/entregable_ipc/IPC-ADRIAN BERGES.xlsx",
+  "sha256": "a4ab2006bed47f5fe8b8cf3327891650f8f92eaab21599b9335a7bf90cff4ce4",
+  "base_start": "2026-09-08",
+  "base_end": "2026-10-06",
+  "total": 1751.93,
+  "original_total": 1717.9499999999998,
+  "groups": [
+    {
+      "number": 1,
+      "row": 6,
+      "name": "01 Alimentos y bebidas no alcohólicas",
+      "amount": 192.63,
+      "spain": 18.5386,
+      "galicia": 19.5472,
+      "weight": 10.99530232372298,
+      "without_mortgage": 42.249906783936126
+    },
+    {
+      "number": 2,
+      "row": 71,
+      "name": "02 Bebidas alcohólicas y tabaco",
+      "amount": 0,
+      "spain": 3.7719,
+      "galicia": 3.7107,
+      "weight": 0.0,
+      "without_mortgage": 0.0
+    },
+    {
+      "number": 3,
+      "row": 73,
+      "name": "03 Vestido y calzado",
+      "amount": 7.99,
+      "spain": 3.968,
+      "galicia": 4.974,
+      "weight": 0.4560684502234678,
+      "without_mortgage": 1.7524620007457283
+    },
+    {
+      "number": 4,
+      "row": 75,
+      "name": "04 Vivienda, agua, electricidad, gas y otros combustibles",
+      "amount": 1296,
+      "spain": 12.1584,
+      "galicia": 10.8958,
+      "weight": 73.97555838418201,
+      "without_mortgage": 0.0
+    },
+    {
+      "number": 5,
+      "row": 78,
+      "name": "05 Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar",
+      "amount": 23.1,
+      "spain": 5.2756,
+      "galicia": 5.5823,
+      "weight": 1.3185458323106516,
+      "without_mortgage": 5.066567236198538
+    },
+    {
+      "number": 6,
+      "row": 90,
+      "name": "06 Sanidad",
+      "amount": 0,
+      "spain": 5.7182,
+      "galicia": 6.1296,
+      "weight": 0.0,
+      "without_mortgage": 0.0
+    },
+    {
+      "number": 7,
+      "row": 92,
+      "name": "07 Transporte",
+      "amount": 15,
+      "spain": 14.3931,
+      "galicia": 15.8839,
+      "weight": 0.856198592409514,
+      "without_mortgage": 3.289978724804246
+    },
+    {
+      "number": 8,
+      "row": 94,
+      "name": "08 Comunicaciones",
+      "amount": 0,
+      "spain": 3.2609,
+      "galicia": 3.1629,
+      "weight": 0.0,
+      "without_mortgage": 0.0
+    },
+    {
+      "number": 9,
+      "row": 96,
+      "name": "09 Ocio y cultura",
+      "amount": 49.98,
+      "spain": 8.5624,
+      "galicia": 7.4562,
+      "weight": 2.852853709908501,
+      "without_mortgage": 10.962209111047747
+    },
+    {
+      "number": 10,
+      "row": 100,
+      "name": "10 Enseñanza",
+      "amount": 0,
+      "spain": 1.8723,
+      "galicia": 1.5705,
+      "weight": 0.0,
+      "without_mortgage": 0.0
+    },
+    {
+      "number": 11,
+      "row": 102,
+      "name": "11 Restaurantes y hoteles",
+      "amount": 159.25,
+      "spain": 14.7513,
+      "galicia": 13.2296,
+      "weight": 9.089975056081007,
+      "without_mortgage": 34.928607461671746
+    },
+    {
+      "number": 12,
+      "row": 126,
+      "name": "12 Otros bienes y servicios ",
+      "amount": 7.98,
+      "spain": 7.7294,
+      "galicia": 7.8573,
+      "weight": 0.45549765116186147,
+      "without_mortgage": 1.7502686815958588
+    }
+  ],
+  "items": [
+    {
+      "row": 7,
+      "group": 1,
+      "name": "HOT CHEESE Mercadona",
+      "amount": 4.6,
+      "quantity": 2,
+      "base_price": 2.3
+    },
+    {
+      "row": 8,
+      "group": 1,
+      "name": "LOMO SALMÓN NORUEGO Mercadona",
+      "amount": 5.95,
+      "quantity": 1,
+      "base_price": 5.95
+    },
+    {
+      "row": 9,
+      "group": 1,
+      "name": "LANGOSTINOS COCIDOS Mercadona",
+      "amount": 5,
+      "quantity": 1,
+      "base_price": 5.0
+    },
+    {
+      "row": 10,
+      "group": 1,
+      "name": "CHULETA LOMO FINA Mercadona",
+      "amount": 3.31,
+      "quantity": 1,
+      "base_price": 3.31
+    },
+    {
+      "row": 11,
+      "group": 1,
+      "name": "CHULETA PAVO Mercadona",
+      "amount": 4.38,
+      "quantity": 1,
+      "base_price": 4.38
+    },
+    {
+      "row": 12,
+      "group": 1,
+      "name": "BÍFIDUS CREMOSO COCO Mercadona",
+      "amount": 1.3,
+      "quantity": 1,
+      "base_price": 1.3
+    },
+    {
+      "row": 13,
+      "group": 1,
+      "name": "BURGER POLLO Mercadona",
+      "amount": 3.8,
+      "quantity": 1,
+      "base_price": 3.8
+    },
+    {
+      "row": 14,
+      "group": 1,
+      "name": "SOJA NATURAL Mercadona",
+      "amount": 1.2,
+      "quantity": 1,
+      "base_price": 1.2
+    },
+    {
+      "row": 15,
+      "group": 1,
+      "name": "ENSALADA CÉSAR Mercadona",
+      "amount": 10.4,
+      "quantity": 4,
+      "base_price": 2.6
+    },
+    {
+      "row": 16,
+      "group": 1,
+      "name": "PAN ESPELTA INTEGRAL Mercadona",
+      "amount": 1.65,
+      "quantity": 1,
+      "base_price": 1.65
+    },
+    {
+      "row": 17,
+      "group": 1,
+      "name": "100% INTEGRAL Mercadona",
+      "amount": 0.95,
+      "quantity": 1,
+      "base_price": 0.95
+    },
+    {
+      "row": 18,
+      "group": 1,
+      "name": "QUESO COTTAGE Mercadona",
+      "amount": 3,
+      "quantity": 2,
+      "base_price": 1.5
+    },
+    {
+      "row": 19,
+      "group": 1,
+      "name": "GRIEGO LIGERO NAT Mercadona",
+      "amount": 2.1,
+      "quantity": 1,
+      "base_price": 2.1
+    },
+    {
+      "row": 20,
+      "group": 1,
+      "name": "PECHUGA PAVO 92% Mercadona",
+      "amount": 2.85,
+      "quantity": 1,
+      "base_price": 2.85
+    },
+    {
+      "row": 21,
+      "group": 1,
+      "name": "PLAT MANDARINA PERA Mercadona",
+      "amount": 2.9,
+      "quantity": 1,
+      "base_price": 2.9
+    },
+    {
+      "row": 22,
+      "group": 1,
+      "name": "TORTITAS DE ARROZ Mercadona",
+      "amount": 1.1,
+      "quantity": 1,
+      "base_price": 1.1
+    },
+    {
+      "row": 23,
+      "group": 1,
+      "name": "PREPARADO DE COCO Mercadona",
+      "amount": 2.6,
+      "quantity": 2,
+      "base_price": 1.3
+    },
+    {
+      "row": 24,
+      "group": 1,
+      "name": "CHAMPIÑÓN PORTOBELLO Mercadona",
+      "amount": 2.96,
+      "quantity": 1,
+      "base_price": 2.96
+    },
+    {
+      "row": 25,
+      "group": 1,
+      "name": "PIÑA PELADA RODAJAS Mercadona",
+      "amount": 3.73,
+      "quantity": 1,
+      "base_price": 3.73
+    },
+    {
+      "row": 26,
+      "group": 1,
+      "name": "ARÁNDANO 500 GR Mercadona",
+      "amount": 6.5,
+      "quantity": 1,
+      "base_price": 6.5
+    },
+    {
+      "row": 27,
+      "group": 1,
+      "name": "COPO INT. BAÑADO CHOC Mercadona",
+      "amount": 2.65,
+      "quantity": 1,
+      "base_price": 2.65
+    },
+    {
+      "row": 28,
+      "group": 1,
+      "name": "MELÓN SAPO PARTIDO Mercadona",
+      "amount": 2.72,
+      "quantity": 1,
+      "base_price": 2.72
+    },
+    {
+      "row": 29,
+      "group": 1,
+      "name": "GALLETA AVENA Y SEMI Mercadona",
+      "amount": 1.9,
+      "quantity": 1,
+      "base_price": 1.9
+    },
+    {
+      "row": 30,
+      "group": 1,
+      "name": "NEGRO 72% ALMENDRAS Mercadona",
+      "amount": 5.5,
+      "quantity": 2,
+      "base_price": 2.75
+    },
+    {
+      "row": 31,
+      "group": 1,
+      "name": "GARBANZO M. COCIDO Mercadona",
+      "amount": 0.8,
+      "quantity": 1,
+      "base_price": 0.8
+    },
+    {
+      "row": 32,
+      "group": 1,
+      "name": "HÉLICES Mercadona",
+      "amount": 0.8,
+      "quantity": 1,
+      "base_price": 0.8
+    },
+    {
+      "row": 33,
+      "group": 1,
+      "name": "CC ZERO ZERO 2L Mercadona",
+      "amount": 2.15,
+      "quantity": 1,
+      "base_price": 2.15
+    },
+    {
+      "row": 34,
+      "group": 1,
+      "name": "MANDARINA Mercadona",
+      "amount": 5.27,
+      "quantity": 1.988,
+      "base_price": 2.6509054325955734
+    },
+    {
+      "row": 35,
+      "group": 1,
+      "name": "PIMIENTO ROJO Mercadona",
+      "amount": 0.87,
+      "quantity": 0.346,
+      "base_price": 2.514450867052023
+    },
+    {
+      "row": 36,
+      "group": 1,
+      "name": "PIMIENTO VERDE Mercadona",
+      "amount": 0.8,
+      "quantity": 0.284,
+      "base_price": 2.8169014084507045
+    },
+    {
+      "row": 37,
+      "group": 1,
+      "name": "PATATA Mercadona",
+      "amount": 3.66,
+      "quantity": 1.924,
+      "base_price": 1.9022869022869024
+    },
+    {
+      "row": 38,
+      "group": 1,
+      "name": "cereales froiz",
+      "amount": 2.1,
+      "quantity": 1,
+      "base_price": 2.1
+    },
+    {
+      "row": 39,
+      "group": 1,
+      "name": "carne picada cerdo froiz",
+      "amount": 1.93,
+      "quantity": 0.335,
+      "base_price": 5.761194029850746
+    },
+    {
+      "row": 40,
+      "group": 1,
+      "name": "aceite de oliva froiz",
+      "amount": 11.97,
+      "quantity": 3,
+      "base_price": 3.99
+    },
+    {
+      "row": 41,
+      "group": 1,
+      "name": "Pechuga de pollo entera froiz",
+      "amount": 4.44,
+      "quantity": 0.635,
+      "base_price": 6.992125984251969
+    },
+    {
+      "row": 42,
+      "group": 1,
+      "name": "Puerros froiz",
+      "amount": 1.15,
+      "quantity": 0.48,
+      "base_price": 2.395833333333333
+    },
+    {
+      "row": 43,
+      "group": 1,
+      "name": "Calabacín froiz",
+      "amount": 0.92,
+      "quantity": 0.485,
+      "base_price": 1.8969072164948455
+    },
+    {
+      "row": 44,
+      "group": 1,
+      "name": "Zanahoria froiz",
+      "amount": 1.63,
+      "quantity": 1.365,
+      "base_price": 1.1941391941391941
+    },
+    {
+      "row": 45,
+      "group": 1,
+      "name": "Cebolla froiz",
+      "amount": 2.05,
+      "quantity": 1.03,
+      "base_price": 1.9902912621359221
+    },
+    {
+      "row": 46,
+      "group": 1,
+      "name": "Galletas froiz",
+      "amount": 3.29,
+      "quantity": 1,
+      "base_price": 3.29
+    },
+    {
+      "row": 47,
+      "group": 1,
+      "name": "carne picada ternera froiz",
+      "amount": 8.4,
+      "quantity": 0.6,
+      "base_price": 14.000000000000002
+    },
+    {
+      "row": 48,
+      "group": 1,
+      "name": "merluza congelada lomitos froiz",
+      "amount": 7,
+      "quantity": 1,
+      "base_price": 7.0
+    },
+    {
+      "row": 49,
+      "group": 1,
+      "name": "huevos froiz",
+      "amount": 2.49,
+      "quantity": 6,
+      "base_price": 0.41500000000000004
+    },
+    {
+      "row": 50,
+      "group": 1,
+      "name": "NUGGETS DE POLLO Mercadona",
+      "amount": 2.7,
+      "quantity": 1,
+      "base_price": 2.7
+    },
+    {
+      "row": 51,
+      "group": 1,
+      "name": "UVA BLANCA S/SEM Mercadona",
+      "amount": 2.03,
+      "quantity": 1,
+      "base_price": 2.03
+    },
+    {
+      "row": 52,
+      "group": 1,
+      "name": "MANTEQUILLA PAST.SIN Mercadona",
+      "amount": 2.05,
+      "quantity": 1,
+      "base_price": 2.05
+    },
+    {
+      "row": 53,
+      "group": 1,
+      "name": "CALDO POLLO Mercadona",
+      "amount": 0.75,
+      "quantity": 1,
+      "base_price": 0.75
+    },
+    {
+      "row": 54,
+      "group": 1,
+      "name": "PECHUGA PAVO BIPACK Mercadona",
+      "amount": 3.95,
+      "quantity": 1,
+      "base_price": 3.95
+    },
+    {
+      "row": 55,
+      "group": 1,
+      "name": "PAN M.100%INT FAM Mercadona",
+      "amount": 1.15,
+      "quantity": 1,
+      "base_price": 1.15
+    },
+    {
+      "row": 56,
+      "group": 1,
+      "name": "CHULETA AGUJA Mercadona",
+      "amount": 3.2,
+      "quantity": 1,
+      "base_price": 3.2
+    },
+    {
+      "row": 57,
+      "group": 1,
+      "name": "LAGARTO CERDO Mercadona",
+      "amount": 3.1,
+      "quantity": 1,
+      "base_price": 3.1
+    },
+    {
+      "row": 58,
+      "group": 1,
+      "name": "AGUADOY 8L Mercadona",
+      "amount": 0.95,
+      "quantity": 1,
+      "base_price": 0.95
+    },
+    {
+      "row": 59,
+      "group": 1,
+      "name": "CUARTO TRASERO FAMI Mercadona",
+      "amount": 4.5,
+      "quantity": 1,
+      "base_price": 4.5
+    },
+    {
+      "row": 60,
+      "group": 1,
+      "name": "SOLOMILLO PAVO Mercadona",
+      "amount": 3.61,
+      "quantity": 1,
+      "base_price": 3.61
+    },
+    {
+      "row": 61,
+      "group": 1,
+      "name": "3 VEGETALES Mercadona",
+      "amount": 1.95,
+      "quantity": 1,
+      "base_price": 1.95
+    },
+    {
+      "row": 62,
+      "group": 1,
+      "name": "ARÁNDANO 225 GR Mercadona",
+      "amount": 3.35,
+      "quantity": 1,
+      "base_price": 3.35
+    },
+    {
+      "row": 63,
+      "group": 1,
+      "name": "SALSA DE SOJA SALADA Mercadona",
+      "amount": 1.2,
+      "quantity": 1,
+      "base_price": 1.2
+    },
+    {
+      "row": 64,
+      "group": 1,
+      "name": "SALCHICHA BRATWURST Mercadona",
+      "amount": 2.6,
+      "quantity": 1,
+      "base_price": 2.6
+    },
+    {
+      "row": 65,
+      "group": 1,
+      "name": "TOMATE TRITURADO Mercadona",
+      "amount": 1,
+      "quantity": 1,
+      "base_price": 1.0
+    },
+    {
+      "row": 66,
+      "group": 1,
+      "name": "PAN H BRIOCHE Mercadona",
+      "amount": 1.1,
+      "quantity": 1,
+      "base_price": 1.1
+    },
+    {
+      "row": 67,
+      "group": 1,
+      "name": "YOGUR NATURAL Mercadona",
+      "amount": 1.99,
+      "quantity": 1,
+      "base_price": 1.99
+    },
+    {
+      "row": 68,
+      "group": 1,
+      "name": "PERA CONFERENCIA Mercadona",
+      "amount": 1.72,
+      "quantity": 0.624,
+      "base_price": 2.7564102564102564
+    },
+    {
+      "row": 69,
+      "group": 1,
+      "name": "MANGO Mercadona",
+      "amount": 1.93,
+      "quantity": 0.642,
+      "base_price": 3.0062305295950154
+    },
+    {
+      "row": 70,
+      "group": 1,
+      "name": "KIWI VERDE Mercadona",
+      "amount": 3.03,
+      "quantity": 0.652,
+      "base_price": 4.64723926380368
+    },
+    {
+      "row": 74,
+      "group": 3,
+      "name": "pijama mujer tramas",
+      "amount": 7.99,
+      "quantity": 1,
+      "base_price": 7.99
+    },
+    {
+      "row": 76,
+      "group": 4,
+      "name": "hipoteca mes",
+      "amount": 1296,
+      "quantity": 2,
+      "base_price": 648.0
+    },
+    {
+      "row": 79,
+      "group": 5,
+      "name": "HIGIÉNICO DOBLE ROLL Mercadona",
+      "amount": 2.35,
+      "quantity": 1,
+      "base_price": 2.35
+    },
+    {
+      "row": 80,
+      "group": 5,
+      "name": "LAVAVAJILLA TODO 1 Mercadona",
+      "amount": 2.95,
+      "quantity": 1,
+      "base_price": 2.95
+    },
+    {
+      "row": 81,
+      "group": 5,
+      "name": "ESTROPAJO AZUL Mercadona",
+      "amount": 0.9,
+      "quantity": 1,
+      "base_price": 0.9
+    },
+    {
+      "row": 82,
+      "group": 5,
+      "name": "LIMPIAMÁQUINAS Mercadona",
+      "amount": 1.55,
+      "quantity": 1,
+      "base_price": 1.55
+    },
+    {
+      "row": 83,
+      "group": 5,
+      "name": "LEJÍA MULTIUSOS Mercadona",
+      "amount": 1.7,
+      "quantity": 1,
+      "base_price": 1.7
+    },
+    {
+      "row": 84,
+      "group": 5,
+      "name": "FRIEGASUELOS SPA Mercadona",
+      "amount": 0.95,
+      "quantity": 1,
+      "base_price": 0.95
+    },
+    {
+      "row": 85,
+      "group": 5,
+      "name": "LIMP. BAÑOS PISTOLA Mercadona",
+      "amount": 1.55,
+      "quantity": 1,
+      "base_price": 1.55
+    },
+    {
+      "row": 86,
+      "group": 5,
+      "name": "bombilla bricocentro",
+      "amount": 4.95,
+      "quantity": 1,
+      "base_price": 4.95
+    },
+    {
+      "row": 87,
+      "group": 5,
+      "name": "ROLLO HOGAR DOBLE Mercadona",
+      "amount": 2.25,
+      "quantity": 1,
+      "base_price": 2.25
+    },
+    {
+      "row": 88,
+      "group": 5,
+      "name": "PAPEL VEGETAL 30H Mercadona",
+      "amount": 1.7,
+      "quantity": 1,
+      "base_price": 1.7
+    },
+    {
+      "row": 89,
+      "group": 5,
+      "name": "PAPEL ALUMINIO Mercadona",
+      "amount": 2.25,
+      "quantity": 1,
+      "base_price": 2.25
+    },
+    {
+      "row": 93,
+      "group": 7,
+      "name": "Spray aceite motor recalvi",
+      "amount": 15,
+      "quantity": 1,
+      "base_price": 15.0
+    },
+    {
+      "row": 97,
+      "group": 9,
+      "name": "Suscripción a Netflix",
+      "amount": 16,
+      "quantity": 2,
+      "base_price": 8.0
+    },
+    {
+      "row": 98,
+      "group": 9,
+      "name": "Suscripción a Spotify Duo",
+      "amount": 33.98,
+      "quantity": 2,
+      "base_price": 16.99
+    },
+    {
+      "row": 103,
+      "group": 11,
+      "name": "cafe con leche bella arousa",
+      "amount": 10.5,
+      "quantity": 7,
+      "base_price": 1.5
+    },
+    {
+      "row": 104,
+      "group": 11,
+      "name": "cafe con leche grande bella arousa",
+      "amount": 1.7,
+      "quantity": 1,
+      "base_price": 1.7
+    },
+    {
+      "row": 105,
+      "group": 11,
+      "name": "menú del día doña tapa",
+      "amount": 15.5,
+      "quantity": 1,
+      "base_price": 15.5
+    },
+    {
+      "row": 106,
+      "group": 11,
+      "name": "caña",
+      "amount": 5.4,
+      "quantity": 2,
+      "base_price": 2.7
+    },
+    {
+      "row": 107,
+      "group": 11,
+      "name": "bocata",
+      "amount": 13,
+      "quantity": 1,
+      "base_price": 13.0
+    },
+    {
+      "row": 108,
+      "group": 11,
+      "name": "vermú",
+      "amount": 3.5,
+      "quantity": 1,
+      "base_price": 3.5
+    },
+    {
+      "row": 109,
+      "group": 11,
+      "name": "agua",
+      "amount": 4.5,
+      "quantity": 3,
+      "base_price": 1.5
+    },
+    {
+      "row": 110,
+      "group": 11,
+      "name": "helado",
+      "amount": 5,
+      "quantity": 1,
+      "base_price": 5.0
+    },
+    {
+      "row": 111,
+      "group": 11,
+      "name": "Caña 1906 noroeste",
+      "amount": 2.6,
+      "quantity": 1,
+      "base_price": 2.6
+    },
+    {
+      "row": 112,
+      "group": 11,
+      "name": "Vino noroeste",
+      "amount": 4.3,
+      "quantity": 1,
+      "base_price": 4.3
+    },
+    {
+      "row": 113,
+      "group": 11,
+      "name": "Pan ración noroeste",
+      "amount": 1,
+      "quantity": 1,
+      "base_price": 1.0
+    },
+    {
+      "row": 114,
+      "group": 11,
+      "name": "Ración ibéricos noroeste",
+      "amount": 17,
+      "quantity": 1,
+      "base_price": 17.0
+    },
+    {
+      "row": 115,
+      "group": 11,
+      "name": "Ración chorizo noroeste",
+      "amount": 9,
+      "quantity": 1,
+      "base_price": 9.0
+    },
+    {
+      "row": 116,
+      "group": 11,
+      "name": "chuletón vaca a capela",
+      "amount": 26.25,
+      "quantity": 0.75,
+      "base_price": 35.0
+    },
+    {
+      "row": 117,
+      "group": 11,
+      "name": "ración calamar a capela",
+      "amount": 7,
+      "quantity": 0.5,
+      "base_price": 14.0
+    },
+    {
+      "row": 118,
+      "group": 11,
+      "name": "viño da casa a capela",
+      "amount": 5,
+      "quantity": 1,
+      "base_price": 5.0
+    },
+    {
+      "row": 119,
+      "group": 11,
+      "name": "tarta de la abuela a capela",
+      "amount": 5,
+      "quantity": 1,
+      "base_price": 5.0
+    },
+    {
+      "row": 120,
+      "group": 11,
+      "name": "café cortado a capela",
+      "amount": 1.2,
+      "quantity": 1,
+      "base_price": 1.2
+    },
+    {
+      "row": 121,
+      "group": 11,
+      "name": "tortitas con nutella village bakery",
+      "amount": 4.5,
+      "quantity": 1,
+      "base_price": 4.5
+    },
+    {
+      "row": 122,
+      "group": 11,
+      "name": "porción bizcocho village bakery",
+      "amount": 3.8,
+      "quantity": 1,
+      "base_price": 3.8
+    },
+    {
+      "row": 123,
+      "group": 11,
+      "name": "tostada jamón village bakery",
+      "amount": 5,
+      "quantity": 1,
+      "base_price": 5.0
+    },
+    {
+      "row": 124,
+      "group": 11,
+      "name": "café con leche village bakery",
+      "amount": 5,
+      "quantity": 2,
+      "base_price": 2.5
+    },
+    {
+      "row": 125,
+      "group": 11,
+      "name": "croissant bella arousa",
+      "amount": 3.5,
+      "quantity": 1,
+      "base_price": 3.5
+    },
+    {
+      "row": 127,
+      "group": 12,
+      "name": "ceras colorear infantiles",
+      "amount": 7.98,
+      "quantity": 2,
+      "base_price": 3.99
+    }
+  ],
+  "transactions": [
+    {
+      "row": 7,
+      "date": "2026-09-14",
+      "amount": 2.3,
+      "quantity": 1,
+      "description": "HOT CHEESE Mercadona; 2,30 €/unidad"
+    },
+    {
+      "row": 7,
+      "date": "2026-09-21",
+      "amount": 2.3,
+      "quantity": 1,
+      "description": "HOT CHEESE Mercadona; 2,30 €/unidad"
+    },
+    {
+      "row": 8,
+      "date": "2026-09-14",
+      "amount": 5.95,
+      "quantity": 1,
+      "description": "LOMO SALMÓN NORUEGO Mercadona; 5,95 €/unidad"
+    },
+    {
+      "row": 9,
+      "date": "2026-09-14",
+      "amount": 5,
+      "quantity": 1,
+      "description": "LANGOSTINOS COCIDOS Mercadona; 5,00 €/unidad"
+    },
+    {
+      "row": 10,
+      "date": "2026-09-14",
+      "amount": 3.31,
+      "quantity": 1,
+      "description": "CHULETA LOMO FINA Mercadona; 3,31 €/unidad"
+    },
+    {
+      "row": 11,
+      "date": "2026-09-14",
+      "amount": 4.38,
+      "quantity": 1,
+      "description": "CHULETA PAVO Mercadona; 4,38 €/unidad"
+    },
+    {
+      "row": 12,
+      "date": "2026-09-14",
+      "amount": 1.3,
+      "quantity": 1,
+      "description": "BÍFIDUS CREMOSO COCO Mercadona; 1,30 €/unidad"
+    },
+    {
+      "row": 13,
+      "date": "2026-09-14",
+      "amount": 3.8,
+      "quantity": 1,
+      "description": "BURGER POLLO Mercadona; 3,80 €/unidad"
+    },
+    {
+      "row": 14,
+      "date": "2026-09-14",
+      "amount": 1.2,
+      "quantity": 1,
+      "description": "SOJA NATURAL Mercadona; 1,20 €/unidad"
+    },
+    {
+      "row": 15,
+      "date": "2026-09-14",
+      "amount": 5.2,
+      "quantity": 2,
+      "description": "ENSALADA CÉSAR Mercadona; 2,60 €/unidad"
+    },
+    {
+      "row": 15,
+      "date": "2026-09-21",
+      "amount": 5.2,
+      "quantity": 2,
+      "description": "ENSALADA CÉSAR Mercadona; 2,60 €/unidad"
+    },
+    {
+      "row": 16,
+      "date": "2026-09-14",
+      "amount": 1.65,
+      "quantity": 1,
+      "description": "PAN ESPELTA INTEGRAL Mercadona; 1,65 €/unidad"
+    },
+    {
+      "row": 17,
+      "date": "2026-09-14",
+      "amount": 0.95,
+      "quantity": 1,
+      "description": "100% INTEGRAL Mercadona; 0,95 €/unidad"
+    },
+    {
+      "row": 18,
+      "date": "2026-09-14",
+      "amount": 3,
+      "quantity": 2,
+      "description": "QUESO COTTAGE Mercadona; 1,50 €/unidad"
+    },
+    {
+      "row": 19,
+      "date": "2026-09-14",
+      "amount": 2.1,
+      "quantity": 1,
+      "description": "GRIEGO LIGERO NAT Mercadona; 2,10 €/unidad"
+    },
+    {
+      "row": 20,
+      "date": "2026-09-14",
+      "amount": 2.85,
+      "quantity": 1,
+      "description": "PECHUGA PAVO 92% Mercadona; 2,85 €/unidad"
+    },
+    {
+      "row": 21,
+      "date": "2026-09-14",
+      "amount": 2.9,
+      "quantity": 1,
+      "description": "PLAT MANDARINA PERA Mercadona; 2,90 €/unidad"
+    },
+    {
+      "row": 22,
+      "date": "2026-09-14",
+      "amount": 1.1,
+      "quantity": 1,
+      "description": "TORTITAS DE ARROZ Mercadona; 1,10 €/unidad"
+    },
+    {
+      "row": 23,
+      "date": "2026-09-14",
+      "amount": 2.6,
+      "quantity": 2,
+      "description": "PREPARADO DE COCO Mercadona; 1,30 €/unidad"
+    },
+    {
+      "row": 24,
+      "date": "2026-09-14",
+      "amount": 2.96,
+      "quantity": 1,
+      "description": "CHAMPIÑÓN PORTOBELLO Mercadona; 2,96 €/unidad"
+    },
+    {
+      "row": 25,
+      "date": "2026-09-14",
+      "amount": 3.73,
+      "quantity": 1,
+      "description": "PIÑA PELADA RODAJAS Mercadona; 3,73 €/unidad"
+    },
+    {
+      "row": 26,
+      "date": "2026-09-14",
+      "amount": 6.5,
+      "quantity": 1,
+      "description": "ARÁNDANO 500 GR Mercadona; 6,50 €/unidad"
+    },
+    {
+      "row": 27,
+      "date": "2026-09-14",
+      "amount": 2.65,
+      "quantity": 1,
+      "description": "COPO INT. BAÑADO CHOC Mercadona; 2,65 €/unidad"
+    },
+    {
+      "row": 28,
+      "date": "2026-09-14",
+      "amount": 2.72,
+      "quantity": 1,
+      "description": "MELÓN SAPO PARTIDO Mercadona; 2,72 €/unidad"
+    },
+    {
+      "row": 29,
+      "date": "2026-09-14",
+      "amount": 1.9,
+      "quantity": 1,
+      "description": "GALLETA AVENA Y SEMI Mercadona; 1,90 €/unidad"
+    },
+    {
+      "row": 30,
+      "date": "2026-09-14",
+      "amount": 2.75,
+      "quantity": 1,
+      "description": "NEGRO 72% ALMENDRAS Mercadona; 2,75 €/unidad"
+    },
+    {
+      "row": 30,
+      "date": "2026-09-21",
+      "amount": 2.75,
+      "quantity": 1,
+      "description": "NEGRO 72% ALMENDRAS Mercadona; 2,75 €/unidad"
+    },
+    {
+      "row": 31,
+      "date": "2026-09-14",
+      "amount": 0.8,
+      "quantity": 1,
+      "description": "GARBANZO M. COCIDO Mercadona; 0,80 €/unidad"
+    },
+    {
+      "row": 32,
+      "date": "2026-09-14",
+      "amount": 0.8,
+      "quantity": 1,
+      "description": "HÉLICES Mercadona; 0,80 €/unidad"
+    },
+    {
+      "row": 33,
+      "date": "2026-09-14",
+      "amount": 2.15,
+      "quantity": 1,
+      "description": "CC ZERO ZERO 2L Mercadona; 2,15 €/unidad"
+    },
+    {
+      "row": 34,
+      "date": "2026-09-14",
+      "amount": 2.34,
+      "quantity": 0.882,
+      "description": "MANDARINA Mercadona; 2,65 €/kg"
+    },
+    {
+      "row": 34,
+      "date": "2026-09-21",
+      "amount": 2.93,
+      "quantity": 1.106,
+      "description": "MANDARINA Mercadona; 2,65 €/kg"
+    },
+    {
+      "row": 35,
+      "date": "2026-09-14",
+      "amount": 0.87,
+      "quantity": 0.346,
+      "description": "PIMIENTO ROJO Mercadona; 2,50 €/kg"
+    },
+    {
+      "row": 36,
+      "date": "2026-09-14",
+      "amount": 0.8,
+      "quantity": 0.284,
+      "description": "PIMIENTO VERDE Mercadona; 2,80 €/kg"
+    },
+    {
+      "row": 37,
+      "date": "2026-09-14",
+      "amount": 3.66,
+      "quantity": 1.924,
+      "description": "PATATA Mercadona; 1,90 €/kg"
+    },
+    {
+      "row": 38,
+      "date": "2026-09-09",
+      "amount": 2.1,
+      "quantity": 1,
+      "description": "cereales froiz; 2,10 €/unidad"
+    },
+    {
+      "row": 39,
+      "date": "2026-09-09",
+      "amount": 1.93,
+      "quantity": 0.335,
+      "description": "carne picada cerdo froiz; 5,76 €/kg"
+    },
+    {
+      "row": 40,
+      "date": "2026-09-15",
+      "amount": 11.97,
+      "quantity": 3,
+      "description": "aceite de oliva froiz; 3,99 €/unidad"
+    },
+    {
+      "row": 41,
+      "date": "2026-09-19",
+      "amount": 4.44,
+      "quantity": 0.635,
+      "description": "Pechuga de pollo entera froiz; 6,99 €/kg"
+    },
+    {
+      "row": 42,
+      "date": "2026-09-19",
+      "amount": 1.15,
+      "quantity": 0.48,
+      "description": "Puerros froiz; 2,39 €/kg"
+    },
+    {
+      "row": 43,
+      "date": "2026-09-19",
+      "amount": 0.92,
+      "quantity": 0.485,
+      "description": "Calabacín froiz; 1,89 €/kg"
+    },
+    {
+      "row": 44,
+      "date": "2026-09-19",
+      "amount": 0.84,
+      "quantity": 0.705,
+      "description": "Zanahoria froiz; 1,19 €/kg"
+    },
+    {
+      "row": 44,
+      "date": "2026-09-22",
+      "amount": 0.79,
+      "quantity": 0.66,
+      "description": "Zanahoria froiz; 1,19 €/kg"
+    },
+    {
+      "row": 45,
+      "date": "2026-09-19",
+      "amount": 2.05,
+      "quantity": 1.03,
+      "description": "Cebolla froiz; 1,99 €/kg"
+    },
+    {
+      "row": 46,
+      "date": "2026-09-19",
+      "amount": 3.29,
+      "quantity": 1,
+      "description": "Galletas froiz; 3,29 €/unidad"
+    },
+    {
+      "row": 47,
+      "date": "2026-09-22",
+      "amount": 8.4,
+      "quantity": 0.6,
+      "description": "carne picada ternera froiz; 14,00 €/kg"
+    },
+    {
+      "row": 48,
+      "date": "2026-10-02",
+      "amount": 7,
+      "quantity": 1,
+      "description": "merluza congelada lomitos froiz; 7,00 €/unidad"
+    },
+    {
+      "row": 49,
+      "date": "2026-10-02",
+      "amount": 2.49,
+      "quantity": 6,
+      "description": "huevos froiz; 0,415 €/unidad"
+    },
+    {
+      "row": 50,
+      "date": "2026-09-21",
+      "amount": 2.7,
+      "quantity": 1,
+      "description": "NUGGETS DE POLLO Mercadona; 2,70 €/unidad"
+    },
+    {
+      "row": 51,
+      "date": "2026-09-21",
+      "amount": 2.03,
+      "quantity": 1,
+      "description": "UVA BLANCA S/SEM Mercadona; 2,03 €/unidad"
+    },
+    {
+      "row": 52,
+      "date": "2026-09-21",
+      "amount": 2.05,
+      "quantity": 1,
+      "description": "MANTEQUILLA PAST.SIN Mercadona; 2,05 €/unidad"
+    },
+    {
+      "row": 53,
+      "date": "2026-09-21",
+      "amount": 0.75,
+      "quantity": 1,
+      "description": "CALDO POLLO Mercadona; 0,75 €/unidad"
+    },
+    {
+      "row": 54,
+      "date": "2026-09-21",
+      "amount": 3.95,
+      "quantity": 1,
+      "description": "PECHUGA PAVO BIPACK Mercadona; 3,95 €/unidad"
+    },
+    {
+      "row": 55,
+      "date": "2026-09-21",
+      "amount": 1.15,
+      "quantity": 1,
+      "description": "PAN M.100%INT FAM Mercadona; 1,15 €/unidad"
+    },
+    {
+      "row": 56,
+      "date": "2026-09-21",
+      "amount": 3.2,
+      "quantity": 1,
+      "description": "CHULETA AGUJA Mercadona; 3,20 €/unidad"
+    },
+    {
+      "row": 57,
+      "date": "2026-09-21",
+      "amount": 3.1,
+      "quantity": 1,
+      "description": "LAGARTO CERDO Mercadona; 3,10 €/unidad"
+    },
+    {
+      "row": 58,
+      "date": "2026-09-21",
+      "amount": 0.95,
+      "quantity": 1,
+      "description": "AGUADOY 8L Mercadona; 0,95 €/unidad"
+    },
+    {
+      "row": 59,
+      "date": "2026-09-21",
+      "amount": 4.5,
+      "quantity": 1,
+      "description": "CUARTO TRASERO FAMI Mercadona; 4,50 €/unidad"
+    },
+    {
+      "row": 60,
+      "date": "2026-09-21",
+      "amount": 3.61,
+      "quantity": 1,
+      "description": "SOLOMILLO PAVO Mercadona; 3,61 €/unidad"
+    },
+    {
+      "row": 61,
+      "date": "2026-09-21",
+      "amount": 1.95,
+      "quantity": 1,
+      "description": "3 VEGETALES Mercadona; 1,95 €/unidad"
+    },
+    {
+      "row": 62,
+      "date": "2026-09-21",
+      "amount": 3.35,
+      "quantity": 1,
+      "description": "ARÁNDANO 225 GR Mercadona; 3,35 €/unidad"
+    },
+    {
+      "row": 63,
+      "date": "2026-09-21",
+      "amount": 1.2,
+      "quantity": 1,
+      "description": "SALSA DE SOJA SALADA Mercadona; 1,20 €/unidad"
+    },
+    {
+      "row": 64,
+      "date": "2026-09-21",
+      "amount": 2.6,
+      "quantity": 1,
+      "description": "SALCHICHA BRATWURST Mercadona; 2,60 €/unidad"
+    },
+    {
+      "row": 65,
+      "date": "2026-09-21",
+      "amount": 1,
+      "quantity": 1,
+      "description": "TOMATE TRITURADO Mercadona; 1,00 €/unidad"
+    },
+    {
+      "row": 66,
+      "date": "2026-09-21",
+      "amount": 1.1,
+      "quantity": 1,
+      "description": "PAN H BRIOCHE Mercadona; 1,10 €/unidad"
+    },
+    {
+      "row": 67,
+      "date": "2026-09-21",
+      "amount": 1.99,
+      "quantity": 1,
+      "description": "YOGUR NATURAL Mercadona; 1,99 €/unidad"
+    },
+    {
+      "row": 68,
+      "date": "2026-09-21",
+      "amount": 1.72,
+      "quantity": 0.624,
+      "description": "PERA CONFERENCIA Mercadona; 2,75 €/kg"
+    },
+    {
+      "row": 69,
+      "date": "2026-09-21",
+      "amount": 1.93,
+      "quantity": 0.642,
+      "description": "MANGO Mercadona; 3,00 €/kg"
+    },
+    {
+      "row": 70,
+      "date": "2026-09-21",
+      "amount": 3.03,
+      "quantity": 0.652,
+      "description": "KIWI VERDE Mercadona; 4,65 €/kg"
+    },
+    {
+      "row": 74,
+      "date": "2026-09-10",
+      "amount": 7.99,
+      "quantity": 1,
+      "description": "pijama mujer tramas; 7,99 €/unidad"
+    },
+    {
+      "row": 76,
+      "date": "2026-09-08",
+      "amount": 648,
+      "quantity": 1,
+      "description": "hipoteca mes; 648,00 €/unidad"
+    },
+    {
+      "row": 76,
+      "date": "2026-10-01",
+      "amount": 648,
+      "quantity": 1,
+      "description": "hipoteca mes; 648,00 €/unidad"
+    },
+    {
+      "row": 79,
+      "date": "2026-09-14",
+      "amount": 2.35,
+      "quantity": 1,
+      "description": "HIGIÉNICO DOBLE ROLL Mercadona; 2,35 €/unidad"
+    },
+    {
+      "row": 80,
+      "date": "2026-09-14",
+      "amount": 2.95,
+      "quantity": 1,
+      "description": "LAVAVAJILLA TODO 1 Mercadona; 2,95 €/unidad"
+    },
+    {
+      "row": 81,
+      "date": "2026-09-14",
+      "amount": 0.9,
+      "quantity": 1,
+      "description": "ESTROPAJO AZUL Mercadona; 0,90 €/unidad"
+    },
+    {
+      "row": 82,
+      "date": "2026-09-14",
+      "amount": 1.55,
+      "quantity": 1,
+      "description": "LIMPIAMÁQUINAS Mercadona; 1,55 €/unidad"
+    },
+    {
+      "row": 83,
+      "date": "2026-09-14",
+      "amount": 1.7,
+      "quantity": 1,
+      "description": "LEJÍA MULTIUSOS Mercadona; 1,70 €/unidad"
+    },
+    {
+      "row": 84,
+      "date": "2026-09-14",
+      "amount": 0.95,
+      "quantity": 1,
+      "description": "FRIEGASUELOS SPA Mercadona; 0,95 €/unidad"
+    },
+    {
+      "row": 85,
+      "date": "2026-09-14",
+      "amount": 1.55,
+      "quantity": 1,
+      "description": "LIMP. BAÑOS PISTOLA Mercadona; 1,55 €/unidad"
+    },
+    {
+      "row": 86,
+      "date": "2026-09-15",
+      "amount": 4.95,
+      "quantity": 1,
+      "description": "bombilla bricocentro; 4,95 €/unidad"
+    },
+    {
+      "row": 87,
+      "date": "2026-09-21",
+      "amount": 2.25,
+      "quantity": 1,
+      "description": "ROLLO HOGAR DOBLE Mercadona; 2,25 €/unidad"
+    },
+    {
+      "row": 88,
+      "date": "2026-09-21",
+      "amount": 1.7,
+      "quantity": 1,
+      "description": "PAPEL VEGETAL 30H Mercadona; 1,70 €/unidad"
+    },
+    {
+      "row": 89,
+      "date": "2026-09-21",
+      "amount": 2.25,
+      "quantity": 1,
+      "description": "PAPEL ALUMINIO Mercadona; 2,25 €/unidad"
+    },
+    {
+      "row": 93,
+      "date": "2026-09-08",
+      "amount": 15,
+      "quantity": 1,
+      "description": "Spray aceite motor recalvi; 15,00 €/unidad"
+    },
+    {
+      "row": 97,
+      "date": "2026-09-08",
+      "amount": 8,
+      "quantity": 1,
+      "description": "Suscripción a Netflix; 8,00 €/unidad"
+    },
+    {
+      "row": 97,
+      "date": "2026-10-01",
+      "amount": 8,
+      "quantity": 1,
+      "description": "Suscripción a Netflix; 8,00 €/unidad"
+    },
+    {
+      "row": 98,
+      "date": "2026-09-08",
+      "amount": 16.99,
+      "quantity": 1,
+      "description": "Suscripción a Spotify Duo; 16,99€/unidad"
+    },
+    {
+      "row": 98,
+      "date": "2026-10-01",
+      "amount": 16.99,
+      "quantity": 1,
+      "description": "Suscripción a Spotify Duo; 16,99€/unidad"
+    },
+    {
+      "row": 103,
+      "date": "2026-09-08",
+      "amount": 1.5,
+      "quantity": 1,
+      "description": "cafe con leche bella arousa; 1,50 €/unidad"
+    },
+    {
+      "row": 103,
+      "date": "2026-09-09",
+      "amount": 3,
+      "quantity": 2,
+      "description": "cafe con leche bella arousa; 1,50 €/unidad"
+    },
+    {
+      "row": 103,
+      "date": "2026-09-10",
+      "amount": 1.5,
+      "quantity": 1,
+      "description": "cafe con leche bella arousa; 1,50 €/unidad"
+    },
+    {
+      "row": 103,
+      "date": "2026-09-12",
+      "amount": 1.5,
+      "quantity": 1,
+      "description": "cafe con leche bella arousa; 1,50 €/unidad"
+    },
+    {
+      "row": 103,
+      "date": "2026-10-03",
+      "amount": 3,
+      "quantity": 2,
+      "description": "café con leche bella arousa; 1,50 €/unidad"
+    },
+    {
+      "row": 104,
+      "date": "2026-09-11",
+      "amount": 1.7,
+      "quantity": 1,
+      "description": "cafe con leche grande bella arousa; 1,70 €/unidad"
+    },
+    {
+      "row": 105,
+      "date": "2026-09-11",
+      "amount": 15.5,
+      "quantity": 1,
+      "description": "menú del día doña tapa; 15,50 €/unidad"
+    },
+    {
+      "row": 106,
+      "date": "2026-09-08",
+      "amount": 5.4,
+      "quantity": 2,
+      "description": "caña; 2,70 €/unidad"
+    },
+    {
+      "row": 107,
+      "date": "2026-09-13",
+      "amount": 13,
+      "quantity": 1,
+      "description": "bocata; 13,00 €/unidad"
+    },
+    {
+      "row": 108,
+      "date": "2026-09-13",
+      "amount": 3.5,
+      "quantity": 1,
+      "description": "vermú; 3,50 €/unidad"
+    },
+    {
+      "row": 109,
+      "date": "2026-09-13",
+      "amount": 4.5,
+      "quantity": 3,
+      "description": "agua; 1,50 €/unidad"
+    },
+    {
+      "row": 110,
+      "date": "2026-09-13",
+      "amount": 5,
+      "quantity": 1,
+      "description": "helado; 5,00 €/unidad"
+    },
+    {
+      "row": 111,
+      "date": "2026-09-20",
+      "amount": 2.6,
+      "quantity": 1,
+      "description": "Caña 1906 noroeste; 2,60 €/unidad"
+    },
+    {
+      "row": 112,
+      "date": "2026-09-20",
+      "amount": 4.3,
+      "quantity": 1,
+      "description": "Vino noroeste; 4,30 €/unidad"
+    },
+    {
+      "row": 113,
+      "date": "2026-09-20",
+      "amount": 1,
+      "quantity": 1,
+      "description": "Pan ración noroeste; 1,00 €/unidad"
+    },
+    {
+      "row": 114,
+      "date": "2026-09-20",
+      "amount": 17,
+      "quantity": 1,
+      "description": "Ración ibéricos noroeste; 17,00 €/unidad"
+    },
+    {
+      "row": 115,
+      "date": "2026-09-20",
+      "amount": 9,
+      "quantity": 1,
+      "description": "Ración chorizo noroeste; 9,00 €/unidad"
+    },
+    {
+      "row": 116,
+      "date": "2026-09-26",
+      "amount": 26.25,
+      "quantity": 0.75,
+      "description": "chuletón vaca a capela; 35,00 €/kg"
+    },
+    {
+      "row": 117,
+      "date": "2026-09-26",
+      "amount": 7,
+      "quantity": 0.5,
+      "description": "ración calamar a capela; 14,00 €/unidad"
+    },
+    {
+      "row": 118,
+      "date": "2026-09-26",
+      "amount": 5,
+      "quantity": 1,
+      "description": "viño da casa a capela; 5,00 €/unidad"
+    },
+    {
+      "row": 119,
+      "date": "2026-09-26",
+      "amount": 5,
+      "quantity": 1,
+      "description": "tarta de la abuela a capela; 5,00 €/unidad"
+    },
+    {
+      "row": 120,
+      "date": "2026-09-26",
+      "amount": 1.2,
+      "quantity": 1,
+      "description": "café cortado a capela; 1,20 €/unidad"
+    },
+    {
+      "row": 121,
+      "date": "2026-10-01",
+      "amount": 4.5,
+      "quantity": 1,
+      "description": "tortitas con nutella village bakery; 4,50 €/unidad"
+    },
+    {
+      "row": 122,
+      "date": "2026-10-01",
+      "amount": 3.8,
+      "quantity": 1,
+      "description": "porción bizcocho village bakery; 3,80 €/unidad"
+    },
+    {
+      "row": 123,
+      "date": "2026-10-01",
+      "amount": 5,
+      "quantity": 1,
+      "description": "tostada jamón village bakery; 5,00 €/unidad"
+    },
+    {
+      "row": 124,
+      "date": "2026-10-01",
+      "amount": 5,
+      "quantity": 2,
+      "description": "café con leche village bakery; 2,50 €/unidad"
+    },
+    {
+      "row": 125,
+      "date": "2026-10-03",
+      "amount": 3.5,
+      "quantity": 1,
+      "description": "croissant bella arousa; 3,50 €/unidad"
+    },
+    {
+      "row": 127,
+      "date": "2026-09-11",
+      "amount": 7.98,
+      "quantity": 2,
+      "description": "ceras colorear infantiles; 3,99 €/unidad"
+    }
+  ],
+  "weeks": [
+    "12–18 oct. 2026",
+    "19–25 oct. 2026",
+    "26 oct.–1 nov. 2026"
+  ],
+  "official_reference": {
+    "year": 2025,
+    "classification": "ECOICOP, IPC base 2021, 12 grupos",
+    "source": "https://www.ine.es/jaxiT3/Tabla.htm?t=50952&L=0",
+    "download_url": "https://www.ine.es/jaxiT3/files/t/es/csv_bdsc/50952.csv",
+    "download_sha256": "08f1d8d175439ad46de1c2b98f55c755dde1fee8832fd02252948eefd2a110d0",
+    "source_units": "Tanto por mil",
+    "conversion": "Porcentaje = valor INE / 10"
+  }
+}

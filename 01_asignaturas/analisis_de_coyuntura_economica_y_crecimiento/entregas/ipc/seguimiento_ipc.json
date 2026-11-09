@@ -1,0 +1,38 @@
+{
+  "complete": true,
+  "weeks": [
+    {
+      "label": "12–18/10/2026",
+      "cost": 1752.0079,
+      "index": 100.00444652468991,
+      "rate": 0.0044465246899161315,
+      "missing": []
+    },
+    {
+      "label": "19–25/10/2026",
+      "cost": 1752.0079,
+      "index": 100.00444652468991,
+      "rate": 0.0,
+      "missing": []
+    },
+    {
+      "label": "26/10–01/11/2026",
+      "cost": 1751.6491,
+      "index": 99.98396625435947,
+      "rate": -0.02047935971065673,
+      "missing": []
+    }
+  ],
+  "counts": {
+    "Estimación sin cambios": 207,
+    "Catálogo fechado": 6,
+    "Arrastre de fuente": 1,
+    "Histórico reconstruido": 3,
+    "Histórico": 2,
+    "Equivalente de folleto": 3
+  },
+  "supermarket_products": 74,
+  "manual_products": 30,
+  "missing_count": 0,
+  "base": 1751.93
+}

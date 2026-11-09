@@ -1,0 +1,37 @@
+{
+  "year": 2025,
+  "classification": "ECOICOP, IPC base 2021, 12 grupos",
+  "source": "https://www.ine.es/jaxiT3/Tabla.htm?t=50952&L=0",
+  "download_url": "https://www.ine.es/jaxiT3/files/t/es/csv_bdsc/50952.csv",
+  "download_sha256": "08f1d8d175439ad46de1c2b98f55c755dde1fee8832fd02252948eefd2a110d0",
+  "source_units": "Tanto por mil",
+  "conversion": "Porcentaje = valor INE / 10",
+  "spain": [
+    18.5386,
+    3.7719,
+    3.968,
+    12.1584,
+    5.2756,
+    5.7182,
+    14.3931,
+    3.2609,
+    8.5624,
+    1.8723,
+    14.7513,
+    7.7294
+  ],
+  "galicia": [
+    19.5472,
+    3.7107,
+    4.974,
+    10.8958,
+    5.5823,
+    6.1296,
+    15.8839,
+    3.1629,
+    7.4562,
+    1.5705,
+    13.2296,
+    7.8573
+  ]
+}

@@ -1,0 +1,2549 @@
+{
+  "updated": "2026-11-07",
+  "items": [
+    {
+      "row": 7,
+      "group": 1,
+      "name": "HOT CHEESE Mercadona",
+      "amount": 4.6,
+      "quantity": 2,
+      "base_price": 2.3,
+      "observations": [
+        {
+          "price": 2.3,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.3,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.3,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "group": 1,
+      "name": "LOMO SALMÓN NORUEGO Mercadona",
+      "amount": 5.95,
+      "quantity": 1,
+      "base_price": 5.95,
+      "observations": [
+        {
+          "price": 5.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 5.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 5.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "group": 1,
+      "name": "LANGOSTINOS COCIDOS Mercadona",
+      "amount": 5,
+      "quantity": 1,
+      "base_price": 5.0,
+      "observations": [
+        {
+          "price": 5.0,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 5.0,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 5.0,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "group": 1,
+      "name": "CHULETA LOMO FINA Mercadona",
+      "amount": 3.31,
+      "quantity": 1,
+      "base_price": 3.31,
+      "observations": [
+        {
+          "price": 3.31,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.31,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.31,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "group": 1,
+      "name": "CHULETA PAVO Mercadona",
+      "amount": 4.38,
+      "quantity": 1,
+      "base_price": 4.38,
+      "observations": [
+        {
+          "price": 4.38,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 4.38,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 4.38,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "group": 1,
+      "name": "BÍFIDUS CREMOSO COCO Mercadona",
+      "amount": 1.3,
+      "quantity": 1,
+      "base_price": 1.3,
+      "observations": [
+        {
+          "price": 1.3,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.3,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.3,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "group": 1,
+      "name": "BURGER POLLO Mercadona",
+      "amount": 3.8,
+      "quantity": 1,
+      "base_price": 3.8,
+      "observations": [
+        {
+          "price": 3.8,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.8,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.8,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "group": 1,
+      "name": "SOJA NATURAL Mercadona",
+      "amount": 1.2,
+      "quantity": 1,
+      "base_price": 1.2,
+      "observations": [
+        {
+          "price": 1.2,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.2,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.2,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "group": 1,
+      "name": "ENSALADA CÉSAR Mercadona",
+      "amount": 10.4,
+      "quantity": 4,
+      "base_price": 2.6,
+      "observations": [
+        {
+          "price": 2.6,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.6,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.6,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "group": 1,
+      "name": "PAN ESPELTA INTEGRAL Mercadona",
+      "amount": 1.65,
+      "quantity": 1,
+      "base_price": 1.65,
+      "observations": [
+        {
+          "price": 1.65,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.65,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.65,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "group": 1,
+      "name": "100% INTEGRAL Mercadona",
+      "amount": 0.95,
+      "quantity": 1,
+      "base_price": 0.95,
+      "observations": [
+        {
+          "price": 0.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "group": 1,
+      "name": "QUESO COTTAGE Mercadona",
+      "amount": 3,
+      "quantity": 2,
+      "base_price": 1.5,
+      "observations": [
+        {
+          "price": 1.5,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.5,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.5,
+          "kind": "Catálogo fechado",
+          "date": "2026-10-26",
+          "url": "https://cestahoy.com/producto/queso-fresco-crema-estilo-cottage-hacendado-tarrina-17461/",
+          "note": "Tarrina de 200 g, correspondencia con queso cottage del registro."
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "group": 1,
+      "name": "GRIEGO LIGERO NAT Mercadona",
+      "amount": 2.1,
+      "quantity": 1,
+      "base_price": 2.1,
+      "observations": [
+        {
+          "price": 2.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.1,
+          "kind": "Catálogo fechado",
+          "date": "2026-10-20",
+          "url": "https://cestahoy.com/producto/yogur-griego-ligero-natural-hacendado-2-mg-bote-21358/",
+          "note": "Bote de 1 kg; correspondencia apoyada por el precio base de 2,10 €."
+        },
+        {
+          "price": 2.1,
+          "kind": "Arrastre de fuente",
+          "date": "2026-10-20",
+          "url": "https://cestahoy.com/producto/yogur-griego-ligero-natural-hacendado-2-mg-bote-21358/",
+          "note": "Se conserva la observación del 20/10 para la última semana."
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "group": 1,
+      "name": "PECHUGA PAVO 92% Mercadona",
+      "amount": 2.85,
+      "quantity": 1,
+      "base_price": 2.85,
+      "observations": [
+        {
+          "price": 2.85,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.85,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.85,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "group": 1,
+      "name": "PLAT MANDARINA PERA Mercadona",
+      "amount": 2.9,
+      "quantity": 1,
+      "base_price": 2.9,
+      "observations": [
+        {
+          "price": 2.9,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.9,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.9,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "group": 1,
+      "name": "TORTITAS DE ARROZ Mercadona",
+      "amount": 1.1,
+      "quantity": 1,
+      "base_price": 1.1,
+      "observations": [
+        {
+          "price": 1.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "group": 1,
+      "name": "PREPARADO DE COCO Mercadona",
+      "amount": 2.6,
+      "quantity": 2,
+      "base_price": 1.3,
+      "observations": [
+        {
+          "price": 1.3,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.3,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.3,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "group": 1,
+      "name": "CHAMPIÑÓN PORTOBELLO Mercadona",
+      "amount": 2.96,
+      "quantity": 1,
+      "base_price": 2.96,
+      "observations": [
+        {
+          "price": 2.96,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.96,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.96,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "group": 1,
+      "name": "PIÑA PELADA RODAJAS Mercadona",
+      "amount": 3.73,
+      "quantity": 1,
+      "base_price": 3.73,
+      "observations": [
+        {
+          "price": 3.73,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.73,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.73,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "group": 1,
+      "name": "ARÁNDANO 500 GR Mercadona",
+      "amount": 6.5,
+      "quantity": 1,
+      "base_price": 6.5,
+      "observations": [
+        {
+          "price": 6.5,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 6.5,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 6.5,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "group": 1,
+      "name": "COPO INT. BAÑADO CHOC Mercadona",
+      "amount": 2.65,
+      "quantity": 1,
+      "base_price": 2.65,
+      "observations": [
+        {
+          "price": 2.65,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.65,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.65,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 28,
+      "group": 1,
+      "name": "MELÓN SAPO PARTIDO Mercadona",
+      "amount": 2.72,
+      "quantity": 1,
+      "base_price": 2.72,
+      "observations": [
+        {
+          "price": 2.72,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.72,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.72,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 29,
+      "group": 1,
+      "name": "GALLETA AVENA Y SEMI Mercadona",
+      "amount": 1.9,
+      "quantity": 1,
+      "base_price": 1.9,
+      "observations": [
+        {
+          "price": 1.9,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.9,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.9,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "group": 1,
+      "name": "NEGRO 72% ALMENDRAS Mercadona",
+      "amount": 5.5,
+      "quantity": 2,
+      "base_price": 2.75,
+      "observations": [
+        {
+          "price": 2.65,
+          "kind": "Histórico reconstruido",
+          "date": "2026-10-14",
+          "url": "https://cestahoy.com/producto/chocolate-negro-72-cacao-hacendado-con-almendras-enteras-tableta-29062/",
+          "note": "Precio vigente desde 28/09 según historial de cambios; tableta 200 g."
+        },
+        {
+          "price": 2.65,
+          "kind": "Histórico reconstruido",
+          "date": "2026-10-21",
+          "url": "https://cestahoy.com/producto/chocolate-negro-72-cacao-hacendado-con-almendras-enteras-tableta-29062/",
+          "note": "Precio vigente desde 28/09 según historial de cambios; tableta 200 g."
+        },
+        {
+          "price": 2.65,
+          "kind": "Histórico reconstruido",
+          "date": "2026-10-26",
+          "url": "https://cestahoy.com/producto/chocolate-negro-72-cacao-hacendado-con-almendras-enteras-tableta-29062/",
+          "note": "Precio vigente desde 28/09 según historial de cambios; tableta 200 g."
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "group": 1,
+      "name": "GARBANZO M. COCIDO Mercadona",
+      "amount": 0.8,
+      "quantity": 1,
+      "base_price": 0.8,
+      "observations": [
+        {
+          "price": 0.8,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.8,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.8,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 32,
+      "group": 1,
+      "name": "HÉLICES Mercadona",
+      "amount": 0.8,
+      "quantity": 1,
+      "base_price": 0.8,
+      "observations": [
+        {
+          "price": 0.8,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.8,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.8,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 33,
+      "group": 1,
+      "name": "CC ZERO ZERO 2L Mercadona",
+      "amount": 2.15,
+      "quantity": 1,
+      "base_price": 2.15,
+      "observations": [
+        {
+          "price": 2.15,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.15,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.15,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 34,
+      "group": 1,
+      "name": "MANDARINA Mercadona",
+      "amount": 5.27,
+      "quantity": 1.988,
+      "base_price": 2.6509054325955734,
+      "observations": [
+        {
+          "price": 2.6509054325955734,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.6509054325955734,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.55,
+          "kind": "Catálogo fechado",
+          "date": "2026-10-26",
+          "url": "https://cestahoy.com/producto/mandarina-pieza-3238/",
+          "note": "€/kg publicado; no se deduce de la serie de importes por pieza."
+        }
+      ]
+    },
+    {
+      "row": 35,
+      "group": 1,
+      "name": "PIMIENTO ROJO Mercadona",
+      "amount": 0.87,
+      "quantity": 0.346,
+      "base_price": 2.514450867052023,
+      "observations": [
+        {
+          "price": 2.9,
+          "kind": "Histórico",
+          "date": "2026-10-14",
+          "url": "https://www.mercaindex.es/productos/69310",
+          "note": "Precio de referencia €/kg leído en el gráfico."
+        },
+        {
+          "price": 2.9,
+          "kind": "Histórico",
+          "date": "2026-10-21",
+          "url": "https://www.mercaindex.es/productos/69310",
+          "note": "Precio de referencia €/kg leído en el gráfico."
+        },
+        {
+          "price": 2.9,
+          "kind": "Catálogo fechado",
+          "date": "2026-10-26",
+          "url": "https://cestahoy.com/bajadas-de-precio/",
+          "note": "Precio €/kg; no se utiliza el importe de una pieza de peso variable."
+        }
+      ]
+    },
+    {
+      "row": 36,
+      "group": 1,
+      "name": "PIMIENTO VERDE Mercadona",
+      "amount": 0.8,
+      "quantity": 0.284,
+      "base_price": 2.8169014084507045,
+      "observations": [
+        {
+          "price": 2.8169014084507045,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.8169014084507045,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.8169014084507045,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 37,
+      "group": 1,
+      "name": "PATATA Mercadona",
+      "amount": 3.66,
+      "quantity": 1.924,
+      "base_price": 1.9022869022869024,
+      "observations": [
+        {
+          "price": 1.9022869022869024,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.9022869022869024,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.9022869022869024,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 38,
+      "group": 1,
+      "name": "cereales froiz",
+      "amount": 2.1,
+      "quantity": 1,
+      "base_price": 2.1,
+      "observations": [
+        {
+          "price": 2.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 39,
+      "group": 1,
+      "name": "carne picada cerdo froiz",
+      "amount": 1.93,
+      "quantity": 0.335,
+      "base_price": 5.761194029850746,
+      "observations": [
+        {
+          "price": 5.761194029850746,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 5.761194029850746,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 5.761194029850746,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 40,
+      "group": 1,
+      "name": "aceite de oliva froiz",
+      "amount": 11.97,
+      "quantity": 3,
+      "base_price": 3.99,
+      "observations": [
+        {
+          "price": 3.99,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.99,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.99,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 41,
+      "group": 1,
+      "name": "Pechuga de pollo entera froiz",
+      "amount": 4.44,
+      "quantity": 0.635,
+      "base_price": 6.992125984251969,
+      "observations": [
+        {
+          "price": 6.992125984251969,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 6.992125984251969,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 6.992125984251969,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 42,
+      "group": 1,
+      "name": "Puerros froiz",
+      "amount": 1.15,
+      "quantity": 0.48,
+      "base_price": 2.395833333333333,
+      "observations": [
+        {
+          "price": 2.395833333333333,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.395833333333333,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.395833333333333,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 43,
+      "group": 1,
+      "name": "Calabacín froiz",
+      "amount": 0.92,
+      "quantity": 0.485,
+      "base_price": 1.8969072164948455,
+      "observations": [
+        {
+          "price": 1.8969072164948455,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.8969072164948455,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.8969072164948455,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 44,
+      "group": 1,
+      "name": "Zanahoria froiz",
+      "amount": 1.63,
+      "quantity": 1.365,
+      "base_price": 1.1941391941391941,
+      "observations": [
+        {
+          "price": 1.3,
+          "kind": "Equivalente de folleto",
+          "date": "2026-10-15",
+          "url": "https://froiz.es/wp-content/uploads/2026/10/2026.10.15-SUPER-Galicia-LINKS.pdf",
+          "note": "Pág. 2: zanahoria bolsa 500 g a 0,65 € = 1,30 €/kg. Referencia equivalente al producto a granel del registro, con distinto formato."
+        },
+        {
+          "price": 1.3,
+          "kind": "Equivalente de folleto",
+          "date": "2026-10-22",
+          "url": "https://froiz.es/wp-content/uploads/2026/10/2026.10.15-SUPER-Galicia-LINKS.pdf",
+          "note": "Pág. 2: zanahoria bolsa 500 g a 0,65 € = 1,30 €/kg. Referencia equivalente al producto a granel del registro, con distinto formato."
+        },
+        {
+          "price": 1.3,
+          "kind": "Equivalente de folleto",
+          "date": "2026-10-29",
+          "url": "https://froiz.es/wp-content/uploads/2026/10/2026.10.15-SUPER-Galicia-LINKS.pdf",
+          "note": "Pág. 2: zanahoria bolsa 500 g a 0,65 € = 1,30 €/kg. Referencia equivalente al producto a granel del registro, con distinto formato."
+        }
+      ]
+    },
+    {
+      "row": 45,
+      "group": 1,
+      "name": "Cebolla froiz",
+      "amount": 2.05,
+      "quantity": 1.03,
+      "base_price": 1.9902912621359221,
+      "observations": [
+        {
+          "price": 1.9902912621359221,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.9902912621359221,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.9902912621359221,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 46,
+      "group": 1,
+      "name": "Galletas froiz",
+      "amount": 3.29,
+      "quantity": 1,
+      "base_price": 3.29,
+      "observations": [
+        {
+          "price": 3.29,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.29,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.29,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 47,
+      "group": 1,
+      "name": "carne picada ternera froiz",
+      "amount": 8.4,
+      "quantity": 0.6,
+      "base_price": 14.000000000000002,
+      "observations": [
+        {
+          "price": 14.000000000000002,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 14.000000000000002,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 14.000000000000002,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 48,
+      "group": 1,
+      "name": "merluza congelada lomitos froiz",
+      "amount": 7,
+      "quantity": 1,
+      "base_price": 7.0,
+      "observations": [
+        {
+          "price": 7.0,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 7.0,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 7.0,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 49,
+      "group": 1,
+      "name": "huevos froiz",
+      "amount": 2.49,
+      "quantity": 6,
+      "base_price": 0.41500000000000004,
+      "observations": [
+        {
+          "price": 0.41500000000000004,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.41500000000000004,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.41500000000000004,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 50,
+      "group": 1,
+      "name": "NUGGETS DE POLLO Mercadona",
+      "amount": 2.7,
+      "quantity": 1,
+      "base_price": 2.7,
+      "observations": [
+        {
+          "price": 2.7,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.7,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.7,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 51,
+      "group": 1,
+      "name": "UVA BLANCA S/SEM Mercadona",
+      "amount": 2.03,
+      "quantity": 1,
+      "base_price": 2.03,
+      "observations": [
+        {
+          "price": 2.03,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.03,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.03,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 52,
+      "group": 1,
+      "name": "MANTEQUILLA PAST.SIN Mercadona",
+      "amount": 2.05,
+      "quantity": 1,
+      "base_price": 2.05,
+      "observations": [
+        {
+          "price": 2.05,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.05,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.05,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 53,
+      "group": 1,
+      "name": "CALDO POLLO Mercadona",
+      "amount": 0.75,
+      "quantity": 1,
+      "base_price": 0.75,
+      "observations": [
+        {
+          "price": 0.75,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.75,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.75,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 54,
+      "group": 1,
+      "name": "PECHUGA PAVO BIPACK Mercadona",
+      "amount": 3.95,
+      "quantity": 1,
+      "base_price": 3.95,
+      "observations": [
+        {
+          "price": 3.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 55,
+      "group": 1,
+      "name": "PAN M.100%INT FAM Mercadona",
+      "amount": 1.15,
+      "quantity": 1,
+      "base_price": 1.15,
+      "observations": [
+        {
+          "price": 1.15,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.15,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.15,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 56,
+      "group": 1,
+      "name": "CHULETA AGUJA Mercadona",
+      "amount": 3.2,
+      "quantity": 1,
+      "base_price": 3.2,
+      "observations": [
+        {
+          "price": 3.2,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.2,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.2,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 57,
+      "group": 1,
+      "name": "LAGARTO CERDO Mercadona",
+      "amount": 3.1,
+      "quantity": 1,
+      "base_price": 3.1,
+      "observations": [
+        {
+          "price": 3.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 58,
+      "group": 1,
+      "name": "AGUADOY 8L Mercadona",
+      "amount": 0.95,
+      "quantity": 1,
+      "base_price": 0.95,
+      "observations": [
+        {
+          "price": 0.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 59,
+      "group": 1,
+      "name": "CUARTO TRASERO FAMI Mercadona",
+      "amount": 4.5,
+      "quantity": 1,
+      "base_price": 4.5,
+      "observations": [
+        {
+          "price": 4.5,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 4.5,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 4.5,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 60,
+      "group": 1,
+      "name": "SOLOMILLO PAVO Mercadona",
+      "amount": 3.61,
+      "quantity": 1,
+      "base_price": 3.61,
+      "observations": [
+        {
+          "price": 3.61,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.61,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.61,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 61,
+      "group": 1,
+      "name": "3 VEGETALES Mercadona",
+      "amount": 1.95,
+      "quantity": 1,
+      "base_price": 1.95,
+      "observations": [
+        {
+          "price": 1.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 62,
+      "group": 1,
+      "name": "ARÁNDANO 225 GR Mercadona",
+      "amount": 3.35,
+      "quantity": 1,
+      "base_price": 3.35,
+      "observations": [
+        {
+          "price": 3.35,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.35,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.35,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 63,
+      "group": 1,
+      "name": "SALSA DE SOJA SALADA Mercadona",
+      "amount": 1.2,
+      "quantity": 1,
+      "base_price": 1.2,
+      "observations": [
+        {
+          "price": 1.2,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.2,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.2,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 64,
+      "group": 1,
+      "name": "SALCHICHA BRATWURST Mercadona",
+      "amount": 2.6,
+      "quantity": 1,
+      "base_price": 2.6,
+      "observations": [
+        {
+          "price": 2.6,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.6,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.6,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 65,
+      "group": 1,
+      "name": "TOMATE TRITURADO Mercadona",
+      "amount": 1,
+      "quantity": 1,
+      "base_price": 1.0,
+      "observations": [
+        {
+          "price": 1.0,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.0,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.0,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 66,
+      "group": 1,
+      "name": "PAN H BRIOCHE Mercadona",
+      "amount": 1.1,
+      "quantity": 1,
+      "base_price": 1.1,
+      "observations": [
+        {
+          "price": 1.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.1,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 67,
+      "group": 1,
+      "name": "YOGUR NATURAL Mercadona",
+      "amount": 1.99,
+      "quantity": 1,
+      "base_price": 1.99,
+      "observations": [
+        {
+          "price": 1.99,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.99,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.99,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 68,
+      "group": 1,
+      "name": "PERA CONFERENCIA Mercadona",
+      "amount": 1.72,
+      "quantity": 0.624,
+      "base_price": 2.7564102564102564,
+      "observations": [
+        {
+          "price": 2.7564102564102564,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.7564102564102564,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.5,
+          "kind": "Catálogo fechado",
+          "date": "2026-10-26",
+          "url": "https://cestahoy.com/producto/pera-conferencia-pieza-3119/",
+          "note": "€/kg de la pera por pieza; no se usa la bolsa de 1,06 kg a 2,30 €/kg."
+        }
+      ]
+    },
+    {
+      "row": 69,
+      "group": 1,
+      "name": "MANGO Mercadona",
+      "amount": 1.93,
+      "quantity": 0.642,
+      "base_price": 3.0062305295950154,
+      "observations": [
+        {
+          "price": 3.0062305295950154,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.0062305295950154,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 3.0062305295950154,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 70,
+      "group": 1,
+      "name": "KIWI VERDE Mercadona",
+      "amount": 3.03,
+      "quantity": 0.652,
+      "base_price": 4.64723926380368,
+      "observations": [
+        {
+          "price": 4.64723926380368,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 4.64723926380368,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 4.65,
+          "kind": "Catálogo fechado",
+          "date": "2026-10-26",
+          "url": "https://cestahoy.com/producto/kiwi-verde-pieza-3820/",
+          "note": "€/kg publicado; no se convierten a kilos los importes históricos de piezas de peso desconocido."
+        }
+      ]
+    },
+    {
+      "row": 79,
+      "group": 5,
+      "name": "HIGIÉNICO DOBLE ROLL Mercadona",
+      "amount": 2.35,
+      "quantity": 1,
+      "base_price": 2.35,
+      "observations": [
+        {
+          "price": 2.35,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.35,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.35,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 80,
+      "group": 5,
+      "name": "LAVAVAJILLA TODO 1 Mercadona",
+      "amount": 2.95,
+      "quantity": 1,
+      "base_price": 2.95,
+      "observations": [
+        {
+          "price": 2.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 81,
+      "group": 5,
+      "name": "ESTROPAJO AZUL Mercadona",
+      "amount": 0.9,
+      "quantity": 1,
+      "base_price": 0.9,
+      "observations": [
+        {
+          "price": 0.9,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.9,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.9,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 82,
+      "group": 5,
+      "name": "LIMPIAMÁQUINAS Mercadona",
+      "amount": 1.55,
+      "quantity": 1,
+      "base_price": 1.55,
+      "observations": [
+        {
+          "price": 1.55,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.55,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.55,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 83,
+      "group": 5,
+      "name": "LEJÍA MULTIUSOS Mercadona",
+      "amount": 1.7,
+      "quantity": 1,
+      "base_price": 1.7,
+      "observations": [
+        {
+          "price": 1.7,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.7,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.7,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 84,
+      "group": 5,
+      "name": "FRIEGASUELOS SPA Mercadona",
+      "amount": 0.95,
+      "quantity": 1,
+      "base_price": 0.95,
+      "observations": [
+        {
+          "price": 0.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 0.95,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 85,
+      "group": 5,
+      "name": "LIMP. BAÑOS PISTOLA Mercadona",
+      "amount": 1.55,
+      "quantity": 1,
+      "base_price": 1.55,
+      "observations": [
+        {
+          "price": 1.55,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.55,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.55,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 87,
+      "group": 5,
+      "name": "ROLLO HOGAR DOBLE Mercadona",
+      "amount": 2.25,
+      "quantity": 1,
+      "base_price": 2.25,
+      "observations": [
+        {
+          "price": 2.25,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.25,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.25,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 88,
+      "group": 5,
+      "name": "PAPEL VEGETAL 30H Mercadona",
+      "amount": 1.7,
+      "quantity": 1,
+      "base_price": 1.7,
+      "observations": [
+        {
+          "price": 1.7,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.7,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 1.7,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    },
+    {
+      "row": 89,
+      "group": 5,
+      "name": "PAPEL ALUMINIO Mercadona",
+      "amount": 2.25,
+      "quantity": 1,
+      "base_price": 2.25,
+      "observations": [
+        {
+          "price": 2.25,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.25,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        },
+        {
+          "price": 2.25,
+          "kind": "Estimación sin cambios",
+          "date": "",
+          "url": "",
+          "note": "Se conserva el precio medio de la base. No hay observación histórica recuperada para esta semana y referencia."
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "Estimación sin cambios": 207,
+    "Catálogo fechado": 6,
+    "Arrastre de fuente": 1,
+    "Histórico reconstruido": 3,
+    "Histórico": 2,
+    "Equivalente de folleto": 3
+  },
+  "manual": [
+    {
+      "row": 74,
+      "group": 3,
+      "name": "pijama mujer tramas",
+      "amount": 7.99,
+      "quantity": 1,
+      "base_price": 7.99
+    },
+    {
+      "row": 76,
+      "group": 4,
+      "name": "hipoteca mes",
+      "amount": 1296,
+      "quantity": 2,
+      "base_price": 648.0
+    },
+    {
+      "row": 86,
+      "group": 5,
+      "name": "bombilla bricocentro",
+      "amount": 4.95,
+      "quantity": 1,
+      "base_price": 4.95
+    },
+    {
+      "row": 93,
+      "group": 7,
+      "name": "Spray aceite motor recalvi",
+      "amount": 15,
+      "quantity": 1,
+      "base_price": 15.0
+    },
+    {
+      "row": 97,
+      "group": 9,
+      "name": "Suscripción a Netflix",
+      "amount": 16,
+      "quantity": 2,
+      "base_price": 8.0
+    },
+    {
+      "row": 98,
+      "group": 9,
+      "name": "Suscripción a Spotify Duo",
+      "amount": 33.98,
+      "quantity": 2,
+      "base_price": 16.99
+    },
+    {
+      "row": 103,
+      "group": 11,
+      "name": "cafe con leche bella arousa",
+      "amount": 10.5,
+      "quantity": 7,
+      "base_price": 1.5
+    },
+    {
+      "row": 104,
+      "group": 11,
+      "name": "cafe con leche grande bella arousa",
+      "amount": 1.7,
+      "quantity": 1,
+      "base_price": 1.7
+    },
+    {
+      "row": 105,
+      "group": 11,
+      "name": "menú del día doña tapa",
+      "amount": 15.5,
+      "quantity": 1,
+      "base_price": 15.5
+    },
+    {
+      "row": 106,
+      "group": 11,
+      "name": "caña",
+      "amount": 5.4,
+      "quantity": 2,
+      "base_price": 2.7
+    },
+    {
+      "row": 107,
+      "group": 11,
+      "name": "bocata",
+      "amount": 13,
+      "quantity": 1,
+      "base_price": 13.0
+    },
+    {
+      "row": 108,
+      "group": 11,
+      "name": "vermú",
+      "amount": 3.5,
+      "quantity": 1,
+      "base_price": 3.5
+    },
+    {
+      "row": 109,
+      "group": 11,
+      "name": "agua",
+      "amount": 4.5,
+      "quantity": 3,
+      "base_price": 1.5
+    },
+    {
+      "row": 110,
+      "group": 11,
+      "name": "helado",
+      "amount": 5,
+      "quantity": 1,
+      "base_price": 5.0
+    },
+    {
+      "row": 111,
+      "group": 11,
+      "name": "Caña 1906 noroeste",
+      "amount": 2.6,
+      "quantity": 1,
+      "base_price": 2.6
+    },
+    {
+      "row": 112,
+      "group": 11,
+      "name": "Vino noroeste",
+      "amount": 4.3,
+      "quantity": 1,
+      "base_price": 4.3
+    },
+    {
+      "row": 113,
+      "group": 11,
+      "name": "Pan ración noroeste",
+      "amount": 1,
+      "quantity": 1,
+      "base_price": 1.0
+    },
+    {
+      "row": 114,
+      "group": 11,
+      "name": "Ración ibéricos noroeste",
+      "amount": 17,
+      "quantity": 1,
+      "base_price": 17.0
+    },
+    {
+      "row": 115,
+      "group": 11,
+      "name": "Ración chorizo noroeste",
+      "amount": 9,
+      "quantity": 1,
+      "base_price": 9.0
+    },
+    {
+      "row": 116,
+      "group": 11,
+      "name": "chuletón vaca a capela",
+      "amount": 26.25,
+      "quantity": 0.75,
+      "base_price": 35.0
+    },
+    {
+      "row": 117,
+      "group": 11,
+      "name": "ración calamar a capela",
+      "amount": 7,
+      "quantity": 0.5,
+      "base_price": 14.0
+    },
+    {
+      "row": 118,
+      "group": 11,
+      "name": "viño da casa a capela",
+      "amount": 5,
+      "quantity": 1,
+      "base_price": 5.0
+    },
+    {
+      "row": 119,
+      "group": 11,
+      "name": "tarta de la abuela a capela",
+      "amount": 5,
+      "quantity": 1,
+      "base_price": 5.0
+    },
+    {
+      "row": 120,
+      "group": 11,
+      "name": "café cortado a capela",
+      "amount": 1.2,
+      "quantity": 1,
+      "base_price": 1.2
+    },
+    {
+      "row": 121,
+      "group": 11,
+      "name": "tortitas con nutella village bakery",
+      "amount": 4.5,
+      "quantity": 1,
+      "base_price": 4.5
+    },
+    {
+      "row": 122,
+      "group": 11,
+      "name": "porción bizcocho village bakery",
+      "amount": 3.8,
+      "quantity": 1,
+      "base_price": 3.8
+    },
+    {
+      "row": 123,
+      "group": 11,
+      "name": "tostada jamón village bakery",
+      "amount": 5,
+      "quantity": 1,
+      "base_price": 5.0
+    },
+    {
+      "row": 124,
+      "group": 11,
+      "name": "café con leche village bakery",
+      "amount": 5,
+      "quantity": 2,
+      "base_price": 2.5
+    },
+    {
+      "row": 125,
+      "group": 11,
+      "name": "croissant bella arousa",
+      "amount": 3.5,
+      "quantity": 1,
+      "base_price": 3.5
+    },
+    {
+      "row": 127,
+      "group": 12,
+      "name": "ceras colorear infantiles",
+      "amount": 7.98,
+      "quantity": 2,
+      "base_price": 3.99
+    }
+  ]
+}
