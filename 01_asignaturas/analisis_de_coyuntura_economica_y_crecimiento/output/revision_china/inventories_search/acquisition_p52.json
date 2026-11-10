@@ -1,0 +1,9 @@
+[
+  {
+    "id": "china_inventory_search_oecd_p52_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_inventory_search_oecd_p52_20261102/20261102T125825221933Z_ceb85063b649.csv",
+    "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.SDD.NAD,DSD_NAMAIN10@DF_TABLE1_EXPENDITURE,2.0/A.CHN...P52.......?format=csvfile",
+    "checked_at_utc": "2026-11-02T12:58:25.222362+00:00"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "china_complete_imf_weo_ch3_data_legacy_20261102",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "url": "https://www.imf.org/-/media/Files/Publications/WEO/2025/October/data/ch3data.ashx",
+    "checked_at_utc": "2026-11-02T15:13:33.477331+00:00"
+  },
+  {
+    "id": "china_complete_imf_weo_ch3_legacy_20261102",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "url": "https://www.imf.org/-/media/Files/Publications/WEO/2025/October/English/ch3.ashx",
+    "checked_at_utc": "2026-11-02T15:13:33.494821+00:00"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "china_complete_oecd_table1_structure_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_oecd_table1_structure_20261102/20261102T150809881163Z_f18294cb836c.xml",
+    "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NAMAIN10@DF_TABLE1/2.0?references=all",
+    "checked_at_utc": "2026-11-02T15:08:09.882680+00:00"
+  },
+  {
+    "id": "china_complete_oecd_table1_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_oecd_table1_20261102/20261102T150809702535Z_11971e946395.csv",
+    "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.SDD.NAD,DSD_NAMAIN10@DF_TABLE1,2.0/A.CHN..........?format=csvfile",
+    "checked_at_utc": "2026-11-02T15:08:09.703442+00:00"
+  },
+  {
+    "id": "china_complete_oecd_table6_20261102",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 404: Not Found",
+    "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.SDD.NAD,DSD_NAMAIN10@DF_TABLE6,2.0/A.CHN..........?format=csvfile",
+    "checked_at_utc": "2026-11-02T15:08:09.512709+00:00"
+  },
+  {
+    "id": "china_complete_wdi_ny_adj_dkap_cn_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_wdi_ny_adj_dkap_cn_20261102/20261102T150808782305Z_f230e5b6d8f6.json",
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/NY.ADJ.DKAP.CN?format=json&per_page=20000",
+    "checked_at_utc": "2026-11-02T15:08:08.782896+00:00"
+  },
+  {
+    "id": "china_complete_meta_ny_adj_dkap_cn_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_meta_ny_adj_dkap_cn_20261102/20261102T150809232511Z_f230e5b6d8f6.json",
+    "url": "https://api.worldbank.org/v2/indicator/NY.ADJ.DKAP.CN?format=json",
+    "checked_at_utc": "2026-11-02T15:08:09.233102+00:00"
+  },
+  {
+    "id": "china_complete_wdi_ny_adj_dkap_gn_zs_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_wdi_ny_adj_dkap_gn_zs_20261102/20261102T150809955976Z_df86df12149f.json",
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/NY.ADJ.DKAP.GN.ZS?format=json&per_page=20000",
+    "checked_at_utc": "2026-11-02T15:08:09.956599+00:00"
+  },
+  {
+    "id": "china_complete_meta_ny_adj_dkap_gn_zs_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_meta_ny_adj_dkap_gn_zs_20261102/20261102T150809856673Z_80cbab636d51.json",
+    "url": "https://api.worldbank.org/v2/indicator/NY.ADJ.DKAP.GN.ZS?format=json",
+    "checked_at_utc": "2026-11-02T15:08:09.857005+00:00"
+  },
+  {
+    "id": "china_complete_wdi_gc_tax_gsrv_cn_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_wdi_gc_tax_gsrv_cn_20261102/20261102T150810107159Z_47b32fe8b3d2.json",
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/GC.TAX.GSRV.CN?format=json&per_page=20000",
+    "checked_at_utc": "2026-11-02T15:08:10.107843+00:00"
+  },
+  {
+    "id": "china_complete_meta_gc_tax_gsrv_cn_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_meta_gc_tax_gsrv_cn_20261102/20261102T150810193957Z_46ec03080a96.json",
+    "url": "https://api.worldbank.org/v2/indicator/GC.TAX.GSRV.CN?format=json",
+    "checked_at_utc": "2026-11-02T15:08:10.194528+00:00"
+  },
+  {
+    "id": "china_complete_wdi_gc_tax_intt_cn_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_wdi_gc_tax_intt_cn_20261102/20261102T150810276855Z_e007f9411cf4.json",
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/GC.TAX.INTT.CN?format=json&per_page=20000",
+    "checked_at_utc": "2026-11-02T15:08:10.277264+00:00"
+  },
+  {
+    "id": "china_complete_meta_gc_tax_intt_cn_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_meta_gc_tax_intt_cn_20261102/20261102T150810254667Z_b56650173cbe.json",
+    "url": "https://api.worldbank.org/v2/indicator/GC.TAX.INTT.CN?format=json",
+    "checked_at_utc": "2026-11-02T15:08:10.255267+00:00"
+  },
+  {
+    "id": "china_complete_wdi_gc_xpn_trft_cn_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_wdi_gc_xpn_trft_cn_20261102/20261102T150810476503Z_440d63ef322f.json",
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/GC.XPN.TRFT.CN?format=json&per_page=20000",
+    "checked_at_utc": "2026-11-02T15:08:10.477089+00:00"
+  },
+  {
+    "id": "china_complete_meta_gc_xpn_trft_cn_20261102",
+    "status": "downloaded",
+    "artifact": "datos/bronze/china_complete_meta_gc_xpn_trft_cn_20261102/20261102T150810282665Z_1a03056f4f60.json",
+    "url": "https://api.worldbank.org/v2/indicator/GC.XPN.TRFT.CN?format=json",
+    "checked_at_utc": "2026-11-02T15:08:10.283107+00:00"
+  }
+]

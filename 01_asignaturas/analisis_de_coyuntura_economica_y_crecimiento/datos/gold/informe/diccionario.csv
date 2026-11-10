@@ -1,0 +1,260 @@
+country,metric,unit,source,quality,note,formula,input_metrics,first,last,n
+CHN,activity_rate,percent_15plus,DERIVADA,DERIVADA,Tasa aproximada: combina activos modelizados con población WDI; no tasa EPA.,100 * labor_force / WDI population 15+,labor_force;pop_15plus,1990,2023,34
+CHN,capital_hour,USD_2021_national_per_hour,DERIVADA,DERIVADA,"",capital PWT * 1e6 / total hours,capital_pwt;hours_total,1952,2023,72
+CHN,capital_hour_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),capital_hour,1952,2023,72
+CHN,capital_pwt,million_USD_2021_national_constant,pwt110:rnna,ESTIMACION_PWT,"","","",1952,2023,72
+CHN,capital_pwt_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),capital_pwt,1952,2023,72
+CHN,capital_worker,USD_2021_national_per_worker,DERIVADA,DERIVADA,"",capital PWT * 1e6 / employed persons,capital_pwt;employment_pwt,1952,2023,72
+CHN,capital_worker_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),capital_worker,1952,2023,72
+CHN,ccf_proxy,native_PWT_real_proxy,pwt110_capital,APROXIMACION,"ΣDc/Np por cuatro activos; deflactores del stock, no específicos de CCF.","","",1952,2023,72
+CHN,ccf_proxy_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),ccf_proxy,1952,2023,72
+CHN,change_inventories,index_points_change,DERIVADA,ADAPTACION_FLUJO,"Cambio del flujo escalado, no tasa porcentual. Desviación relativa omitida.",inventory index_t - inventory index_tminus1,inventories_index,1981,2019,39
+CHN,compensation,CNY_current,OECD.INCOME.D1,PUBLICADA_ALCANCE_DIFERENTE,"","","",1992,2023,32
+CHN,compensation_factor_share,percent_factor_GDP,DERIVADA,DERIVADA,China: coste de factores aproximado y excedente incluye renta mixta. No imponer suma 100.,100 * compensation / factor GDP,compensation;factor_gdp,1992,2023,32
+CHN,cpi,index_provider_base,WDI.FP.CPI.TOTL,PUBLICADA,"","","",1986,2023,38
+CHN,cpi_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),cpi,1986,2023,38
+CHN,deflator,index_provider_base,DERIVADA,DERIVADA,"",100 * GDP nominal / GDP real,gdp_nominal;gdp_real_national,1960,2023,64
+CHN,deflator_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),deflator,1960,2023,64
+CHN,demand_gap,percent_GDP,DERIVADA,DERIVADA,"Discrepancia conservada, sin ajuste.",100 - (C+I+G+X-M) shares,share_c;share_i;share_g;share_x;share_m,1952,2023,72
+CHN,depreciation_assets,percent,pwt110_capital,APROXIMACION,"CCF nominal / stock neto a coste corriente, cuatro activos. No dividir un índice de CCF por rnna.","","",1952,2023,72
+CHN,depreciation_pwt,percent,pwt110:delta,ESTIMACION_PWT,"","","",1952,2023,72
+CHN,employment_model,persons,DERIVADA,DERIVADA,"",labor force - modeled unemployed,labor_force;unemployment_model,1991,2023,33
+CHN,employment_pwt,persons,pwt110:emp,ESTIMACION_PWT,"","","",1952,2023,72
+CHN,employment_rate,percent_15plus,DERIVADA,DERIVADA,Tasa aproximada: combina activos modelizados con población WDI; no tasa EPA.,100 * employment_model / WDI population 15+,employment_model;pop_15plus,1991,2023,33
+CHN,equivalent_employment,persons_equivalent,DERIVADA,DERIVADA,"Aproximación docente, no FTE observado.",total hours / 1760,hours_total,1952,2023,72
+CHN,factor_gdp,CNY_current,ALT.gdp_factor_cost,APROXIMACION_DOCUMENTADA,"","","",1992,2023,32
+CHN,gdp_capital,ratio,DERIVADA,DERIVADA,"",GDP PWT / capital PWT,gdp_pwt;capital_pwt,1952,2023,72
+CHN,gdp_nominal,CNY_current,DERIVADA,DERIVADA,"",WDI GDP current,gdp_nominal_wdi,1960,2023,64
+CHN,gdp_nominal_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),gdp_nominal,1960,2023,64
+CHN,gdp_nominal_wdi,national_currency_provider_valuation,WDI.NY.GDP.MKTP.CN,PUBLICADA,"","","",1960,2023,64
+CHN,gdp_pc_national,USD_2021_national_per_person,DERIVADA,DERIVADA,"",PWT national-constant GDP / population,gdp_pwt;population_pwt,1952,2023,72
+CHN,gdp_pc_ppp,USD_2021_PPP_per_person,DERIVADA,DERIVADA,"",PWT expenditure-side PPP GDP / population,gdp_ppp;population_pwt,1952,2023,72
+CHN,gdp_ppp,million_USD_2021_PPP,pwt110:rgdpe,ESTIMACION_PWT,"","","",1952,2023,72
+CHN,gdp_pwt,million_USD_2021_national_constant,pwt110:rgdpna,ESTIMACION_PWT,"","","",1952,2023,72
+CHN,gdp_pwt_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),gdp_pwt,1952,2023,72
+CHN,gdp_real_national,CNY_constant_provider_base,DERIVADA,DERIVADA,"",WDI GDP volume,gdp_real_wdi,1960,2023,64
+CHN,gdp_real_national_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),gdp_real_national,1960,2023,64
+CHN,gdp_real_wdi,national_currency_provider_valuation,WDI.NY.GDP.MKTP.KN,PUBLICADA,"","","",1960,2023,64
+CHN,gini,index_0_100,WDI.SI.POV.GINI,PUBLICADA,"Encuesta de hogares, bienestar y años observados; no causalidad.","","",1981,2022,23
+CHN,growth_capital_pwt,percent_change,pwt110:rnna,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),capital_pwt,1953,2023,71
+CHN,growth_ccf_proxy,percent_change,pwt110_capital,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),ccf_proxy,1953,2023,71
+CHN,growth_cpi,percent_change,WDI.FP.CPI.TOTL,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),cpi,1987,2023,37
+CHN,growth_deflator,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),deflator,1961,2023,63
+CHN,growth_employment_model,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),employment_model,1992,2023,32
+CHN,growth_employment_pwt,percent_change,pwt110:emp,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),employment_pwt,1953,2023,71
+CHN,growth_gdp_nominal,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),gdp_nominal,1961,2023,63
+CHN,growth_gdp_pwt,percent_change,pwt110:rgdpna,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),gdp_pwt,1953,2023,71
+CHN,growth_gdp_real_national,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),gdp_real_national,1961,2023,63
+CHN,growth_hours_total,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),hours_total,1953,2023,71
+CHN,growth_labor_force,percent_change,WDI.SL.TLF.TOTL.IN,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),labor_force,1991,2023,33
+CHN,growth_na_q_c,percent_change,pwt110_na:q_c,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_c,1953,2023,71
+CHN,growth_na_q_g,percent_change,pwt110_na:q_g,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_g,1953,2023,71
+CHN,growth_na_q_gdp,percent_change,pwt110_na:q_gdp,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_gdp,1953,2023,71
+CHN,growth_na_q_gfcf,percent_change,pwt110_na:q_gfcf,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_gfcf,1971,2023,53
+CHN,growth_na_q_i,percent_change,pwt110_na:q_i,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_i,1953,2023,71
+CHN,growth_na_q_m,percent_change,pwt110_na:q_m,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_m,1953,2023,71
+CHN,growth_na_q_x,percent_change,pwt110_na:q_x,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_x,1953,2023,71
+CHN,growth_pop_0_14,percent_change,WDI.SP.POP.0014.TO,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),pop_0_14,1961,2023,63
+CHN,growth_productivity_hour,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),productivity_hour,1953,2023,71
+CHN,growth_productivity_worker,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),productivity_worker,1953,2023,71
+CHN,growth_productivity_worker_national,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),productivity_worker_national,1961,2023,63
+CHN,growth_unemployment_model,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),unemployment_model,1992,2023,32
+CHN,growth_wage_nominal,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),wage_nominal,1993,2023,31
+CHN,growth_wage_real,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),wage_real,1993,2023,31
+CHN,hours_average,hours_per_person_year,pwt110:avh,ESTIMACION_PWT,"","","",1952,2023,72
+CHN,hours_total,hours_year,DERIVADA,DERIVADA,"",PWT employed persons * average hours,employment_pwt;hours_average,1952,2023,72
+CHN,income_gdp,CNY_current,OECD.INCOME.B1GQ,PUBLICADA,"","","",1970,2023,54
+CHN,intermediate,CNY_current_scale_inferred,ALT.NBS.IO.INTERMEDIATE,ESCALA_INFERIDA_DOCUMENTADA,"","","",2023,2023,1
+CHN,intermediate_output_share,percent_output,DERIVADA,DERIVADA,"VAB, no PIB de mercado.",100 * intermediate / gross output,intermediate;output,2023,2023,1
+CHN,inventories,index_2008_100,ALT.INVENTORIES_REAL_INDEX,ALTERNATIVA_REAL_ALCANCE_PENDIENTE,"","","",1980,2019,40
+CHN,inventories_index,index_2008_abs100,DERIVADA,DERIVADA,Conserva signo del flujo; base en valor absoluto.,100 * value / abs(value_2008),inventories,1980,2019,40
+CHN,labor_force,persons,WDI.SL.TLF.TOTL.IN,MODELIZADA_OIT_WDI,"","","",1990,2023,34
+CHN,machinery_gross,native_PWT_current,pwt110_capital:Ic_Mach,ESTIMACION_PWT,"Maquinaria y equipo no de transporte; inversión y CCF a precios corrientes, no unidades físicas de máquinas.","","",1952,2023,72
+CHN,machinery_gross_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),machinery_gross,1952,2023,72
+CHN,machinery_replacement,native_PWT_current,pwt110_capital:Dc_Mach,ESTIMACION_PWT,"Maquinaria y equipo no de transporte; inversión y CCF a precios corrientes, no unidades físicas de máquinas.","","",1952,2023,72
+CHN,machinery_replacement_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),machinery_replacement,1952,2023,72
+CHN,machinery_replacement_share,percent_gross_machinery_investment,DERIVADA,DERIVADA,Magnitudes nominales de maquinaria y equipo; el CCF no observa compras de reposición.,100 * Dc_Mach / Ic_Mach,machinery_replacement;machinery_gross,1952,2023,72
+CHN,na_q_c,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_c,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_q_c_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_c,1952,2023,72
+CHN,na_q_g,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_g,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_q_g_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_g,1952,2023,72
+CHN,na_q_gdp,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_gdp,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_q_gdp_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_gdp,1952,2023,72
+CHN,na_q_gfcf,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_gfcf,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1970,2023,54
+CHN,na_q_gfcf_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_gfcf,1970,2023,54
+CHN,na_q_i,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_i,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_q_i_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_i,1952,2023,72
+CHN,na_q_m,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_m,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_q_m_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_m,1952,2023,72
+CHN,na_q_x,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_x,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_q_x_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_x,1952,2023,72
+CHN,na_v_c,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_c,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_v_g,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_g,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_v_gdp,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_gdp,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_v_i,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_i,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_v_m,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_m,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,na_v_x,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_x,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1952,2023,72
+CHN,output,CNY_current_scale_inferred,ALT.NBS.IO.OUTPUT,ESCALA_INFERIDA_DOCUMENTADA,"","","",2023,2023,1
+CHN,pop_0_14,persons,WDI.SP.POP.0014.TO,PUBLICADA,"","","",1960,2023,64
+CHN,pop_0_14_share,percent_population,DERIVADA,DERIVADA,"",100 * pop_0_14 / population,pop_0_14;population,1960,2023,64
+CHN,pop_15_64,persons,DERIVADA,DERIVADA,"",population 15+ - 65+,pop_15plus;pop_65plus,1960,2023,64
+CHN,pop_15plus,persons,DERIVADA,DERIVADA,"",population - age 0–14,population;pop_0_14,1960,2023,64
+CHN,pop_15plus_share,percent_population,DERIVADA,DERIVADA,"",100 * pop_15plus / population,pop_15plus;population,1960,2023,64
+CHN,pop_65plus,persons,WDI.SP.POP.65UP.TO,PUBLICADA,"","","",1960,2023,64
+CHN,pop_65plus_share,percent_population,DERIVADA,DERIVADA,"",100 * pop_65plus / population,pop_65plus;population,1960,2023,64
+CHN,population,persons,WDI.SP.POP.TOTL,PUBLICADA,"","","",1960,2023,64
+CHN,population_pwt,persons,pwt110:pop,ESTIMACION_PWT,"","","",1952,2023,72
+CHN,productivity_hour,USD_2021_national_per_hour,DERIVADA,DERIVADA,"",GDP PWT * 1e6 / total hours,gdp_pwt;hours_total,1952,2023,72
+CHN,productivity_hour_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),productivity_hour,1952,2023,72
+CHN,productivity_worker,USD_2021_national_per_worker,DERIVADA,DERIVADA,"",GDP PWT * 1e6 / employed persons,gdp_pwt;employment_pwt,1952,2023,72
+CHN,productivity_worker_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),productivity_worker,1952,2023,72
+CHN,productivity_worker_national,national_constant_currency_per_worker,DERIVADA,DERIVADA,Base nacional para comparar evolución de productividad y remuneración real del tema 3.,national real GDP / PWT employed persons,gdp_real_national;employment_pwt,1960,2023,64
+CHN,registered_unemployment,persons,NBS.REGISTERED_UNEMPLOYED.URBAN,ALTERNATIVA_NBS_COBERTURA_LIMITADA,"","","",2020,2023,4
+CHN,share_c,percent_GDP,DERIVADA,DERIVADA,"Participación nominal, no suma de volúmenes. Importaciones se muestran positivas y se restan al cerrar PIB.",100 * NA.v_c / NA.v_gdp,na_v_c;na_v_gdp,1952,2023,72
+CHN,share_g,percent_GDP,DERIVADA,DERIVADA,"Participación nominal, no suma de volúmenes. Importaciones se muestran positivas y se restan al cerrar PIB.",100 * NA.v_g / NA.v_gdp,na_v_g;na_v_gdp,1952,2023,72
+CHN,share_i,percent_GDP,DERIVADA,DERIVADA,"Participación nominal, no suma de volúmenes. Importaciones se muestran positivas y se restan al cerrar PIB.",100 * NA.v_i / NA.v_gdp,na_v_i;na_v_gdp,1952,2023,72
+CHN,share_m,percent_GDP,DERIVADA,DERIVADA,"Participación nominal, no suma de volúmenes. Importaciones se muestran positivas y se restan al cerrar PIB.",100 * NA.v_m / NA.v_gdp,na_v_m;na_v_gdp,1952,2023,72
+CHN,share_x,percent_GDP,DERIVADA,DERIVADA,"Participación nominal, no suma de volúmenes. Importaciones se muestran positivas y se restan al cerrar PIB.",100 * NA.v_x / NA.v_gdp,na_v_x;na_v_gdp,1952,2023,72
+CHN,subsidies,CNY_current,ALT.NBS.PRICE_SUBSIDIES,ALTERNATIVA_FISCAL_PARCIAL,"","","",1978,2006,20
+CHN,surplus,CNY_current,OECD.INCOME.B2A3G,PUBLICADA_ALCANCE_DIFERENTE,"","","",1992,2021,30
+CHN,surplus_factor_share,percent_factor_GDP,DERIVADA,DERIVADA,China: coste de factores aproximado y excedente incluye renta mixta. No imponer suma 100.,100 * surplus / factor GDP,surplus;factor_gdp,1992,2021,30
+CHN,survey_unemployment,persons,ILO.UNE_TUNE_SEX_AGE_NB.BA:16044,PUBLICADA_UNIVERSO_NACIONAL,"","","",2016,2022,7
+CHN,tax_net,CNY_current,ALT.tax_net_oecd,APROXIMACION_DOCUMENTADA,"","","",1992,2023,32
+CHN,unemployment_model,persons,DERIVADA,DERIVADA,Derivación para comparación común; no encuesta nacional ni paro registrado.,labor force * modeled unemployment rate / 100,labor_force;unemployment_rate_model,1991,2023,33
+CHN,unemployment_rate_model,percent,WDI.SL.UEM.TOTL.ZS,MODELIZADA_OIT_WDI,"","","",1991,2023,33
+CHN,value_added,CNY_current_scale_inferred,ALT.NBS.IO.VALUE_ADDED,ESCALA_INFERIDA_DOCUMENTADA,"","","",2023,2023,1
+CHN,value_added_output_share,percent_output,DERIVADA,DERIVADA,"VAB, no PIB de mercado.",100 * value_added / gross output,value_added;output,2023,2023,1
+CHN,wage_nominal,CNY_per_employed_year,DERIVADA,APROXIMACION_POR_OCUPADO,"Promedio por ocupado, incluidos autónomos en el denominador. No salario por asalariado; numerador nacional y empleo PWT combinados explícitamente.",National D1 / PWT employed persons,compensation;employment_pwt,1992,2023,32
+CHN,wage_nominal_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),wage_nominal,1992,2023,32
+CHN,wage_real,national_currency_2008_per_employed_year,DERIVADA,APROXIMACION_POR_OCUPADO,"Poder adquisitivo medido con deflactor del PIB, no con IPC.",nominal D1 per employed / (GDP deflator 2008=100 / 100),wage_nominal;deflator_index,1992,2023,32
+CHN,wage_real_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),wage_real,1992,2023,32
+ESP,activity_rate,percent_15plus,DERIVADA,DERIVADA,Tasa aproximada: combina activos modelizados con población WDI; no tasa EPA.,100 * labor_force / WDI population 15+,labor_force;pop_15plus,1990,2023,34
+ESP,capital_hour,USD_2021_national_per_hour,DERIVADA,DERIVADA,"",capital PWT * 1e6 / total hours,capital_pwt;hours_total,1950,2023,74
+ESP,capital_hour_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),capital_hour,1950,2023,74
+ESP,capital_pwt,million_USD_2021_national_constant,pwt110:rnna,ESTIMACION_PWT,"","","",1950,2023,74
+ESP,capital_pwt_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),capital_pwt,1950,2023,74
+ESP,capital_worker,USD_2021_national_per_worker,DERIVADA,DERIVADA,"",capital PWT * 1e6 / employed persons,capital_pwt;employment_pwt,1950,2023,74
+ESP,capital_worker_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),capital_worker,1950,2023,74
+ESP,ccf_proxy,native_PWT_real_proxy,pwt110_capital,APROXIMACION,"ΣDc/Np por cuatro activos; deflactores del stock, no específicos de CCF.","","",1950,2023,74
+ESP,ccf_proxy_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),ccf_proxy,1950,2023,74
+ESP,change_inventories,index_points_change,DERIVADA,ADAPTACION_FLUJO,"Cambio del flujo escalado, no tasa porcentual. Desviación relativa omitida.",inventory index_t - inventory index_tminus1,inventories_index,1961,2023,63
+ESP,compensation,EUR_current,ESP.1.0.0.0.UWCD,ACEPTADA_REVISION_MANUAL,"","","",1960,2023,64
+ESP,compensation_factor_share,percent_factor_GDP,DERIVADA,DERIVADA,China: coste de factores aproximado y excedente incluye renta mixta. No imponer suma 100.,100 * compensation / factor GDP,compensation;factor_gdp,1960,2023,64
+ESP,cpi,index_provider_base,WDI.FP.CPI.TOTL,PUBLICADA,"","","",1960,2023,64
+ESP,cpi_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),cpi,1960,2023,64
+ESP,deflator,index_provider_base,DERIVADA,DERIVADA,"",100 * GDP nominal / GDP real,gdp_nominal;gdp_real_national,1960,2023,64
+ESP,deflator_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),deflator,1960,2023,64
+ESP,demand_gap,percent_GDP,DERIVADA,DERIVADA,"Discrepancia conservada, sin ajuste.",100 - (C+I+G+X-M) shares,share_c;share_i;share_g;share_x;share_m,1950,2023,74
+ESP,depreciation_assets,percent,pwt110_capital,APROXIMACION,"CCF nominal / stock neto a coste corriente, cuatro activos. No dividir un índice de CCF por rnna.","","",1950,2023,74
+ESP,depreciation_pwt,percent,pwt110:delta,ESTIMACION_PWT,"","","",1950,2023,74
+ESP,employment_model,persons,DERIVADA,DERIVADA,"",labor force - modeled unemployed,labor_force;unemployment_model,1991,2023,33
+ESP,employment_pwt,persons,pwt110:emp,ESTIMACION_PWT,"","","",1950,2023,74
+ESP,employment_rate,percent_15plus,DERIVADA,DERIVADA,Tasa aproximada: combina activos modelizados con población WDI; no tasa EPA.,100 * employment_model / WDI population 15+,employment_model;pop_15plus,1991,2023,33
+ESP,equivalent_employment,persons_equivalent,DERIVADA,DERIVADA,"Aproximación docente, no FTE observado.",total hours / 1760,hours_total,1950,2023,74
+ESP,factor_gdp,EUR_current,ESP.1.0.0.0.UYGD,ACEPTADA_REVISION_MANUAL,"","","",1960,2023,64
+ESP,gdp_capital,ratio,DERIVADA,DERIVADA,"",GDP PWT / capital PWT,gdp_pwt;capital_pwt,1950,2023,74
+ESP,gdp_nominal,EUR_current,ESP.1.0.0.0.UVGD,ACEPTADA_COINCIDENCIA_NUMERICA,"","","",1960,2023,64
+ESP,gdp_nominal_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),gdp_nominal,1960,2023,64
+ESP,gdp_nominal_wdi,national_currency_provider_valuation,WDI.NY.GDP.MKTP.CN,PUBLICADA,"","","",1960,2023,64
+ESP,gdp_pc_national,USD_2021_national_per_person,DERIVADA,DERIVADA,"",PWT national-constant GDP / population,gdp_pwt;population_pwt,1950,2023,74
+ESP,gdp_pc_ppp,USD_2021_PPP_per_person,DERIVADA,DERIVADA,"",PWT expenditure-side PPP GDP / population,gdp_ppp;population_pwt,1950,2023,74
+ESP,gdp_ppp,million_USD_2021_PPP,pwt110:rgdpe,ESTIMACION_PWT,"","","",1950,2023,74
+ESP,gdp_pwt,million_USD_2021_national_constant,pwt110:rgdpna,ESTIMACION_PWT,"","","",1950,2023,74
+ESP,gdp_pwt_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),gdp_pwt,1950,2023,74
+ESP,gdp_real_national,EUR_constant_2020,ESP.1.1.0.0.OVGD,ACEPTADA_COINCIDENCIA_NUMERICA,"","","",1960,2023,64
+ESP,gdp_real_national_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),gdp_real_national,1960,2023,64
+ESP,gdp_real_wdi,national_currency_provider_valuation,WDI.NY.GDP.MKTP.KN,PUBLICADA,"","","",1960,2023,64
+ESP,gini,index_0_100,WDI.SI.POV.GINI,PUBLICADA,"Encuesta de hogares, bienestar y años observados; no causalidad.","","",1980,2023,32
+ESP,growth_capital_pwt,percent_change,pwt110:rnna,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),capital_pwt,1951,2023,73
+ESP,growth_ccf_proxy,percent_change,pwt110_capital,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),ccf_proxy,1951,2023,73
+ESP,growth_cpi,percent_change,WDI.FP.CPI.TOTL,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),cpi,1961,2023,63
+ESP,growth_deflator,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),deflator,1961,2023,63
+ESP,growth_employment_model,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),employment_model,1992,2023,32
+ESP,growth_employment_pwt,percent_change,pwt110:emp,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),employment_pwt,1951,2023,73
+ESP,growth_gdp_nominal,percent_change,ESP.1.0.0.0.UVGD,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),gdp_nominal,1961,2023,63
+ESP,growth_gdp_pwt,percent_change,pwt110:rgdpna,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),gdp_pwt,1951,2023,73
+ESP,growth_gdp_real_national,percent_change,ESP.1.1.0.0.OVGD,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),gdp_real_national,1961,2023,63
+ESP,growth_hours_total,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),hours_total,1951,2023,73
+ESP,growth_labor_force,percent_change,WDI.SL.TLF.TOTL.IN,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),labor_force,1991,2023,33
+ESP,growth_na_q_c,percent_change,pwt110_na:q_c,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_c,1951,2023,73
+ESP,growth_na_q_g,percent_change,pwt110_na:q_g,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_g,1951,2023,73
+ESP,growth_na_q_gdp,percent_change,pwt110_na:q_gdp,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_gdp,1951,2023,73
+ESP,growth_na_q_gfcf,percent_change,pwt110_na:q_gfcf,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_gfcf,1971,2023,53
+ESP,growth_na_q_i,percent_change,pwt110_na:q_i,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_i,1951,2023,73
+ESP,growth_na_q_m,percent_change,pwt110_na:q_m,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_m,1951,2023,73
+ESP,growth_na_q_x,percent_change,pwt110_na:q_x,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),na_q_x,1951,2023,73
+ESP,growth_pop_0_14,percent_change,WDI.SP.POP.0014.TO,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),pop_0_14,1961,2023,63
+ESP,growth_productivity_hour,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),productivity_hour,1951,2023,73
+ESP,growth_productivity_worker,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),productivity_worker,1951,2023,73
+ESP,growth_productivity_worker_national,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),productivity_worker_national,1961,2023,63
+ESP,growth_unemployment_model,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),unemployment_model,1992,2023,32
+ESP,growth_wage_nominal,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),wage_nominal,1961,2023,63
+ESP,growth_wage_real,percent_change,DERIVADA,DERIVADA,Años consecutivos observados y valores positivos.,100 * (x_t / x_tminus1 - 1),wage_real,1961,2023,63
+ESP,hours_average,hours_per_person_year,pwt110:avh,ESTIMACION_PWT,"","","",1950,2023,74
+ESP,hours_total,hours_year,DERIVADA,DERIVADA,"",PWT employed persons * average hours,employment_pwt;hours_average,1950,2023,74
+ESP,income_gdp,EUR_current,DERIVADA,DERIVADA,"",AMECO GDP,gdp_nominal,1960,2023,64
+ESP,intermediate,EUR_current,INE.CEI.P2,ACEPTADA_CONCEPTO_Y_FUENTE,"","","",1995,2023,29
+ESP,intermediate_output_share,percent_output,DERIVADA,DERIVADA,"VAB, no PIB de mercado.",100 * intermediate / gross output,intermediate;output,1995,2023,29
+ESP,inventories,EUR_constant_2020,ESP.1.0.0.0.OIST,ACEPTADA_COINCIDENCIA_NUMERICA,"","","",1960,2023,64
+ESP,inventories_index,index_2008_abs100,DERIVADA,DERIVADA,Conserva signo del flujo; base en valor absoluto.,100 * value / abs(value_2008),inventories,1960,2023,64
+ESP,labor_force,persons,WDI.SL.TLF.TOTL.IN,MODELIZADA_OIT_WDI,"","","",1990,2023,34
+ESP,machinery_gross,native_PWT_current,pwt110_capital:Ic_Mach,ESTIMACION_PWT,"Maquinaria y equipo no de transporte; inversión y CCF a precios corrientes, no unidades físicas de máquinas.","","",1950,2023,74
+ESP,machinery_gross_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),machinery_gross,1950,2023,74
+ESP,machinery_replacement,native_PWT_current,pwt110_capital:Dc_Mach,ESTIMACION_PWT,"Maquinaria y equipo no de transporte; inversión y CCF a precios corrientes, no unidades físicas de máquinas.","","",1950,2023,74
+ESP,machinery_replacement_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),machinery_replacement,1950,2023,74
+ESP,machinery_replacement_share,percent_gross_machinery_investment,DERIVADA,DERIVADA,Magnitudes nominales de maquinaria y equipo; el CCF no observa compras de reposición.,100 * Dc_Mach / Ic_Mach,machinery_replacement;machinery_gross,1950,2023,74
+ESP,na_q_c,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_c,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_q_c_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_c,1950,2023,74
+ESP,na_q_g,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_g,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_q_g_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_g,1950,2023,74
+ESP,na_q_gdp,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_gdp,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_q_gdp_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_gdp,1950,2023,74
+ESP,na_q_gfcf,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_gfcf,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1970,2023,54
+ESP,na_q_gfcf_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_gfcf,1970,2023,54
+ESP,na_q_i,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_i,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_q_i_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_i,1950,2023,74
+ESP,na_q_m,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_m,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_q_m_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_m,1950,2023,74
+ESP,na_q_x,native_PWT_NA_scale_not_used_for_levels,pwt110_na:q_x,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_q_x_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),na_q_x,1950,2023,74
+ESP,na_v_c,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_c,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_v_g,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_g,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_v_gdp,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_gdp,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_v_i,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_i,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_v_m,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_m,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,na_v_x,native_PWT_NA_scale_not_used_for_levels,pwt110_na:v_x,ESTIMACION_PWT,"Solo índices, tasas y cocientes internos; no se afirma escala monetaria.","","",1950,2023,74
+ESP,output,EUR_current,INE.CEI.P1,ACEPTADA_CONCEPTO_Y_FUENTE,"","","",1995,2023,29
+ESP,pop_0_14,persons,WDI.SP.POP.0014.TO,PUBLICADA,"","","",1960,2023,64
+ESP,pop_0_14_share,percent_population,DERIVADA,DERIVADA,"",100 * pop_0_14 / population,pop_0_14;population,1960,2023,64
+ESP,pop_15_64,persons,DERIVADA,DERIVADA,"",population 15+ - 65+,pop_15plus;pop_65plus,1960,2023,64
+ESP,pop_15plus,persons,DERIVADA,DERIVADA,"",population - age 0–14,population;pop_0_14,1960,2023,64
+ESP,pop_15plus_share,percent_population,DERIVADA,DERIVADA,"",100 * pop_15plus / population,pop_15plus;population,1960,2023,64
+ESP,pop_65plus,persons,WDI.SP.POP.65UP.TO,PUBLICADA,"","","",1960,2023,64
+ESP,pop_65plus_share,percent_population,DERIVADA,DERIVADA,"",100 * pop_65plus / population,pop_65plus;population,1960,2023,64
+ESP,population,persons,WDI.SP.POP.TOTL,PUBLICADA,"","","",1960,2023,64
+ESP,population_pwt,persons,pwt110:pop,ESTIMACION_PWT,"","","",1950,2023,74
+ESP,productivity_hour,USD_2021_national_per_hour,DERIVADA,DERIVADA,"",GDP PWT * 1e6 / total hours,gdp_pwt;hours_total,1950,2023,74
+ESP,productivity_hour_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),productivity_hour,1950,2023,74
+ESP,productivity_worker,USD_2021_national_per_worker,DERIVADA,DERIVADA,"",GDP PWT * 1e6 / employed persons,gdp_pwt;employment_pwt,1950,2023,74
+ESP,productivity_worker_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),productivity_worker,1950,2023,74
+ESP,productivity_worker_national,national_constant_currency_per_worker,DERIVADA,DERIVADA,Base nacional para comparar evolución de productividad y remuneración real del tema 3.,national real GDP / PWT employed persons,gdp_real_national;employment_pwt,1960,2023,64
+ESP,registered_unemployment,persons,SEPE.REGISTERED.UNEMPLOYED.ANNUAL_MEAN,ACEPTADA_FUENTE_OFICIAL,"","","",2001,2023,23
+ESP,share_c,percent_GDP,DERIVADA,DERIVADA,"Participación nominal, no suma de volúmenes. Importaciones se muestran positivas y se restan al cerrar PIB.",100 * NA.v_c / NA.v_gdp,na_v_c;na_v_gdp,1950,2023,74
+ESP,share_g,percent_GDP,DERIVADA,DERIVADA,"Participación nominal, no suma de volúmenes. Importaciones se muestran positivas y se restan al cerrar PIB.",100 * NA.v_g / NA.v_gdp,na_v_g;na_v_gdp,1950,2023,74
+ESP,share_i,percent_GDP,DERIVADA,DERIVADA,"Participación nominal, no suma de volúmenes. Importaciones se muestran positivas y se restan al cerrar PIB.",100 * NA.v_i / NA.v_gdp,na_v_i;na_v_gdp,1950,2023,74
+ESP,share_m,percent_GDP,DERIVADA,DERIVADA,"Participación nominal, no suma de volúmenes. Importaciones se muestran positivas y se restan al cerrar PIB.",100 * NA.v_m / NA.v_gdp,na_v_m;na_v_gdp,1950,2023,74
+ESP,share_x,percent_GDP,DERIVADA,DERIVADA,"Participación nominal, no suma de volúmenes. Importaciones se muestran positivas y se restan al cerrar PIB.",100 * NA.v_x / NA.v_gdp,na_v_x;na_v_gdp,1950,2023,74
+ESP,subsidies,EUR_current,ESP.1.0.0.0.UYVT,ACEPTADA_REVISION_MANUAL,"","","",1960,2023,64
+ESP,surplus,EUR_current,ESP.1.0.0.0.UOGD,ACEPTADA_REVISION_MANUAL,"","","",1960,2023,64
+ESP,surplus_factor_share,percent_factor_GDP,DERIVADA,DERIVADA,China: coste de factores aproximado y excedente incluye renta mixta. No imponer suma 100.,100 * surplus / factor GDP,surplus;factor_gdp,1960,2023,64
+ESP,survey_unemployment,persons,INE.EPA.ANNUAL.PARADOS,ACEPTADA_FUENTE_INE_ACTUAL,"","","",2006,2023,18
+ESP,tax_gross,EUR_current,ESP.1.0.0.0.UTVT,ACEPTADA_REVISION_MANUAL,"","","",1960,2023,64
+ESP,tax_net,EUR_current,DERIVADA,DERIVADA,"",D2 - D3,tax_gross;subsidies,1960,2023,64
+ESP,unemployment_model,persons,DERIVADA,DERIVADA,Derivación para comparación común; no encuesta nacional ni paro registrado.,labor force * modeled unemployment rate / 100,labor_force;unemployment_rate_model,1991,2023,33
+ESP,unemployment_rate_model,percent,WDI.SL.UEM.TOTL.ZS,MODELIZADA_OIT_WDI,"","","",1991,2023,33
+ESP,value_added,EUR_current,INE.CEI.B1G,ACEPTADA_CONCEPTO_Y_FUENTE,"","","",1995,2023,29
+ESP,value_added_output_share,percent_output,DERIVADA,DERIVADA,"VAB, no PIB de mercado.",100 * value_added / gross output,value_added;output,1995,2023,29
+ESP,wage_nominal,EUR_per_employed_year,DERIVADA,APROXIMACION_POR_OCUPADO,"Promedio por ocupado, incluidos autónomos en el denominador. No salario por asalariado; numerador nacional y empleo PWT combinados explícitamente.",National D1 / PWT employed persons,compensation;employment_pwt,1960,2023,64
+ESP,wage_nominal_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),wage_nominal,1960,2023,64
+ESP,wage_real,national_currency_2008_per_employed_year,DERIVADA,APROXIMACION_POR_OCUPADO,"Poder adquisitivo medido con deflactor del PIB, no con IPC.",nominal D1 per employed / (GDP deflator 2008=100 / 100),wage_nominal;deflator_index,1960,2023,64
+ESP,wage_real_index,index_2008_100,DERIVADA,DERIVADA,La escala monetaria constante se cancela.,100 * value / (value_2008),wage_real,1960,2023,64

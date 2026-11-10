@@ -1,0 +1,17 @@
+{
+  "title": "Industrial Policy in China: Quantification and Impact on Misallocation",
+  "publication": "IMF Working Paper 2025/155, Figure 4 and accompanying text",
+  "source_url": "https://www.elibrary.imf.org/abstract/journals/001/2025/155/article-A001-en.xml",
+  "observations": [
+    {
+      "year": 2023,
+      "value": 2.0,
+      "unit": "percent_GDP",
+      "concept": "Cash subsidies to nonfinancial firms, IMF staff estimate"
+    }
+  ],
+  "method": "Listed-firm results extrapolated to all nonfinancial firms; correction for disproportionate corporate income tax revenue share. Rounded estimate in published text.",
+  "limits": "Not SNA D3; not official national accounts. Full Figure 3.1.1 annual workbook located in WEO October 2025 but all direct HTTP downloads returned 403. No graph digitization or inferred annual values.",
+  "workbook_url": "https://www.imf.org/-/media/files/publications/weo/2025/october/data/ch3data.xlsx",
+  "retrieved_via": "web search readable excerpt of primary IMF publication; structured extraction, not original HTTP bytes"
+}

@@ -1,0 +1,18 @@
+codelist,code,label
+CL_PRICES,D,Deflator
+CL_PRICES,DR,Deflator (rebased)
+CL_PRICES,L,Chain linked volume
+CL_PRICES,LR,Chain linked volume (rebased)
+CL_PRICES,O,Previous year’s replacement cost
+CL_PRICES,Q,Constant prices
+CL_PRICES,QR,Constant prices (rebased)
+CL_PRICES,R,Real terms
+CL_PRICES,RR,Real terms (rebased)
+CL_PRICES,U,Current replacement cost
+CL_PRICES,V,Current prices
+CL_PRICES,VQ,Current prices (constant converter)
+CL_PRICES,Y,Previous year prices
+CL_PRICES,_Z,Not applicable
+CL_TRANSACTION,P5M,Changes in inventories and acquisitions less disposals of valuables
+CL_TRANSACTION,P52,Changes in inventories
+CL_TRANSACTION,P53,Acquisitions less disposals of valuables

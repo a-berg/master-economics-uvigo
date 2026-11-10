@@ -1,0 +1,68 @@
+[
+  {
+    "id": "china_inventory_search_oecd_structure_20261102",
+    "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NAMAIN10@DF_TABLE1_EXPENDITURE/2.0?references=all",
+    "format": "xml",
+    "provider": "research",
+    "publication_date": null,
+    "purpose": "P52+P53 before P52; candidate only",
+    "artifact": "datos/bronze/china_inventory_search_oecd_structure_20261102/20261102T125650528969Z_a38f754603e7.xml",
+    "sha256": "a38f754603e72b5ddda86ca041dffce0272b8d6379497913145e42ae1cdb7dcf",
+    "size_bytes": 4183569,
+    "accessed_at_utc": "2026-11-02T12:56:50.529782+00:00",
+    "content_type": "application/vnd.sdmx.structure+xml; version=2.1; charset=utf-8",
+    "provider_updated_at": null
+  },
+  {
+    "id": "china_inventory_search_oecd_p5m_20261102",
+    "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.SDD.NAD,DSD_NAMAIN10@DF_TABLE1_EXPENDITURE,2.0/A.CHN...P5M.......?format=csvfile",
+    "format": "csv",
+    "provider": "research",
+    "publication_date": null,
+    "purpose": "P52+P53 before P52; candidate only",
+    "artifact": "datos/bronze/china_inventory_search_oecd_p5m_20261102/20261102T125748528662Z_c28dfde2a050.csv",
+    "sha256": "c28dfde2a050853e50c48085dd792845d8d3b9237d41dc269ddad3edc17a3666",
+    "size_bytes": 34896,
+    "accessed_at_utc": "2026-11-02T12:57:48.528968+00:00",
+    "content_type": "application/vnd.sdmx.data+csv; charset=utf-8",
+    "provider_updated_at": null
+  },
+  {
+    "id": "china_inventory_search_oecd_p52_20261102",
+    "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.SDD.NAD,DSD_NAMAIN10@DF_TABLE1_EXPENDITURE,2.0/A.CHN...P52.......?format=csvfile",
+    "format": "csv",
+    "provider": "research",
+    "publication_date": null,
+    "purpose": "P52+P53 before P52; candidate only",
+    "artifact": "datos/bronze/china_inventory_search_oecd_p52_20261102/20261102T125825221933Z_ceb85063b649.csv",
+    "sha256": "ceb85063b6496abf3de39bf57a777bbae7e0c38f0bffcb7c6cd58bb0c0212115",
+    "size_bytes": 34896,
+    "accessed_at_utc": "2026-11-02T12:58:25.222157+00:00",
+    "content_type": "application/vnd.sdmx.data+csv; charset=utf-8",
+    "provider_updated_at": null
+  },
+  {
+    "id": "china_inventory_search_fred_table_extract_20261102",
+    "artifact": "datos/bronze/china_inventory_search_fred_table_extract_20261102/published_table_extraction.json",
+    "sha256": "137db0e7068e19dac7810505e9f23bab35025b358d92600ba06a61f5edeb5888",
+    "url": "https://fred.stlouisfed.org/data/NINVRXDCCNA",
+    "accessed_at_utc": "2026-11-02T13:00:42.372369+00:00",
+    "retrieval_method": "web.run readable primary-source table; numeric transcription",
+    "artifact_kind": "structured_extraction_NOT_original_HTTP_bytes",
+    "limit": "Direct Python HTML and CSV downloads timed out; this artifact preserves the published data and metadata extracted via browser search tool, not original HTML. Base and currency multiplier unspecified; candidate only."
+  },
+  {
+    "id": "china_inventory_search_wdi_real_20261102",
+    "url": "https://api.worldbank.org/v2/country/CHN/indicator/NE.GDI.STKB.KN?source=2&format=json&per_page=20000",
+    "format": "json",
+    "provider": "research",
+    "publication_date": null,
+    "purpose": "P52+P53 before P52; candidate only",
+    "artifact": "datos/bronze/china_inventory_search_wdi_real_20261102/20261102T125830882137Z_0318132f3e33.json",
+    "sha256": "0318132f3e335a0ba1dfe597156f8a35f1119420b3c63fa5c1effd106e498b4c",
+    "size_bytes": 14152,
+    "accessed_at_utc": "2026-11-02T12:58:30.882437+00:00",
+    "content_type": "application/json;charset=utf-8",
+    "provider_updated_at": "2026-10-08"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "indicators": 259,
+  "observations": 15759,
+  "figures": 38,
+  "tables": 21,
+  "reused": 8,
+  "requirements": 27,
+  "requirements_status": [
+    {
+      "status": "ADAPTADO",
+      "len": 17
+    },
+    {
+      "status": "PARCIAL",
+      "len": 2
+    },
+    {
+      "status": "PREPARADO",
+      "len": 8
+    }
+  ],
+  "comparison_period": [
+    1990,
+    2023
+  ],
+  "growth_period": [
+    1960,
+    2023
+  ],
+  "exact_data_complete": false,
+  "report_written": false,
+  "missing_values_filled": false,
+  "source_files_modified": false
+}

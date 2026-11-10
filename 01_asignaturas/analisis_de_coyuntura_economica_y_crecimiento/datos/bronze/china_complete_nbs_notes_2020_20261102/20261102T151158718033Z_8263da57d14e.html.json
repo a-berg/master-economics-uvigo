@@ -1,0 +1,14 @@
+{
+  "id": "china_complete_nbs_notes_2020_20261102",
+  "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/zbe03.htm",
+  "format": "html",
+  "provider": "nbs",
+  "publication_date": null,
+  "purpose": "Remaining concepts; practical documented alternatives",
+  "artifact": "datos/bronze/china_complete_nbs_notes_2020_20261102/20261102T151158718033Z_8263da57d14e.html",
+  "sha256": "8263da57d14e93bb376388d118356a3d5688ec766ee2ccd7c1f8357061e2a0cd",
+  "size_bytes": 35951,
+  "accessed_at_utc": "2026-11-02T15:11:58.718450+00:00",
+  "content_type": "text/html",
+  "provider_updated_at": null
+}

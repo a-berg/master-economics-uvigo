@@ -1,0 +1,13 @@
+source,transaction,UNIT_MEASURE,PRICE_BASE,first,last,n,decision,reason
+OECD,P5M,USD_EXC,V,1970,2024,55,RECHAZADA_COMO_REAL,"Precios corrientes, incluido VQ; no volumen nacional"
+OECD,P5M,USD_EXC,VQ,1970,2024,55,RECHAZADA_COMO_REAL,"Precios corrientes, incluido VQ; no volumen nacional"
+OECD,P5M,USD_PPP,V,1970,2024,55,RECHAZADA_COMO_REAL,"Precios corrientes, incluido VQ; no volumen nacional"
+OECD,P5M,USD_PPP,VQ,1970,2024,55,RECHAZADA_COMO_REAL,"Precios corrientes, incluido VQ; no volumen nacional"
+OECD,P5M,XDC,V,1970,2024,55,RECHAZADA_COMO_REAL,"Precios corrientes, incluido VQ; no volumen nacional"
+OECD,P52,USD_EXC,V,1970,2024,55,RECHAZADA_COMO_REAL,"Precios corrientes, incluido VQ; no volumen nacional"
+OECD,P52,USD_EXC,VQ,1970,2024,55,RECHAZADA_COMO_REAL,"Precios corrientes, incluido VQ; no volumen nacional"
+OECD,P52,USD_PPP,V,1970,2024,55,RECHAZADA_COMO_REAL,"Precios corrientes, incluido VQ; no volumen nacional"
+OECD,P52,USD_PPP,VQ,1970,2024,55,RECHAZADA_COMO_REAL,"Precios corrientes, incluido VQ; no volumen nacional"
+OECD,P52,XDC,V,1970,2024,55,RECHAZADA_COMO_REAL,"Precios corrientes, incluido VQ; no volumen nacional"
+IMF via FRED,P52_LIKE,Domestic Currency,REAL_BASE_UNSPECIFIED,1980,2019,40,CANDIDATA_REAL_NO_INTEGRADA,"Faltan base, escala y correspondencia expresa P52; histórica, no independencia acreditada"
+WDI,NE.GDI.STKB.KN,constant LCU,constant,,,0,SIN_VALORES_EN_CONSULTA,No demuestra ausencia universal

@@ -1,0 +1,14 @@
+{
+  "id": "china_inventory_search_oecd_structure_20261102",
+  "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NAMAIN10@DF_TABLE1_EXPENDITURE/2.0?references=all",
+  "format": "xml",
+  "provider": "research",
+  "publication_date": null,
+  "purpose": "P52+P53 before P52; candidate only",
+  "artifact": "datos/bronze/china_inventory_search_oecd_structure_20261102/20261102T125650528969Z_a38f754603e7.xml",
+  "sha256": "a38f754603e72b5ddda86ca041dffce0272b8d6379497913145e42ae1cdb7dcf",
+  "size_bytes": 4183569,
+  "accessed_at_utc": "2026-11-02T12:56:50.529782+00:00",
+  "content_type": "application/vnd.sdmx.structure+xml; version=2.1; charset=utf-8",
+  "provider_updated_at": null
+}
